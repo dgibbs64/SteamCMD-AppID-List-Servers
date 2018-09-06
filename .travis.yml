@@ -1,0 +1,27 @@
+language: bash node_js
+dist: trusty
+sudo: required
+
+addons:
+  apt:
+    sources:
+    - ubuntu-toolchain-r-test
+    packages:
+    - lib32gcc1
+    - libstdc++6
+    - libstdc++6:i386
+    - git
+    - jq
+
+install:
+  - npm install -g markdown-table-cli
+
+script:
+  - bash ./steamcmd_appid.sh
+
+after_success:
+  - .travis/push.sh
+
+env:
+  global:
+    secure: "POwisQ54gLMdjUtydztu6j4mK5Dxf0E3HEvaVj4uZZ3Bj0AAdLeTOTS1r1edf3ZUpu3GEBJn+AXctkRJjUTsNOZaUCTMJK8cU7DdhG00WzcG0yjuEthGtlhXZ7PEhIWo6W5sqtQ55LKa+3NaLaraMnCvYVB/D9/BQeVMBu0HvIV+E5b0p3ZPn/ZPRyYo3yrFU4CKEaR/uQ80rBzffRwBKoymxtcvHIG/l3lq/MmhD8bUPtfPtqtbomYRWYyxugZ1O9dBvVCacrWobvNpRNsJxpO70i65Pt5Hun3qdNuzEOuHm5g+jZYE50WblOwLQL5HWFlbMeMCBTBagfRFcM7sSTfDFUnrTwyOxgcNkPl/jq358XVIwluWP/CTowwanNMrszFSw80bPaBU8Q9b8Y5oCnfVXpVOl6QZbau7A8zLofCm02cr5J/qDp+Z98JjL1eGleBKNR8P4c/KH7RSffNZx7bn9V+tKqQXw4h0fmUpEpCIzZLWs+kDMe6eS2HiraNZNQsguFO3GmBjb3W82U44hCKF96Ch10AuEQsusNU7HdiWjXf+YPXCUFTwlmjiLz9E/0nrHcemQR23v1L8v0EigMQclnwCfgAZtmI9PIA78RfMYJM3RSuakWkwlIzxfhtzCLx7xs5EUzly2X5YKmWCxrArVuCaYYmRhYF4vnTSnpE="
