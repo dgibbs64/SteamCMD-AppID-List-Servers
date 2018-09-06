@@ -6,9 +6,9 @@ git config --global user.name "dgibbs64"
 git remote set-url origin https://dgibbs64:${GH_TOKEN}@github.com/dgibbs64/SteamCMD-AppID-List-Servers.git
 
 git checkout ${TRAVIS_BRANCH}
-git add . steamcmd_appid.json
-git add . steamcmd_appid.csv
-git add . steamcmd_appid.md
+git add . steamcmd_appid-servers.json
+git add . steamcmd_appid-servers.csv
+git add . steamcmd_appid-servers.md
 git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 
 
