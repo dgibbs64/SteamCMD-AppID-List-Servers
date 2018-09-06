@@ -3,7 +3,7 @@
 git config --global user.email "me@danielgibbs.co.uk"
 git config --global user.name "dgibbs64"
 
-git remote set-url origin https://dgibbs64:${GH_TOKEN}@github.com/dgibbs64/SteamCMD-AppID-List.git
+git remote set-url origin https://dgibbs64:${GH_TOKEN}@github.com/dgibbs64/SteamCMD-AppID-List-Servers.git
 
 git checkout ${TRAVIS_BRANCH}
 git add . steamcmd_appid.json
