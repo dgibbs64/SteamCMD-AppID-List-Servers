@@ -17,7 +17,7 @@ install:
   - npm install -g markdown-table-cli
 
 script:
-  - bash ./steamcmd_appid-servers.sh
+  - bash ./steamcmd_appid_servers.sh
 
 after_success:
   - .travis/push.sh
