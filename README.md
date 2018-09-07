@@ -27,4 +27,9 @@ Simply download the script and run it.
 
 	wget https://raw.githubusercontent.com/dgibbs64/SteamCMD-AppID-List-Servers/master/steamcmd_appid_server.sh;chmod +x steamcmd_appid_server.sh;./steamcmd_appid_server.sh
 
+## SteamDB
+
+A list of server packages can also be seen using SteamDB
+
+https://steamdb.info/search/?a=app&q=server
 
