@@ -6,7 +6,7 @@
 
 ## Description
 
-This repo stores every `AppID` and its name available on Steam as `json`, `CSV` and `MD` table by grabbing the info from the SteamAPI.
+This repo stores every dedicated server `AppID` and its name available on Steam as `json`, `CSV` and `MD` table by grabbing the info from the SteamAPI and filtering for the word `server`.
 ```
 https://api.steampowered.com/ISteamApps/GetAppList/v2/
 ```
@@ -14,17 +14,17 @@ https://api.steampowered.com/ISteamApps/GetAppList/v2/
 ## List
 You can get the output without using the script.
 
-[steamcmd_appid.json](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid.json)
+[steamcmd_appid_server.json](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server.json)
 
-[steamcmd_appid.csv](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid.csv)
+[steamcmd_appid_server.csv](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server.csv)
 
-[steamcmd_appid.md](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid.md)
+[steamcmd_appid_server.md](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server.md)
 > Travis-CI checks daily for updates and posts them to this repo. So this list will always be up-to-date.
 
 ## Usage
 
 Simply download the script and run it.
 
-	wget https://raw.githubusercontent.com/dgibbs64/SteamCMD-AppID-List-Servers/master/steamcmd_appid.sh;chmod +x steamcmd_appid.sh;./steamcmd_appid.sh
+	wget https://raw.githubusercontent.com/dgibbs64/SteamCMD-AppID-List-Servers/master/steamcmd_appid_server.sh;chmod +x steamcmd_appid_server.sh;./steamcmd_appid_server.sh
 
 
