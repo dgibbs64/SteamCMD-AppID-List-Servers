@@ -6,7 +6,6 @@
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 #declare variables
-rootdir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 attempt_counter=0
 max_attempts=5
 time_to_wait=30
@@ -17,7 +16,7 @@ until $(curl --fail -o steamcmd_appid_list.json https://api.steampowered.com/ISt
       echo "Max attempts reached. Aborting"
       exit 1
     fi
-    attempt_counter=$(($attempt_counter+1))
+    attempt_counter=$((attempt_counter+1))
     echo "Download failed (attempt ${attempt_counter} of ${max_attempts}). Waiting ${time_to_wait} seconds until trying again"
 
   sleep ${time_to_wait}
