@@ -295,5 +295,6 @@
 | 916110 | BattleRush 2 Dedicated Server                                            |
 | 939320 | Observer - Soundtrack                                                    |
 | 944490 | Vox Machinae Dedicated Server                                            |
+| 947870 | Starcross Arena Dedicated Server                                         |
 | 950080 | BULLETGROUNDS Dedicated Server                                           |
 | 955080 | Team Fortress 2008 - Dedicated Server                                    |
