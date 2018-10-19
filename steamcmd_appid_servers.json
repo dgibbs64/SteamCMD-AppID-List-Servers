@@ -16,10 +16,6 @@
     "name": "Base Defense Dedicated Server"
   },
   {
-    "appid": 805140,
-    "name": "Battalion 1944 Dedicated Server"
-  },
-  {
     "appid": 801230,
     "name": "Fog Of War - Free Edition Dedicated Server"
   },
@@ -62,10 +58,6 @@
   {
     "appid": 939320,
     "name": "Observer - Soundtrack"
-  },
-  {
-    "appid": 950080,
-    "name": "BULLETGROUNDS Dedicated Server"
   },
   {
     "appid": 947870,
@@ -130,10 +122,6 @@
   {
     "appid": 485250,
     "name": "The Black Death Dedicated Server"
-  },
-  {
-    "appid": 476400,
-    "name": "Ground Branch Dedicated Server"
   },
   {
     "appid": 475370,
@@ -226,10 +214,6 @@
   {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server"
-  },
-  {
-    "appid": 439660,
-    "name": "Tower Unite Dedicated Server"
   },
   {
     "appid": 439700,
@@ -360,10 +344,6 @@
     "name": "Insurgency Dedicated Server"
   },
   {
-    "appid": 232250,
-    "name": "Team Fortress 2 Dedicated Server"
-  },
-  {
     "appid": 230030,
     "name": "Painkiller Hell & Damnation Dedicated Server"
   },
@@ -402,10 +382,6 @@
   {
     "appid": 220070,
     "name": "Chivalry: Medieval Warfare Dedicated Server"
-  },
-  {
-    "appid": 739590,
-    "name": "Eco Server"
   },
   {
     "appid": 739606,
@@ -464,10 +440,6 @@
     "name": "Tree of Savior - Reset Pack for SA Servers"
   },
   {
-    "appid": 680870,
-    "name": "Airmen Dedicated Server"
-  },
-  {
     "appid": 680020,
     "name": "Wasteworld Server"
   },
@@ -494,10 +466,6 @@
   {
     "appid": 638100,
     "name": "Kreedz Climbing Dedicated Server"
-  },
-  {
-    "appid": 630230,
-    "name": "DNL Dedicated Server"
   },
   {
     "appid": 628300,
@@ -832,10 +800,6 @@
     "name": "Fog of War Dedicated Server"
   },
   {
-    "appid": 568880,
-    "name": "Sniper Elite 4 Dedicated Server"
-  },
-  {
     "appid": 565060,
     "name": "Avorion Dedicated Server"
   },
@@ -940,10 +904,6 @@
     "name": "Rokh Dedicated Server"
   },
   {
-    "appid": 598850,
-    "name": "Hellion Dedicated Server"
-  },
-  {
     "appid": 598010,
     "name": "SQUIDS FROM SPACE Dedicated Server"
   },
@@ -1004,10 +964,6 @@
     "name": "Wreckfest Dedicated Server"
   },
   {
-    "appid": 17575,
-    "name": "Pirates, Vikings, and Knights II Dedicated Server"
-  },
-  {
     "appid": 460040,
     "name": "Empires Dedicated Server"
   },
@@ -1048,16 +1004,8 @@
     "name": "Realm Royale - Test Server"
   },
   {
-    "appid": 416880,
-    "name": "Ballistic Overkill Dedicated Server"
-  },
-  {
     "appid": 668390,
     "name": "Hanako: Honor & Blade Dedicated Server"
-  },
-  {
-    "appid": 679600,
-    "name": "Pantropy dedicated server"
   },
   {
     "appid": 233780,
@@ -1068,24 +1016,8 @@
     "name": "Empyrion - Galactic Survival Dedicated Server"
   },
   {
-    "appid": 354060,
-    "name": "RaceRoom Dedicated Server"
-  },
-  {
-    "appid": 762880,
-    "name": "Outpost Zero Dedicated Server"
-  },
-  {
     "appid": 4020,
     "name": "Garry's Mod Dedicated Server"
-  },
-  {
-    "appid": 223350,
-    "name": "DayZ Server"
-  },
-  {
-    "appid": 443030,
-    "name": "Conan Exiles Dedicated Server"
   },
   {
     "appid": 533830,
@@ -1100,32 +1032,12 @@
     "name": "Memories of Mars - Dedicated Server"
   },
   {
-    "appid": 423410,
-    "name": "Blackwake Dedicated Server"
-  },
-  {
-    "appid": 298740,
-    "name": "Space Engineers Dedicated Server"
-  },
-  {
-    "appid": 770720,
-    "name": "Hunt: Showdown (Test Server)"
-  },
-  {
     "appid": 414570,
     "name": "Crea Dedicated Server"
   },
   {
     "appid": 405100,
     "name": "Hurtworld Dedicated Server"
-  },
-  {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server"
-  },
-  {
-    "appid": 367970,
-    "name": "Medieval Engineers Dedicated Server"
   },
   {
     "appid": 908290,
@@ -1140,59 +1052,147 @@
     "name": "Zombie Panic! Source Dedicated Server"
   },
   {
-    "appid": 418480,
-    "name": "Rising Storm 2 - Dedicated Server"
-  },
-  {
-    "appid": 844650,
-    "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
-    "appid": 600760,
-    "name": "Stationeers Dedicated Server"
-  },
-  {
-    "appid": 965690,
-    "name": "ABYSS Dedicated Server"
-  },
-  {
     "appid": 777180,
     "name": "Game Server Toolbox"
-  },
-  {
-    "appid": 403240,
-    "name": "Squad Dedicated Server"
   },
   {
     "appid": 294420,
     "name": "7 Days to Die Dedicated Server"
   },
   {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server"
-  },
-  {
     "appid": 239510,
     "name": "America's Army: Proving Grounds Beta Dedicated Server"
-  },
-  {
-    "appid": 258550,
-    "name": "Rust Dedicated Server"
-  },
-  {
-    "appid": 4940,
-    "name": "Natural Selection 2 Dedicated Server"
-  },
-  {
-    "appid": 746200,
-    "name": "Post Scriptum Dedicated Server"
   },
   {
     "appid": 381690,
     "name": "Reign Of Kings Dedicated Server"
   },
   {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 439660,
+    "name": "Tower Unite Dedicated Server"
+  },
+  {
+    "appid": 418480,
+    "name": "Rising Storm 2 - Dedicated Server"
+  },
+  {
+    "appid": 680870,
+    "name": "Airmen Dedicated Server"
+  },
+  {
+    "appid": 762880,
+    "name": "Outpost Zero Dedicated Server"
+  },
+  {
+    "appid": 354060,
+    "name": "RaceRoom Dedicated Server"
+  },
+  {
+    "appid": 630230,
+    "name": "DNL Dedicated Server"
+  },
+  {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 223350,
+    "name": "DayZ Server"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server"
+  },
+  {
     "appid": 710560,
     "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 568880,
+    "name": "Sniper Elite 4 Dedicated Server"
+  },
+  {
+    "appid": 805140,
+    "name": "Battalion 1944 Dedicated Server"
+  },
+  {
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server"
+  },
+  {
+    "appid": 598850,
+    "name": "Hellion Dedicated Server"
+  },
+  {
+    "appid": 770720,
+    "name": "Hunt: Showdown (Test Server)"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 965690,
+    "name": "ABYSS Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 17575,
+    "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 423410,
+    "name": "Blackwake Dedicated Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Post Scriptum - Beta Dedicated Server"
+  },
+  {
+    "appid": 367970,
+    "name": "Medieval Engineers Dedicated Server"
+  },
+  {
+    "appid": 950080,
+    "name": "BULLETGROUNDS Dedicated Server"
+  },
+  {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 232250,
+    "name": "Team Fortress 2 Dedicated Server"
+  },
+  {
+    "appid": 667230,
+    "name": "Capsa Dedicated Server"
+  },
+  {
+    "appid": 403240,
+    "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 739590,
+    "name": "Eco Server"
+  },
+  {
+    "appid": 476400,
+    "name": "Ground Branch Dedicated Server"
   }
 ]
