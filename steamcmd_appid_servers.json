@@ -152,10 +152,6 @@
     "name": "Steam Dev Days: Game Server Hosting"
   },
   {
-    "appid": 550790,
-    "name": "Rend Server"
-  },
-  {
     "appid": 549990,
     "name": "Cobalt Dedicated Server"
   },
@@ -278,10 +274,6 @@
   {
     "appid": 230030,
     "name": "Painkiller Hell & Damnation Dedicated Server"
-  },
-  {
-    "appid": 228780,
-    "name": "Blade Symphony Dedicated Server"
   },
   {
     "appid": 227040,
@@ -426,10 +418,6 @@
   {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server"
-  },
-  {
-    "appid": 439700,
-    "name": "H1Z1: Test Server"
   },
   {
     "appid": 429400,
@@ -594,10 +582,6 @@
   {
     "appid": 739120,
     "name": "BattleRush Dedicated Server"
-  },
-  {
-    "appid": 730810,
-    "name": "Allegiance Server"
   },
   {
     "appid": 713970,
@@ -996,16 +980,8 @@
     "name": "Empyrion - Galactic Survival Dedicated Server"
   },
   {
-    "appid": 4020,
-    "name": "Garry's Mod Dedicated Server"
-  },
-  {
     "appid": 533830,
     "name": "Starbound Dedicated Server"
-  },
-  {
-    "appid": 916110,
-    "name": "BattleRush 2 Dedicated Server"
   },
   {
     "appid": 897590,
@@ -1032,52 +1008,20 @@
     "name": "Game Server Toolbox"
   },
   {
-    "appid": 239510,
-    "name": "America's Army: Proving Grounds Beta Dedicated Server"
-  },
-  {
     "appid": 381690,
     "name": "Reign Of Kings Dedicated Server"
-  },
-  {
-    "appid": 418480,
-    "name": "Rising Storm 2 - Dedicated Server"
   },
   {
     "appid": 680870,
     "name": "Airmen Dedicated Server"
   },
   {
-    "appid": 630230,
-    "name": "DNL Dedicated Server"
-  },
-  {
-    "appid": 443030,
-    "name": "Conan Exiles Dedicated Server"
-  },
-  {
-    "appid": 223350,
-    "name": "DayZ Server"
-  },
-  {
-    "appid": 298740,
-    "name": "Space Engineers Dedicated Server"
-  },
-  {
     "appid": 568880,
     "name": "Sniper Elite 4 Dedicated Server"
   },
   {
-    "appid": 805140,
-    "name": "Battalion 1944 Dedicated Server"
-  },
-  {
     "appid": 598850,
     "name": "Hellion Dedicated Server"
-  },
-  {
-    "appid": 770720,
-    "name": "Hunt: Showdown (Test Server)"
   },
   {
     "appid": 423410,
@@ -1096,24 +1040,8 @@
     "name": "Ground Branch Dedicated Server"
   },
   {
-    "appid": 416880,
-    "name": "Ballistic Overkill Dedicated Server"
-  },
-  {
     "appid": 354060,
     "name": "RaceRoom Dedicated Server"
-  },
-  {
-    "appid": 367970,
-    "name": "Medieval Engineers Dedicated Server"
-  },
-  {
-    "appid": 679600,
-    "name": "Pantropy dedicated server"
-  },
-  {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
   },
   {
     "appid": 950080,
@@ -1124,44 +1052,8 @@
     "name": "Natural Selection 2 Dedicated Server"
   },
   {
-    "appid": 844410,
-    "name": "Triggered: Assault Dedicated Server"
-  },
-  {
-    "appid": 844650,
-    "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
-    "appid": 294420,
-    "name": "7 Days to Die Dedicated Server"
-  },
-  {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server"
-  },
-  {
     "appid": 17575,
     "name": "Pirates, Vikings, and Knights II Dedicated Server"
-  },
-  {
-    "appid": 403240,
-    "name": "Squad Dedicated Server"
-  },
-  {
-    "appid": 762880,
-    "name": "Outpost Zero Dedicated Server"
-  },
-  {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server"
-  },
-  {
-    "appid": 295230,
-    "name": "Fistful of Frags Dedicated Server"
-  },
-  {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server"
   },
   {
     "appid": 319060,
@@ -1176,20 +1068,132 @@
     "name": "Synergy Dedicated Server"
   },
   {
-    "appid": 965690,
-    "name": "ABYSS Dedicated Server"
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server"
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server"
+  },
+  {
+    "appid": 730810,
+    "name": "Allegiance Server"
+  },
+  {
+    "appid": 630230,
+    "name": "DNL Dedicated Server"
+  },
+  {
+    "appid": 223350,
+    "name": "DayZ Server"
+  },
+  {
+    "appid": 805140,
+    "name": "Battalion 1944 Dedicated Server"
+  },
+  {
+    "appid": 762880,
+    "name": "Outpost Zero Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server"
+  },
+  {
+    "appid": 295230,
+    "name": "Fistful of Frags Dedicated Server"
+  },
+  {
+    "appid": 916110,
+    "name": "BattleRush 2 Dedicated Server"
+  },
+  {
+    "appid": 4020,
+    "name": "Garry's Mod Dedicated Server"
+  },
+  {
+    "appid": 239510,
+    "name": "America's Army: Proving Grounds Beta Dedicated Server"
+  },
+  {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 367970,
+    "name": "Medieval Engineers Dedicated Server"
+  },
+  {
+    "appid": 550790,
+    "name": "Rend Server"
+  },
+  {
+    "appid": 912290,
+    "name": "Miscreated: Experimental Server"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server"
+  },
+  {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server"
+  },
+  {
+    "appid": 418480,
+    "name": "Rising Storm 2 - Dedicated Server"
+  },
+  {
+    "appid": 667230,
+    "name": "Capsa Dedicated Server"
   },
   {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
   },
   {
-    "appid": 746200,
-    "name": "Post Scriptum Dedicated Server"
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server"
+  },
+  {
+    "appid": 770720,
+    "name": "Hunt: Showdown (Test Server)"
   },
   {
     "appid": 439660,
     "name": "Tower Unite Dedicated Server"
+  },
+  {
+    "appid": 965690,
+    "name": "ABYSS Dedicated Server"
+  },
+  {
+    "appid": 844410,
+    "name": "Triggered: Assault Dedicated Server"
+  },
+  {
+    "appid": 403240,
+    "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Post Scriptum - Beta Dedicated Server"
+  },
+  {
+    "appid": 439700,
+    "name": "H1Z1: Test Server"
   },
   {
     "appid": 258550,
