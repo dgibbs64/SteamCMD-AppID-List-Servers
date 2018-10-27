@@ -8,10 +8,6 @@
     "name": "Team Fortress 2008 - Dedicated Server"
   },
   {
-    "appid": 950080,
-    "name": "BULLETGROUNDS Dedicated Server"
-  },
-  {
     "appid": 947870,
     "name": "Starcross Arena Dedicated Server"
   },
@@ -932,10 +928,6 @@
     "name": "Bloody Good Time Dedicated Server"
   },
   {
-    "appid": 1290,
-    "name": "Darkest Hour: Europe '44-'45 Dedicated Server"
-  },
-  {
     "appid": 2145,
     "name": "Dark Messiah of Might & Magic Dedicated Server"
   },
@@ -986,10 +978,6 @@
   {
     "appid": 90,
     "name": "Half-Life Dedicated Server"
-  },
-  {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server"
   },
   {
     "appid": 897590,
@@ -1056,14 +1044,6 @@
     "name": "The Isle Dedicated Server"
   },
   {
-    "appid": 739590,
-    "name": "Eco Server"
-  },
-  {
-    "appid": 228780,
-    "name": "Blade Symphony Dedicated Server"
-  },
-  {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
   },
@@ -1072,16 +1052,8 @@
     "name": "Airmen Dedicated Server"
   },
   {
-    "appid": 4940,
-    "name": "Natural Selection 2 Dedicated Server"
-  },
-  {
     "appid": 824360,
     "name": "PixARK Dedicated Server"
-  },
-  {
-    "appid": 630230,
-    "name": "DNL Dedicated Server"
   },
   {
     "appid": 223350,
@@ -1092,16 +1064,8 @@
     "name": "Hunt: Showdown (Test Server)"
   },
   {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server"
-  },
-  {
     "appid": 568880,
     "name": "Sniper Elite 4 Dedicated Server"
-  },
-  {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server"
   },
   {
     "appid": 564390,
@@ -1112,16 +1076,8 @@
     "name": "Empyrion - Galactic Survival Dedicated Server"
   },
   {
-    "appid": 319060,
-    "name": "Lambda Wars Dedicated Server"
-  },
-  {
     "appid": 418480,
     "name": "Rising Storm 2 - Dedicated Server"
-  },
-  {
-    "appid": 679600,
-    "name": "Pantropy dedicated server"
   },
   {
     "appid": 746200,
@@ -1140,10 +1096,6 @@
     "name": "Medieval Engineers Dedicated Server"
   },
   {
-    "appid": 403240,
-    "name": "Squad Dedicated Server"
-  },
-  {
     "appid": 689780,
     "name": "Murderous Pursuits Dedicated Server"
   },
@@ -1152,16 +1104,8 @@
     "name": "BattleRush 2 Dedicated Server"
   },
   {
-    "appid": 844650,
-    "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
     "appid": 439700,
     "name": "H1Z1: Test Server"
-  },
-  {
-    "appid": 786920,
-    "name": "SCP: Secret Laboratory ServerMod"
   },
   {
     "appid": 258550,
@@ -1176,14 +1120,6 @@
     "name": "ColdByte Server Composer"
   },
   {
-    "appid": 416880,
-    "name": "Ballistic Overkill Dedicated Server"
-  },
-  {
-    "appid": 294420,
-    "name": "7 Days to Die Dedicated Server"
-  },
-  {
     "appid": 443030,
     "name": "Conan Exiles Dedicated Server"
   },
@@ -1192,11 +1128,75 @@
     "name": "Realm Royale - Test Server"
   },
   {
+    "appid": 739590,
+    "name": "Eco Server"
+  },
+  {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server"
+  },
+  {
+    "appid": 1290,
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server"
+  },
+  {
+    "appid": 630230,
+    "name": "DNL Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Post Scriptum - Beta Dedicated Server"
+  },
+  {
     "appid": 762880,
     "name": "Outpost Zero Dedicated Server"
   },
   {
     "appid": 460040,
     "name": "Empires Dedicated Server"
+  },
+  {
+    "appid": 786920,
+    "name": "SCP: Secret Laboratory ServerMod"
+  },
+  {
+    "appid": 950080,
+    "name": "BULLETGROUNDS Dedicated Server"
+  },
+  {
+    "appid": 319060,
+    "name": "Lambda Wars Dedicated Server"
+  },
+  {
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server"
+  },
+  {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 403240,
+    "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 667230,
+    "name": "Capsa Dedicated Server"
   }
 ]
