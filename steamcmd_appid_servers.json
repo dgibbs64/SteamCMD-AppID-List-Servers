@@ -64,10 +64,6 @@
     "name": "Serious Sam Classics: Revolution Dedicated Server"
   },
   {
-    "appid": 295230,
-    "name": "Fistful of Frags Dedicated Server"
-  },
-  {
     "appid": 276060,
     "name": "Sven Co-op Dedicated Server"
   },
@@ -330,10 +326,6 @@
   {
     "appid": 8770,
     "name": "RACE On - Demo: Dedicated Server"
-  },
-  {
-    "appid": 4940,
-    "name": "Natural Selection 2 Dedicated Server"
   },
   {
     "appid": 4207,
@@ -820,10 +812,6 @@
     "name": "The Black Death Dedicated Server"
   },
   {
-    "appid": 476400,
-    "name": "Ground Branch Dedicated Server"
-  },
-  {
     "appid": 475370,
     "name": "BrainBread 2 Dedicated Server"
   },
@@ -1016,10 +1004,6 @@
     "name": "Sniper Elite 4 Dedicated Server"
   },
   {
-    "appid": 298740,
-    "name": "Space Engineers Dedicated Server"
-  },
-  {
     "appid": 239510,
     "name": "America's Army: Proving Grounds Beta Dedicated Server"
   },
@@ -1048,10 +1032,6 @@
     "name": "Airmen Dedicated Server"
   },
   {
-    "appid": 416880,
-    "name": "Ballistic Overkill Dedicated Server"
-  },
-  {
     "appid": 4020,
     "name": "Garry's Mod Dedicated Server"
   },
@@ -1072,52 +1052,20 @@
     "name": "Serious Sam 2017 Dedicated Server"
   },
   {
-    "appid": 223350,
-    "name": "DayZ Server"
-  },
-  {
     "appid": 439700,
     "name": "H1Z1: Test Server"
-  },
-  {
-    "appid": 367970,
-    "name": "Medieval Engineers Dedicated Server"
-  },
-  {
-    "appid": 530870,
-    "name": "Empyrion - Galactic Survival Dedicated Server"
   },
   {
     "appid": 233780,
     "name": "Arma 3 Server"
   },
   {
-    "appid": 550790,
-    "name": "Rend Server"
-  },
-  {
-    "appid": 418480,
-    "name": "Rising Storm 2 - Dedicated Server"
-  },
-  {
     "appid": 609870,
     "name": "Hunt For Gods Dedicated Server"
   },
   {
-    "appid": 770720,
-    "name": "Hunt: Showdown (Test Server)"
-  },
-  {
-    "appid": 443030,
-    "name": "Conan Exiles Dedicated Server"
-  },
-  {
     "appid": 460040,
     "name": "Empires Dedicated Server"
-  },
-  {
-    "appid": 228780,
-    "name": "Blade Symphony Dedicated Server"
   },
   {
     "appid": 878760,
@@ -1128,18 +1076,6 @@
     "name": "Killing Floor 2 - Dedicated Server"
   },
   {
-    "appid": 974130,
-    "name": "StickyBots DedicatedServer"
-  },
-  {
-    "appid": 600760,
-    "name": "Stationeers Dedicated Server"
-  },
-  {
-    "appid": 582400,
-    "name": "Alien Swarm: Reactive Drop Dedicated Server"
-  },
-  {
     "appid": 679600,
     "name": "Pantropy dedicated server"
   },
@@ -1148,24 +1084,24 @@
     "name": "7 Days to Die Dedicated Server"
   },
   {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server"
+    "appid": 748090,
+    "name": "Colony Survival Dedicated Server"
   },
   {
-    "appid": 786920,
-    "name": "SCP: Secret Laboratory ServerMod"
+    "appid": 770720,
+    "name": "Hunt: Showdown (Test Server)"
   },
   {
     "appid": 762880,
     "name": "Outpost Zero Dedicated Server"
   },
   {
-    "appid": 748090,
-    "name": "Colony Survival Dedicated Server"
-  },
-  {
     "appid": 489650,
     "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 295230,
+    "name": "Fistful of Frags Dedicated Server"
   },
   {
     "appid": 950080,
@@ -1176,31 +1112,99 @@
     "name": "Capsa Dedicated Server"
   },
   {
-    "appid": 319060,
-    "name": "Lambda Wars Dedicated Server"
-  },
-  {
-    "appid": 844650,
-    "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
-  },
-  {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server"
-  },
-  {
-    "appid": 258550,
-    "name": "Rust Dedicated Server"
-  },
-  {
     "appid": 746200,
     "name": "Post Scriptum Dedicated Server"
   },
   {
     "appid": 403240,
     "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 530870,
+    "name": "Empyrion - Galactic Survival Dedicated Server"
+  },
+  {
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server"
+  },
+  {
+    "appid": 912290,
+    "name": "Miscreated: Experimental Server"
+  },
+  {
+    "appid": 367970,
+    "name": "Medieval Engineers Dedicated Server"
+  },
+  {
+    "appid": 476400,
+    "name": "Ground Branch Dedicated Server"
+  },
+  {
+    "appid": 786920,
+    "name": "SCP: Secret Laboratory ServerMod"
+  },
+  {
+    "appid": 223350,
+    "name": "DayZ Server"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server"
+  },
+  {
+    "appid": 582400,
+    "name": "Alien Swarm: Reactive Drop Dedicated Server"
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server"
+  },
+  {
+    "appid": 550790,
+    "name": "Rend Server"
+  },
+  {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Post Scriptum - Beta Dedicated Server"
+  },
+  {
+    "appid": 319060,
+    "name": "Lambda Wars Dedicated Server"
+  },
+  {
+    "appid": 974130,
+    "name": "StickyBots DedicatedServer"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 418480,
+    "name": "Rising Storm 2 - Dedicated Server"
+  },
+  {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 976380,
+    "name": "Never Split the Party Dedicated Server"
   }
 ]
