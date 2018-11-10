@@ -124,7 +124,6 @@
 | 2145   | Dark Messiah of Might & Magic Dedicated Server                           |
 | 1240   | Mare Nostrum Dedicated Server                                            |
 | 1273   | Killing Floor Beta Dedicated Server                                      |
-| 1290   | Darkest Hour: Europe '44-'45 Dedicated Server                            |
 | 740    | Counter-Strike Global Offensive - Dedicated Server                       |
 | 310    | Source 2007 Dedicated Server                                             |
 | 510    | Left 4 Dead Dedicated Server                                             |
@@ -245,20 +244,16 @@
 | 443050 | The Ship: Remasted Dedicated Server                                      |
 | 429400 | Warhammer 40,000: Dark Nexus Arena Dedicated Server                      |
 | 426660 | Robot Roller-Derby Disco Dodgeball Dedicated Server                      |
-| 423410 | Blackwake Dedicated Server                                               |
 | 419790 | Eden Star Dedicated Server                                               |
 | 414570 | Crea Dedicated Server                                                    |
 | 413770 | Project CARS 2 - Dedicated Server                                        |
 | 407480 | Angels Fall First Dedicated Server                                       |
 | 418480 | Rising Storm 2 - Dedicated Server                                        |
-| 630230 | DNL Dedicated Server                                                     |
 | 609870 | Hunt For Gods Dedicated Server                                           |
 | 381690 | Reign Of Kings Dedicated Server                                          |
 | 692500 | PianoBoard Server                                                        |
 | 439700 | H1Z1: Test Server                                                        |
 | 568880 | Sniper Elite 4 Dedicated Server                                          |
-| 748090 | Colony Survival Dedicated Server                                         |
-| 739590 | Eco Server                                                               |
 | 4020   | Garry's Mod Dedicated Server                                             |
 | 824360 | PixARK Dedicated Server                                                  |
 | 897590 | Memories of Mars - Dedicated Server                                      |
@@ -268,38 +263,43 @@
 | 239510 | America's Army: Proving Grounds Beta Dedicated Server                    |
 | 514900 | Observer                                                                 |
 | 233780 | Arma 3 Server                                                            |
-| 258550 | Rust Dedicated Server                                                    |
 | 416880 | Ballistic Overkill Dedicated Server                                      |
-| 600760 | Stationeers Dedicated Server                                             |
-| 412680 | The Isle Dedicated Server                                                |
 | 4940   | Natural Selection 2 Dedicated Server                                     |
 | 844650 | Post Scriptum - Beta Dedicated Server                                    |
-| 762880 | Outpost Zero Dedicated Server                                            |
-| 232130 | Killing Floor 2 - Dedicated Server                                       |
-| 460040 | Empires Dedicated Server                                                 |
 | 976380 | Never Split the Party Dedicated Server                                   |
-| 294420 | 7 Days to Die Dedicated Server                                           |
-| 974130 | StickyBots DedicatedServer                                               |
 | 680870 | Airmen Dedicated Server                                                  |
 | 774961 | Squad - Public Test Dedicated Server                                     |
-| 354060 | RaceRoom Dedicated Server                                                |
 | 405100 | Hurtworld Dedicated Server                                               |
-| 489650 | Citadel: Forged With Fire Server                                         |
-| 770720 | Hunt: Showdown (Test Server)                                             |
 | 223350 | DayZ Server                                                              |
-| 439660 | Tower Unite Dedicated Server                                             |
 | 786920 | SCP: Secret Laboratory ServerMod                                         |
 | 530870 | Empyrion - Galactic Survival Dedicated Server                            |
-| 582400 | Alien Swarm: Reactive Drop Dedicated Server                              |
 | 476400 | Ground Branch Dedicated Server                                           |
 | 443030 | Conan Exiles Dedicated Server                                            |
-| 550790 | Rend Server                                                              |
 | 17505  | Zombie Panic! Source Dedicated Server                                    |
 | 298740 | Space Engineers Dedicated Server                                         |
 | 367970 | Medieval Engineers Dedicated Server                                      |
-| 667230 | Capsa Dedicated Server                                                   |
 | 319060 | Lambda Wars Dedicated Server                                             |
-| 403240 | Squad Dedicated Server                                                   |
-| 746200 | Post Scriptum Dedicated Server                                           |
+| 232130 | Killing Floor 2 - Dedicated Server                                       |
+| 739590 | Eco Server                                                               |
+| 412680 | The Isle Dedicated Server                                                |
+| 630230 | DNL Dedicated Server                                                     |
+| 582400 | Alien Swarm: Reactive Drop Dedicated Server                              |
+| 600760 | Stationeers Dedicated Server                                             |
+| 1290   | Darkest Hour: Europe '44-'45 Dedicated Server                            |
 | 581330 | Insurgency: Sandstorm Dedicated Server                                   |
+| 439660 | Tower Unite Dedicated Server                                             |
+| 489650 | Citadel: Forged With Fire Server                                         |
 | 710560 | Ylands Dedicated Server                                                  |
+| 770720 | Hunt: Showdown (Test Server)                                             |
+| 667230 | Capsa Dedicated Server                                                   |
+| 746200 | Post Scriptum Dedicated Server                                           |
+| 748090 | Colony Survival Dedicated Server                                         |
+| 258550 | Rust Dedicated Server                                                    |
+| 762880 | Outpost Zero Dedicated Server                                            |
+| 974130 | StickyBots DedicatedServer                                               |
+| 423410 | Blackwake Dedicated Server                                               |
+| 354060 | RaceRoom Dedicated Server                                                |
+| 294420 | 7 Days to Die Dedicated Server                                           |
+| 550790 | Rend Server                                                              |
+| 403240 | Squad Dedicated Server                                                   |
+| 460040 | Empires Dedicated Server                                                 |
