@@ -24,10 +24,6 @@
     "name": "Fog Of War - Free Edition Dedicated Server"
   },
   {
-    "appid": 786920,
-    "name": "SCP: Secret Laboratory ServerMod"
-  },
-  {
     "appid": 888520,
     "name": "Pillage Dedicated Server"
   },
@@ -348,10 +344,6 @@
     "name": "Ballistic Overkill Dedicated Server"
   },
   {
-    "appid": 414570,
-    "name": "Crea Dedicated Server"
-  },
-  {
     "appid": 413770,
     "name": "Project CARS 2 - Dedicated Server"
   },
@@ -582,10 +574,6 @@
   {
     "appid": 643090,
     "name": "Them's Fightin' Herds Dedicated Server"
-  },
-  {
-    "appid": 638100,
-    "name": "Kreedz Climbing Dedicated Server"
   },
   {
     "appid": 628300,
@@ -924,10 +912,6 @@
     "name": "Eternal Silence Dedicated Server"
   },
   {
-    "appid": 17575,
-    "name": "Pirates, Vikings, and Knights II Dedicated Server"
-  },
-  {
     "appid": 13180,
     "name": "America's Army 3 Dedicated Server"
   },
@@ -954,10 +938,6 @@
   {
     "appid": 8770,
     "name": "RACE On - Demo: Dedicated Server"
-  },
-  {
-    "appid": 4940,
-    "name": "Natural Selection 2 Dedicated Server"
   },
   {
     "appid": 4207,
@@ -990,10 +970,6 @@
   {
     "appid": 2460,
     "name": "Bloody Good Time Dedicated Server"
-  },
-  {
-    "appid": 1290,
-    "name": "Darkest Hour: Europe '44-'45 Dedicated Server"
   },
   {
     "appid": 2145,
@@ -1052,10 +1028,6 @@
     "name": "Garry's Mod Dedicated Server"
   },
   {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server"
-  },
-  {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
   },
@@ -1066,14 +1038,6 @@
   {
     "appid": 844650,
     "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
-    "appid": 739590,
-    "name": "Eco Server"
-  },
-  {
-    "appid": 439660,
-    "name": "Tower Unite Dedicated Server"
   },
   {
     "appid": 412680,
@@ -1090,10 +1054,6 @@
   {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server"
-  },
-  {
-    "appid": 354060,
-    "name": "RaceRoom Dedicated Server"
   },
   {
     "appid": 824360,
@@ -1128,10 +1088,6 @@
     "name": "Empyrion - Galactic Survival Dedicated Server"
   },
   {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
-  },
-  {
     "appid": 232130,
     "name": "Killing Floor 2 - Dedicated Server"
   },
@@ -1140,20 +1096,8 @@
     "name": "Conan Exiles Dedicated Server"
   },
   {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server"
-  },
-  {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server"
-  },
-  {
     "appid": 748090,
     "name": "Colony Survival Dedicated Server"
-  },
-  {
-    "appid": 258550,
-    "name": "Rust Dedicated Server"
   },
   {
     "appid": 439700,
@@ -1168,10 +1112,6 @@
     "name": "UniverCity Dedicated Server"
   },
   {
-    "appid": 581330,
-    "name": "Insurgency: Sandstorm Dedicated Server"
-  },
-  {
     "appid": 319060,
     "name": "Lambda Wars Dedicated Server"
   },
@@ -1180,35 +1120,95 @@
     "name": "Tom Clancy's Rainbow Six Siege - Test Server"
   },
   {
-    "appid": 403240,
-    "name": "Squad Dedicated Server"
+    "appid": 550790,
+    "name": "Rend Server"
   },
   {
-    "appid": 476400,
-    "name": "Ground Branch Dedicated Server"
+    "appid": 739590,
+    "name": "Eco Server"
   },
   {
     "appid": 762880,
     "name": "Outpost Zero Dedicated Server"
   },
   {
-    "appid": 294420,
-    "name": "7 Days to Die Dedicated Server"
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 974130,
+    "name": "StickyBots DedicatedServer"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 354060,
+    "name": "RaceRoom Dedicated Server"
+  },
+  {
+    "appid": 403240,
+    "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 667230,
+    "name": "Capsa Dedicated Server"
+  },
+  {
+    "appid": 1290,
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 439660,
+    "name": "Tower Unite Dedicated Server"
   },
   {
     "appid": 367970,
     "name": "Medieval Engineers Dedicated Server"
   },
   {
-    "appid": 550790,
-    "name": "Rend Server"
+    "appid": 476400,
+    "name": "Ground Branch Dedicated Server"
+  },
+  {
+    "appid": 786920,
+    "name": "SCP: Secret Laboratory ServerMod"
+  },
+  {
+    "appid": 581330,
+    "name": "Insurgency: Sandstorm Dedicated Server"
+  },
+  {
+    "appid": 638100,
+    "name": "Kreedz Climbing Dedicated Server"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 17575,
+    "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 912290,
+    "name": "Miscreated: Experimental Server"
+  },
+  {
+    "appid": 414570,
+    "name": "Crea Dedicated Server"
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server"
   },
   {
     "appid": 950080,
     "name": "BULLETGROUNDS Dedicated Server"
-  },
-  {
-    "appid": 974130,
-    "name": "StickyBots DedicatedServer"
   }
 ]
