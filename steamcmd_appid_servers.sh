@@ -23,7 +23,7 @@ until $(curl --fail -o steamcmd_appid_list.json https://api.steampowered.com/ISt
 done
 
 echo "Creating steamcmd_appid_servers.json"
-cat steamcmd_appid_list.json | jq -s -c 'sort_by(.appid) | jq '[.applist.apps[] | select(.name | contains("server","Server"))]' > steamcmd_appid_servers.json
+cat steamcmd_appid_list.json | jq '[.applist.apps[] | select(.name | contains("server","Server"))]'| jq -s -c '.[]|sort_by(.appid) > steamcmd_appid_servers.json
 
 echo "Creating steamcmd_appid_servers.csv"
 cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name] | @csv' > steamcmd_appid_servers.csv
