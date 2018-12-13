@@ -263,6 +263,7 @@
 | 761080 | Battle Splash 2.0 Dedicated Server                                       |
 | 762880 | Outpost Zero Dedicated Server                                            |
 | 764860 | Jetball Dedicated Server                                                 |
+| 764940 | Fear the Night Server                                                    |
 | 768700 | TOS - New Rank Booster for NA Servers                                    |
 | 768701 | TOS - New Rank Booster for EU Servers                                    |
 | 768702 | TOS - New Rank Booster for SEA Servers                                   |
