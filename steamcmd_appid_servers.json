@@ -1168,6 +1168,10 @@
     "name": "Fasaria World: Ancients of Moons Server"
   },
   {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server"
+  },
+  {
     "appid": 888520,
     "name": "Pillage Dedicated Server"
   },
@@ -1226,5 +1230,9 @@
   {
     "appid": 976380,
     "name": "Never Split the Party Dedicated Server"
+  },
+  {
+    "appid": 1006030,
+    "name": "ATLAS Dedicated Server"
   }
 ]
