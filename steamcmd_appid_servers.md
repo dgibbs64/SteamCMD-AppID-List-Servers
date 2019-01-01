@@ -293,6 +293,7 @@
 | 878760  | Realm Royale - Test Server                                               |
 | 881600  | Fasaria World: Ancients of Moons Server                                  |
 | 882430  | Beasts of Bermuda Dedicated Server                                       |
+| 886440  | Super Versus Server                                                      |
 | 888520  | Pillage Dedicated Server                                                 |
 | 896050  | scram server                                                             |
 | 897590  | Memories of Mars - Dedicated Server                                      |
