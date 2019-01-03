@@ -310,3 +310,4 @@
 | 974130  | StickyBots DedicatedServer                                               |
 | 976380  | Never Split the Party Dedicated Server                                   |
 | 1006030 | ATLAS Dedicated Server                                                   |
+| 1006890 | Gunsolvers: Dedicated server                                             |
