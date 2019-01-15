@@ -1236,11 +1236,19 @@
     "name": "Never Split the Party Dedicated Server"
   },
   {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server"
+  },
+  {
     "appid": 1006030,
     "name": "ATLAS Dedicated Server"
   },
   {
     "appid": 1006890,
     "name": "Gunsolvers: Dedicated server"
+  },
+  {
+    "appid": 1007130,
+    "name": "TheSecretGame2 Dedicated Server"
   }
 ]
