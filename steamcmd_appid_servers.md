@@ -311,6 +311,7 @@
 | 974130  | StickyBots DedicatedServer                                               |
 | 976380  | Never Split the Party Dedicated Server                                   |
 | 996560  | SCP: Secret Laboratory Dedicated Server                                  |
+| 996600  | Heat Dedicated Server                                                    |
 | 1006030 | ATLAS Dedicated Server                                                   |
 | 1006890 | Gunsolvers: Dedicated server                                             |
 | 1007130 | TheSecretGame2 Dedicated Server                                          |
