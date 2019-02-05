@@ -298,6 +298,7 @@
 | 888520  | Pillage Dedicated Server                                                 |
 | 896050  | scram server                                                             |
 | 897590  | Memories of Mars - Dedicated Server                                      |
+| 904710  | The Warhorn Dedicated Server                                             |
 | 908290  | ColdByte Server Composer                                                 |
 | 912290  | Miscreated: Experimental Server                                          |
 | 916110  | BattleRush 2 Dedicated Server                                            |
