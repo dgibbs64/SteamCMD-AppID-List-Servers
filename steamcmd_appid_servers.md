@@ -322,3 +322,5 @@
 | 1012730 | 九劫曲:诅咒之地 Nine Trials Test Server                                         |
 | 1017070 | Vanguard: Normandy 1944 Dedicated Server                                 |
 | 1023620 | PlayerVs Dedicated Server                                                |
+| 1041160 | Observers                                                                |
+| 1054680 | Observers Demo                                                           |

@@ -1286,5 +1286,13 @@
   {
     "appid": 1023620,
     "name": "PlayerVs Dedicated Server"
+  },
+  {
+    "appid": 1041160,
+    "name": "Observers"
+  },
+  {
+    "appid": 1054680,
+    "name": "Observers Demo"
   }
 ]
