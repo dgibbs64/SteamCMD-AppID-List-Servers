@@ -254,6 +254,7 @@
 | 696640  | Radline + Dedicated Server (obsolete)                                    |
 | 710560  | Ylands Dedicated Server                                                  |
 | 713970  | The Simple Apocalypse Server                                             |
+| 723520  | SCP: Infinite Furniture Store Dedicated Server                           |
 | 730810  | Allegiance Server                                                        |
 | 739120  | BattleRush Dedicated Server                                              |
 | 739590  | Eco Server                                                               |
