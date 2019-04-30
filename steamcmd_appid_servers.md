@@ -228,6 +228,7 @@
 | 620110  | The Archotek Project Dedicated Server                                    |
 | 623990  | Tom Clancy's Rainbow Six Siege - Test Server                             |
 | 628300  | Stellar Overload Dedicated Server                                        |
+| 629800  | MORDHAU Dedicated Server                                                 |
 | 630230  | DNL Dedicated Server                                                     |
 | 638100  | Kreedz Climbing Dedicated Server                                         |
 | 643090  | Them's Fightin' Herds Dedicated Server                                   |
