@@ -320,7 +320,6 @@
 | 996600  | Heat Dedicated Server                                                    |
 | 1006030 | ATLAS Dedicated Server                                                   |
 | 1006890 | Gunsolvers: Dedicated server                                             |
-| 1007130 | TheSecretGame2 Dedicated Server                                          |
 | 1010510 | DCB Server                                                               |
 | 1012730 | 九劫曲:诅咒之地 Nine Trials Test Server                                         |
 | 1017070 | Vanguard: Normandy 1944 Dedicated Server                                 |
