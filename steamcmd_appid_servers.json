@@ -904,6 +904,10 @@
     "name": "The Archotek Project Dedicated Server"
   },
   {
+    "appid": 622970,
+    "name": "Pavlov VR Dedicated Server"
+  },
+  {
     "appid": 623990,
     "name": "Tom Clancy's Rainbow Six Siege - Test Server"
   },
@@ -1054,6 +1058,10 @@
   {
     "appid": 749070,
     "name": "Ymir dedicated server"
+  },
+  {
+    "appid": 756760,
+    "name": "Sniper Elite V2 Remastered Dedicated Server"
   },
   {
     "appid": 761080,
@@ -1314,5 +1322,9 @@
   {
     "appid": 1084900,
     "name": "Task Force Dedicated Server"
+  },
+  {
+    "appid": 1086350,
+    "name": "Lurking in the Shadows Dedicated Server"
   }
 ]
