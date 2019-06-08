@@ -329,7 +329,6 @@
 | 1023620 | PlayerVs Dedicated Server                                                |
 | 1041160 | Observers                                                                |
 | 1054680 | Observers Demo                                                           |
-| 1066820 | Strange Observer                                                         |
 | 1071470 | Planetes Community Dedicated Server                                      |
 | 1084900 | Task Force Dedicated Server                                              |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  |
