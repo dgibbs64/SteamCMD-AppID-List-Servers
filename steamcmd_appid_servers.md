@@ -333,4 +333,5 @@
 | 1071470 | Planetes Community Dedicated Server                                      |
 | 1084900 | Task Force Dedicated Server                                              |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  |
+| 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   |
 | 1110390 | Unturned Dedicated Server                                                |
