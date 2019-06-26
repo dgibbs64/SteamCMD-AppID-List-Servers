@@ -335,3 +335,4 @@
 | 1086350 | Lurking in the Shadows Dedicated Server                                  |
 | 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   |
 | 1110390 | Unturned Dedicated Server                                                |
+| 1111260 | WBTR Server                                                              |
