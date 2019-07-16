@@ -209,6 +209,7 @@
 | 562720  | Neptune: Arena FPS Dedicated server                                      |
 | 564390  | Serious Sam 2017 Dedicated Server                                        |
 | 565060  | Avorion Dedicated Server                                                 |
+| 568660  | Lost Region Dedicated Server                                             |
 | 568880  | Sniper Elite 4 Dedicated Server                                          |
 | 574390  | Fog of War Dedicated Server                                              |
 | 581330  | Insurgency: Sandstorm Dedicated Server                                   |
