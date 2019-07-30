@@ -1280,6 +1280,10 @@
     "name": "Never Split the Party Dedicated Server"
   },
   {
+    "appid": 988950,
+    "name": "Journey of Life - Dedicated Server"
+  },
+  {
     "appid": 996560,
     "name": "SCP: Secret Laboratory Dedicated Server"
   },
@@ -1358,5 +1362,9 @@
   {
     "appid": 1119550,
     "name": "SFIW:DedicatedServer"
+  },
+  {
+    "appid": 1129070,
+    "name": "Dedicated Server"
   }
 ]
