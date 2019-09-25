@@ -191,6 +191,7 @@
 | 530870  | Empyrion - Galactic Survival Dedicated Server                            |
 | 532330  | Starbound Unstable Dedicated Server                                      |
 | 533830  | Starbound Dedicated Server                                               |
+| 538480  | SURVIVAL Dedicated Server                                                |
 | 541790  | Days of War Dedicated Server                                             |
 | 545990  | Call of Duty: Black Ops III - Unranked Dedicated Server                  |
 | 548400  | STEAM HAMMER Dedicated server                                            |
