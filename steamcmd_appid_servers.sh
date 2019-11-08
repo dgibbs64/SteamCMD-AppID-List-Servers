@@ -124,25 +124,22 @@ pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state:
 
 # convert the CSV to JSON
 jq -Rsn '
-
-			[inputs
-			 | . / "\r\n"
-			 | (.[] | select((. | length) > 0) | . / ";") as $input
-			 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
-			]
-
+	[inputs
+	 | . / "\r\n"
+	 | (.[] | select((. | length) > 0) | . / ";") as $input
+	 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
+	]
 ' < tmux_steam_server_linux.csv > tmux_steam_server_linux.json
 
 pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' tmux_steam_server_output_windows.txt > tmux_steam_server_windows.csv
 
 # convert the CSV to JSON
 jq -Rsn '
-			[inputs
-			 | . / "\r\n"
-			 | (.[] | select((. | length) > 0) | . / ";") as $input
-			 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
-			]
-
+	[inputs
+	 | . / "\r\n"
+	 | (.[] | select((. | length) > 0) | . / ";") as $input
+	 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
+	]
 ' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 
 jq '[.[] | .linux = (.subscription | contains("Invalid Platform") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
@@ -163,7 +160,7 @@ cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .l
 echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
-jq '[.applist.apps[] | select(.linux | contains("true"))]' steamcmd_appid_servers.json | jq -s '.[]|sort_by(.appid)') > steamcmd_appid_servers_linux.json
+cat steamcmd_appid_servers.json | jq '[.applist.apps[] | select(.linux | contains("true"))]' | jq -s '.[]|sort_by(.appid)') > steamcmd_appid_servers_linux.json
 
 echo "exit"
 exit
