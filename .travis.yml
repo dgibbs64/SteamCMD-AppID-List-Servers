@@ -1,17 +1,20 @@
-language: bash node_js
-dist: trusty
-sudo: required
+language: node_js
+dist: xenial
 
 addons:
   apt:
-    sources:
-    - ubuntu-toolchain-r-test
     packages:
     - lib32gcc1
     - libstdc++6
     - libstdc++6:i386
     - git
     - jq
+    - libevent-dev
+    - libncurses-dev
+    - wget
+    - unzip
+    - tmux
+    - pcre2-utils
 
 install:
   - npm install -g markdown-table-cli
