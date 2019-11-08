@@ -1,7 +1,7 @@
 | appid   | name                                                                     | subscription                                      | linux | windows |
 | ------- | ------------------------------------------------------------------------ | ------------------------------------------------- | ----- | ------- |
 | 5       | Dedicated Server                                                         | unknown (Subscribed,Invalid Platform,Permanent,)  | false | false   |
-| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)app_status 33935  | true  | true    |
+| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | true    |
 | 205     | Source Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | true    |
 | 210     | Source Dedicated Server                                                  | unknown (No License)                              | true  | true    |
 | 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | true    |
