@@ -164,7 +164,7 @@ jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]'  steamcmd_appid_servers
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
 #echo "Creating steamcmd_appid_servers.csv"
-cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name] | @csv' > steamcmd_appid_servers.csv
+cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .linux, .windows] | @csv'
 
 #echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
