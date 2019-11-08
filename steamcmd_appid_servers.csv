@@ -1,4 +1,3 @@
-5,"Dedicated Server","unknown (Subscribed,Invalid Platform,Permanent,)",false,false
 90,"Half-Life Dedicated Server","released (Subscribed,Permanent,)",true,true
 205,"Source Dedicated Server","released (Subscribed,Permanent,)",true,true
 210,"Source Dedicated Server","unknown (No License)",true,true
@@ -31,9 +30,6 @@
 13180,"America's Army 3 Dedicated Server","unknown (No License)",true,true
 17505,"Zombie Panic! Source Dedicated Server","released (Subscribed,Permanent,)",true,true
 17515,"Age of Chivalry Dedicated Server","released (Subscribed,Permanent,)",true,true
-17525,"Synergy Dedicated Server","released (Subscribed,Permanent,)",false,true
-17535,"D.I.P.R.I.P. Dedicated Server","released (Subscribed,Permanent,)",false,true
-17555,"Eternal Silence Dedicated Server","released (Subscribed,Permanent,)",false,true
 17575,"Pirates, Vikings, and Knights II Dedicated Server","released (Subscribed,Permanent,)",true,true
 17585,"Dystopia Dedicated Server","released (Subscribed,Permanent,)",true,true
 17595,"Dystopia Beta Dedicated Server","unknown (No License)",true,true
@@ -53,7 +49,6 @@
 42750,"Call of Duty: Modern Warfare 3 - Dedicated Server","unknown (No License)",true,true
 43210,"The Haunted: Hells Reach Dedicated Server","unknown (No License)",true,true
 44720,"RACE 07 Dedicated Server Beta","unknown (No License)",true,true
-55280,"Homefront Dedicated Server","released (Subscribed,Permanent,)",false,true
 55290,"Homefront Dedicated Server [Japanese]","unknown (No License)",true,true
 57910,"Duke Nukem Forever Dedicated Server","unknown (No License)",true,true
 63220,"Monday Night Combat Dedicated Server","unknown (No License)",true,true
@@ -65,7 +60,6 @@
 105610,"Terraria - Dedicated Server","unknown (No License)",true,true
 111710,"Nuclear Dawn - Dedicated Server","released (Subscribed,Permanent,)",true,true
 203300,"America's Army: Proving Grounds Dedicated Server","released (Subscribed,Permanent,)",true,true
-208050,"Sniper Elite V2 Dedicated Server","released (Subscribed,Permanent,)",false,true
 210370,"Starvoid Server","unknown (No License)",true,true
 212542,"Red Orchestra 2 - Dedicated Server","unknown (No License)",true,true
 213040,"ORION: Prelude Dedicated Server","unknown (No License)",true,true
@@ -79,7 +73,6 @@
 223250,"Red Orchestra Linux Dedicated Server","unknown (No License)",true,true
 223350,"DayZ Server","unknown (No License)",true,true
 224620,"Primal Carnage Dedicated Server","unknown (No License)",true,true
-227040,"Left 4 Dead 2 Beta - Win32 Dedicated Server","released (Subscribed,Permanent,)",false,true
 227050,"Left 4 Dead 2 Beta - Linux Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)",true,false
 228780,"Blade Symphony Dedicated Server","unknown (No License)",true,true
 230030,"Painkiller Hell & Damnation Dedicated Server","unknown (No License)",true,true
@@ -93,38 +86,27 @@
 255470,"Half-Life Deathmatch: Source Dedicated server","released (Subscribed,Permanent,)",true,true
 258550,"Rust Dedicated Server","released (Subscribed,Permanent,)",true,true
 261020,"Takedown: Red Sabre Dedicated Server","unknown (No License)",true,true
-265360,"Kingdoms Rise Dedicated Server","released (Subscribed,Permanent,)",false,true
 273530,"Centration Dedicated Server","released (Subscribed,Permanent,)",true,true
 276060,"Sven Co-op Dedicated Server","released (Subscribed,Permanent,)",true,true
 294420,"7 Days to Die Dedicated Server","released (Subscribed,Permanent,)",true,true
 295230,"Fistful of Frags Dedicated Server","released (Subscribed,Permanent,)",true,true
 298740,"Space Engineers Dedicated Server","released (Subscribed,Permanent,)",true,true
-299310,"Serious Sam Classics: Revolution Dedicated Server","released (Subscribed,Permanent,)",false,true
-302200,"Miscreated Dedicated Server","released (Subscribed,Permanent,)",false,true
 302550,"Assetto Corsa Dedicated Server","unknown (No License)",true,true
 313900,"NS2: Combat Dedicated Server","released (Subscribed,Permanent,)",true,true
 317670,"No More Room in Hell Dedicated Server","released (Subscribed,Permanent,)",true,true
 319060,"Lambda Wars Dedicated Server","unknown (No License)",true,true
 320850,"Life is Feudal: Your Own Dedicated Server","released (Subscribed,Permanent,)",true,true
-324870,"RS/RO2 Alpha Community Maps - Dedicated Server","released (Subscribed,Permanent,)",false,true
-324890,"RS/RO2 Beta Community Maps - Dedicated Server","released (Subscribed,Permanent,)",false,true
-328950,"SNOW Dedicated Server","released (Subscribed,Permanent,)",false,true
-329710,"Fortress Forever Dedicated Server","released (Subscribed,Permanent,)",false,true
 332670,"Project CARS - Dedicated Server","released (Subscribed,Permanent,)",true,true
 332850,"BlazeRush Dedicated Server","released (Subscribed,Permanent,)",true,true
 336400,"Primal Carnage: Extinction Dedicated Server","released (Subscribed,Permanent,)",true,true
 338440,"BOMB Dedicated Server","released (Subscribed,Permanent,)",true,true
 339010,"Rising World Dedicated Server","released (Subscribed,Permanent,)",true,true
-345950,"Down To One Dedicated Server","unknown (Subscribed,Invalid Platform,Permanent,)",false,false
 346680,"Black Mesa Dedicated Server","released (Subscribed,Permanent,)",true,true
-354060,"RaceRoom Dedicated Server","released (Subscribed,Permanent,)",false,true
 361580,"Wreckfest Dedicated Server","released (Subscribed,Permanent,)",true,true
 362300,"Just Survive Test Server","unknown (No License)",true,true
 367970,"Medieval Engineers Dedicated Server","released (Subscribed,Permanent,)",true,true
 369630,"Mirage: Arcane Warfare - Dedicated Server","released (Subscribed,Permanent,)",true,true
 378670,"Savage Lands Dedicated Server","released (Subscribed,Permanent,)",true,true
-381690,"Reign Of Kings Dedicated Server","released (Subscribed,Permanent,)",false,true
-382030,"Yargis - Space Melee - Dedicated Server","released (Subscribed,Permanent,)",false,true
 382280,"Abatron Dedicated Server","released (Subscribed,Permanent,)",true,true
 383410,"Codename CURE Dedicated Server","released (Subscribed,Permanent,)",true,true
 384850,"AoF World Online Server with Scripts","unknown (No License)",true,true
@@ -137,7 +119,6 @@
 413770,"Project CARS 2 - Dedicated Server","unknown (No License)",true,true
 414570,"Crea Dedicated Server","released (Subscribed,Permanent,)",true,true
 416880,"Ballistic Overkill Dedicated Server","released (Subscribed,Permanent,)",true,true
-418480,"Rising Storm 2 - Dedicated Server","released (Subscribed,Permanent,)",false,true
 419790,"Eden Star Dedicated Server","released (Subscribed,Permanent,)",true,true
 423410,"Blackwake Dedicated Server","released (Subscribed,Permanent,)",true,true
 426660,"Robot Roller-Derby Disco Dodgeball Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -174,7 +155,6 @@
 489650,"Citadel: Forged With Fire Server","released (Subscribed,Permanent,)",true,true
 490500,"Zero G Arena dedicated server","released (Subscribed,Permanent,)",true,true
 493970,"Homebrew Vehicle Sandbox - Dedicated Server","unknown (No License)",true,true
-494770,"FIREFIGHT RELOADED Dedicated Server","released (Subscribed,Permanent,)",false,true
 497110,"Gang Beasts Server","unknown (No License)",true,true
 508320,"Throne Rushers - Server","unknown (No License)",true,true
 512910,"Tree of Savior - Novice Pack for NA Servers","unknown (No License)",true,true
@@ -182,7 +162,6 @@
 512912,"Tree of Savior - Novice Pack for SEA Servers","unknown (No License)",true,true
 512913,"Tree of Savior - Novice Pack for SA Servers","unknown (No License)",true,true
 514900,"Observer","unknown (No License)",true,true
-516860,"Of Kings And Men Dedicated Server","released (Subscribed,Permanent,)",false,true
 523390,"LandTraveller - Dedicated Server","released (Subscribed,Permanent,)",true,true
 525900,"Linux Dedicated Server","unknown (No License)",true,true
 526340,"Voxel Turf Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -190,8 +169,6 @@
 532330,"Starbound Unstable Dedicated Server","unknown (No License)",true,true
 533830,"Starbound Dedicated Server","unknown (No License)",true,true
 538480,"SURVIVAL Dedicated Server","unknown (No License)",true,true
-541790,"Days of War Dedicated Server","released (Subscribed,Permanent,)",false,true
-545990,"Call of Duty: Black Ops III - Unranked Dedicated Server","released (Subscribed,Permanent,)",false,true
 548400,"STEAM HAMMER Dedicated server","released (Subscribed,Permanent,)",true,true
 549990,"Cobalt Dedicated Server","released (Subscribed,Permanent,)",true,true
 550772,"Steam Dev Days: Game Server Hosting","unknown (No License)",true,true
@@ -209,13 +186,11 @@
 564390,"Serious Sam 2017 Dedicated Server","released (Subscribed,Permanent,)",true,true
 565060,"Avorion Dedicated Server","released (Subscribed,Permanent,)",true,true
 568660,"Lost Region Dedicated Server","released (Subscribed,Permanent,)",true,true
-568880,"Sniper Elite 4 Dedicated Server","released (Subscribed,Permanent,)",false,true
 574390,"Fog of War Dedicated Server","released (Subscribed,Permanent,)",true,true
 581330,"Insurgency: Sandstorm Dedicated Server","released (Subscribed,Permanent,)",true,true
 582320,"RHdedicatedserver","released (Subscribed,Permanent,)",true,true
 582400,"Alien Swarm: Reactive Drop Dedicated Server","released (Subscribed,Permanent,)",true,true
 587020,"Strike Vector EX Dedicated Server","released (Subscribed,Permanent,)",true,true
-591690,"The Dome Dedicated Servers","released (Subscribed,Permanent,)",false,true
 598010,"SQUIDS FROM SPACE Dedicated Server","released (Subscribed,Permanent,)",true,true
 598850,"Hellion Dedicated Server","released (Subscribed,Permanent,)",true,true
 600760,"Stationeers Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -237,7 +212,6 @@
 649390,"RutonyChat - Restream Server","unknown (No License)",true,true
 660470,"Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)",true,false
 663680,"Restricted-RPS - Public Server Rights","unknown (No License)",true,true
-667230,"Capsa Dedicated Server","released (Subscribed,Permanent,)",false,true
 668390,"Hanako: Honor & Blade Dedicated Server","released (Subscribed,Permanent,)",true,true
 673990,"IOSoccer Dedicated Server","released (Subscribed,Permanent,)",true,true
 679600,"Pantropy dedicated server","released (Subscribed,Permanent,)",true,true
@@ -252,7 +226,6 @@
 688930,"City of Ages: Picture Supportive Text MUD (server and client included)","unknown (No License)",true,true
 689780,"Murderous Pursuits Dedicated Server","released (Subscribed,Permanent,)",true,true
 692500,"PianoBoard Server","unknown (No License)",true,true
-693060,"Perpetuum Dedicated Server","released (Subscribed,Permanent,)",false,true
 696260,"Tree of Life - Experimental Server","unknown (No License)",true,true
 696640,"Radline + Dedicated Server (obsolete)","released (Subscribed,Permanent,)",true,true
 710560,"Ylands Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -265,8 +238,6 @@
 745640,"Gamiflux Server","unknown (No License)",true,true
 746200,"Post Scriptum Dedicated Server","released (Subscribed,Permanent,)",true,true
 748090,"Colony Survival Dedicated Server","released (Subscribed,Permanent,)",true,true
-749070,"Ymir dedicated server","released (Subscribed,Permanent,)",false,true
-756760,"Sniper Elite V2 Remastered Dedicated Server","released (Subscribed,Permanent,)",false,true
 761080,"Battle Splash 2.0 Dedicated Server","released (Subscribed,Permanent,)",true,true
 762880,"Outpost Zero Dedicated Server","released (Subscribed,Permanent,)",true,true
 764860,"Jetball Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -285,7 +256,6 @@
 786920,"SCP: Secret Laboratory ServerMod","released (Subscribed,Permanent,)",true,true
 801230,"Fog Of War - Free Edition Dedicated Server","released (Subscribed,Permanent,)",true,true
 805140,"Battalion 1944 Dedicated Server","released (Subscribed,Permanent,)",true,true
-805210,"Undoing Dedicated Server Tool","released (Subscribed,Permanent,)",false,true
 817300,"Base Defense Dedicated Server","released (Subscribed,Permanent,)",true,true
 823850,"DARCO - Reign of Elements - Dedicated Server","released (Subscribed,Permanent,)",true,true
 824240,"Unfortunate Spacemen Dedicated Server","released (Subscribed,Permanent,)",true,true
@@ -299,37 +269,27 @@
 859010,"UniverCity Dedicated Server","released (Subscribed,Permanent,)",true,true
 878760,"Realm Royale - Test Server","unknown (No License)",true,true
 881430,"Spoxel Dedicated Server","released (Subscribed,Permanent,)",true,true
-881600,"Fasaria World: Ancients of Moons Server","released (Subscribed,Permanent,)",false,true
 882430,"Beasts of Bermuda Dedicated Server","released (Subscribed,Permanent,)",true,true
 886440,"Super Versus Server","released (Subscribed,Permanent,)",true,true
-888520,"Pillage Dedicated Server","released (Subscribed,Permanent,)",false,true
 896050,"scram server","released (Subscribed,Permanent,)",true,true
 897590,"Memories of Mars - Dedicated Server","released (Subscribed,Permanent,)",true,true
-904710,"The Warhorn Dedicated Server","released (Subscribed,Permanent,)",false,true
 908290,"ColdByte Server Composer","unknown (No License)",true,true
-912290,"Miscreated: Experimental Server","released (Subscribed,Permanent,)",false,true
-915070,"Outlaws of the Old West Dedicated Server Tool","released (Subscribed,Permanent,)",false,true
 916110,"BattleRush 2 Dedicated Server","released (Subscribed,Permanent,)",true,true
 931580,"Conan Exiles - Testlive Dedicated Server","released (Subscribed,Permanent,)",true,true
 939320,"Observer - Soundtrack","unknown (No License)",true,true
 944490,"Vox Machinae Dedicated Server","released (Subscribed,Permanent,)",true,true
 947870,"Starcross Arena Dedicated Server","released (Subscribed,Permanent,)",true,true
-950080,"BULLETGROUNDS Dedicated Server","released (Subscribed,Permanent,)",false,true
 950290,"Dedicated Server","released (Subscribed,Permanent,)",true,true
 955080,"Team Fortress 2008 - Dedicated Server","released (Subscribed,Permanent,)",true,true
 965690,"ABYSS Dedicated Server","released (Subscribed,Permanent,)",true,true
 974130,"StickyBots DedicatedServer","released (Subscribed,Permanent,)",true,true
 976380,"Never Split the Party Dedicated Server","released (Subscribed,Permanent,)",true,true
-983360,"Ancestors Legacy Dedicated Server","released (Subscribed,Permanent,)",false,true
 985050,"Action: Source Dedicated Server","released (Subscribed,Permanent,)",true,true
 988950,"Journey of Life - Dedicated Server","released (Subscribed,Permanent,)",true,true
 996560,"SCP: Secret Laboratory Dedicated Server","released (Subscribed,Permanent,)",true,true
-996600,"Heat Dedicated Server","released (Subscribed,Permanent,)",false,true
 1006030,"ATLAS Dedicated Server","released (Subscribed,Permanent,)",true,true
-1006890,"Gunsolvers: Dedicated server","released (Subscribed,Permanent,)",false,true
 1010510,"DCB Server","released (Subscribed,Permanent,)",true,true
 1012730,"九劫曲:诅咒之地 Nine Trials Test Server","unknown (No License)",true,true
-1017070,"Vanguard: Normandy 1944 Dedicated Server","released (Subscribed,Permanent,)",false,true
 1023620,"PlayerVs Dedicated Server","released (Subscribed,Permanent,)",true,true
 1026340,"Barotrauma Dedicated Server","released (Subscribed,Permanent,)",true,true
 1041160,"Observers","unknown (No License)",true,true
@@ -337,17 +297,13 @@
 1054680,"Observers Demo","unknown (No License)",true,true
 1071470,"Planetes Community Dedicated Server","released (Subscribed,Permanent,)",true,true
 1075180,"Beyond Enemy Lines 2 Dedicated Server","released (Subscribed,Permanent,)",true,true
-1075820,"Green Army Men - Dedicated Server","released (Subscribed,Permanent,)",false,true
 1084900,"Task Force Dedicated Server","released (Subscribed,Permanent,)",true,true
 1086350,"Lurking in the Shadows Dedicated Server","released (Subscribed,Permanent,)",true,true
 1088320,"Day of Dragons - Dedicated Server","released (Subscribed,Permanent,)",true,true
 1101560,"灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo","unknown (No License)",true,true
 1110390,"Unturned Dedicated Server","released (Subscribed,Permanent,)",true,true
-1111260,"WBTR Server","released (Subscribed,Permanent,)",false,true
-1119550,"SFIW:DedicatedServer","released (Subscribed,Permanent,)",false,true
 1129070,"Dedicated Server","released (Subscribed,Permanent,)",true,true
 1136460,"Without A Roof (W.A.R.) Dedicated Server","released (Subscribed,Permanent,)",true,true
 1136510,"Warfork Dedicated Server","released (Subscribed,Permanent,)",true,true
-1171790,"Celaria Server","released (Subscribed,Permanent,)",false,true
 1183370,"server","released (Subscribed,Permanent,)",true,true
 1189160,"Re.Poly Server","released (Subscribed,Permanent,)",true,true
