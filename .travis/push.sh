@@ -9,6 +9,7 @@ git checkout ${TRAVIS_BRANCH}
 git add steamcmd_appid_servers.json
 git add steamcmd_appid_servers.csv
 git add steamcmd_appid_servers.md
+git add steamcmd_appid_servers_linux.json
 git commit --message "Travis build: $(date +%Y-%m-%d)"
 
 git push --set-upstream origin ${TRAVIS_BRANCH}
