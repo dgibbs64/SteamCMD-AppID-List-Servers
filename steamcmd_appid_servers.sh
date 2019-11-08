@@ -160,7 +160,7 @@ cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .l
 echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
-steam_servers_linux=$(cat steamcmd_appid_servers.json | jq '[.[] | select(.linux | contains("true"))]'| jq -s '.[]|sort_by(.appid)')
+steam_servers_linux=$(cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true) | jq -s '.[]|sort_by(.appid)')
 echo "${steam_servers_linux}" > steamcmd_appid_servers_linux.json
 
 echo "exit"
