@@ -54,7 +54,7 @@ install_steamcmd
 download_steam_files
 
 echo "Creating steamcmd_appid_servers.json"
-steam_servers=$(cat steamcmd_getapplist.json | jq '[.applist.apps[] | select(.name | contains("server","Server")) |  jq '[.applist.apps[] | (.appid | contains("1054680") | not ) | jq -s '.[]|sort_by(.appid)')
+steam_servers=$(cat steamcmd_getapplist.json | jq '[.applist.apps[] | select(.name | contains("server","Server"))]'| jq -s '.[]|sort_by(.appid)')
 echo "${steam_servers}" > steamcmd_appid_servers.json
 
 echo "Generate tmux script to check servers platform."
