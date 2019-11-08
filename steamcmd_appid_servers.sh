@@ -5,11 +5,6 @@
 # Version: 180922
 # Description: Saves the complete list of all the appid their names in json and csv.
 
-# Set TMUX_SESSIONS For development
-if [ ! -v TMUX_SESSIONS ]; then
-	TMUX_SESSIONS=7
-fi
-
 # Static variables
 rootdir="$(dirname "$(readlink -f "${BASH_SOURCE[0]}")")"
 
@@ -163,11 +158,14 @@ echo "Merging information."
 jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]'  steamcmd_appid_servers.json tmux_steam_server_linux.json tmux_steam_server_windows.json > steamcmd_appid_servers.json$$
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
-#echo "Creating steamcmd_appid_servers.csv"
+echo "Creating steamcmd_appid_servers.csv"
 cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
 
-#echo "Creating steamcmd_appid_servers.md"
+echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
+
+jq '[.applist.apps[] | select(.linux | contains("true"))]' steamcmd_appid_servers.json | jq -s '.[]|sort_by(.appid)') > steamcmd_appid_servers_linux.json
+
 
 echo "exit"
 exit
