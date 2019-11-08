@@ -137,7 +137,6 @@ pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state:
 
 # convert the CSV to JSON
 jq -Rsn '
-
 			[inputs
 			 | . / "\r\n"
 			 | (.[] | select((. | length) > 0) | . / ";") as $input
@@ -155,7 +154,7 @@ mv tmux_steam_server_windows.json$$ tmux_steam_server_windows.json
 
 echo "Merging information."
 
-jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]'  steamcmd_appid_servers.json tmux_steam_server_linux.json tmux_steam_server_windows.json > steamcmd_appid_servers.json$$
+jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' steamcmd_appid_servers.json tmux_steam_server_linux.json tmux_steam_server_windows.json > steamcmd_appid_servers.json$$
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
 echo "Creating steamcmd_appid_servers.csv"
@@ -165,7 +164,6 @@ echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
 jq '[.applist.apps[] | select(.linux | contains("true"))]' steamcmd_appid_servers.json | jq -s '.[]|sort_by(.appid)') > steamcmd_appid_servers_linux.json
-
 
 echo "exit"
 exit
