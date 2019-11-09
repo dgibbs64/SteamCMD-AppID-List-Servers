@@ -2401,6 +2401,13 @@
     "windows": true
   },
   {
+    "appid": 1099850,
+    "name": "Karl BOOM Dedicated Server",
+    "subscription": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "windows": true
+  },
+  {
     "appid": 1101560,
     "name": "灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo",
     "subscription": "unknown (No License)",
@@ -2458,7 +2465,7 @@
   },
   {
     "appid": 1183370,
-    "name": "server",
+    "name": "Mindustry Dedicated Server",
     "subscription": "released (Subscribed,Permanent,)",
     "linux": true,
     "windows": true

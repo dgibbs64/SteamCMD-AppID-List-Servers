@@ -343,6 +343,7 @@
 | 1084900 | Task Force Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | true    |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  | released (Subscribed,Permanent,)                  | true  | true    |
 | 1088320 | Day of Dragons - Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | true    |
+| 1099850 | Karl BOOM Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | true    |
 | 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   | unknown (No License)                              | true  | true    |
 | 1110390 | Unturned Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | true    |
 | 1111260 | WBTR Server                                                              | released (Subscribed,Permanent,)                  | false | true    |
@@ -351,5 +352,5 @@
 | 1136460 | Without A Roof (W.A.R.) Dedicated Server                                 | released (Subscribed,Permanent,)                  | true  | true    |
 | 1136510 | Warfork Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | true    |
 | 1171790 | Celaria Server                                                           | released (Subscribed,Permanent,)                  | false | true    |
-| 1183370 | server                                                                   | released (Subscribed,Permanent,)                  | true  | true    |
+| 1183370 | Mindustry Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | true    |
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | true    |
