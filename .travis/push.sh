@@ -13,5 +13,4 @@ git add steamcmd_appid_servers_linux.json
 git add steamcmd_appid_servers_linux.csv
 git add steamcmd_appid_servers_linux.md
 git commit --message "Travis build: $(date +%Y-%m-%d)"
-
 git push --set-upstream origin ${TRAVIS_BRANCH}
