@@ -126,7 +126,7 @@ jq -Rsn '
 	[inputs
 	 | . / "\r\n"
 	 | (.[] | select((. | length) > 0) | . / ";") as $input
-	 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
+	 | {"appid": $input[0]|tonumber, "subscriptionlinux": $input[1]}
 	]
 ' < tmux_steam_server_linux.csv > tmux_steam_server_linux.json
 
@@ -137,15 +137,16 @@ jq -Rsn '
 	[inputs
 	 | . / "\r\n"
 	 | (.[] | select((. | length) > 0) | . / ";") as $input
-	 | {"appid": $input[0]|tonumber, "subscription": $input[1]}
+	 | {"appid": $input[0]|tonumber, "subscriptionwindows": $input[1]}
 	]
 ' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 
-jq '[.[] | .linux = (.subscription | contains("Invalid Platform") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
+echo "Adding Linux compatibility information."
+jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
 mv tmux_steam_server_linux.json$$ tmux_steam_server_linux.json
 
 echo "Adding Windows compatibility information."
-jq '[.[] | .windows = (.subscription | contains("Invalid Platform") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
+jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
 mv tmux_steam_server_windows.json$$ tmux_steam_server_windows.json
 
 echo "Merging information."
@@ -157,7 +158,7 @@ cat steamcmd_appid_servers.json | jq 'map(select(.appid != 514900 ))' > steamcmd
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
 echo "Creating steamcmd_appid_servers.csv"
-cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
+cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
 
 echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
@@ -165,10 +166,10 @@ cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]] ))' | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_linux.json
 
 echo "Creating steamcmd_appid_servers_linux.csv"
-cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscription] | @csv' > steamcmd_appid_servers_linux.csv
+cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows] | @csv' > steamcmd_appid_servers_linux.csv
 
 echo "Creating steamcmd_appid_servers_linux.md"
-cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscription] | md-table > steamcmd_appid_servers_linux.md
+cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name.subscriptionlinux, .subscriptionwindows] | md-table > steamcmd_appid_servers_linux.md
 
 echo "exit"
 exit
