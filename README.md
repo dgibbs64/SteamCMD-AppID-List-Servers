@@ -19,6 +19,16 @@ You can get the output without using the script.
 [steamcmd_appid_server.csv](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server.csv)
 
 [steamcmd_appid_server.md](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server.md)
+
+### Linux Only
+A list of linux supported servers are listed below
+
+[steamcmd_appid_server_linux.json](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server_linux.json)
+
+[steamcmd_appid_server_linux.csv](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server_linux.csv)
+
+[steamcmd_appid_server_linux.md](https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/master/steamcmd_appid_server_linux.md)
+
 > Travis-CI checks daily for updates and posts them to this repo. So this list will always be up-to-date.
 
 ## Usage
