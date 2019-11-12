@@ -2,7 +2,7 @@
 # steamcmd_appid_servers.sh
 # Author: Daniel Gibbs & Robin Bourne
 # Website: http://danielgibbs.co.uk
-# Version: 180922
+# Version: 191112
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 # Static variables
