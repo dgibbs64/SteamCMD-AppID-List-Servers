@@ -169,7 +169,7 @@ echo "Creating steamcmd_appid_servers_linux.csv"
 cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows] | @csv' > steamcmd_appid_servers_linux.csv
 
 echo "Creating steamcmd_appid_servers_linux.md"
-cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name.subscriptionlinux, .subscriptionwindows] | md-table > steamcmd_appid_servers_linux.md
+cat steamcmd_appid_servers_linux.json | jq '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows]' | md-table > steamcmd_appid_servers_linux.md
 
 echo "exit"
 exit
