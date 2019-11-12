@@ -158,7 +158,7 @@ cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscription, .l
 echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
-cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | map( delpaths( [["linux"], ["windows"]] )) | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_linux.json
+cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]]' )) | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_linux.json
 
 echo "Creating steamcmd_appid_servers_linux.csv"
 cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscription] | @csv' > steamcmd_appid_servers_linux.csv
