@@ -1,20 +1,5 @@
 [
   {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 210,
-    "name": "Source Dedicated Server",
-    "subscription": "unknown (No License)"
-  },
-  {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
     "subscription": "released (Subscribed,Permanent,)"
@@ -42,7 +27,7 @@
   {
     "appid": 740,
     "name": "Counter-Strike Global Offensive - Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)"
+    "subscription": "released (Subscribed,Permanent,)app_status 447760"
   },
   {
     "appid": 1240,

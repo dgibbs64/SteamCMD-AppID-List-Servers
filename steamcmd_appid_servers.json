@@ -7,27 +7,6 @@
     "windows": false
   },
   {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "windows": true
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "windows": true
-  },
-  {
-    "appid": 210,
-    "name": "Source Dedicated Server",
-    "subscription": "unknown (No License)",
-    "linux": true,
-    "windows": true
-  },
-  {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
     "subscription": "released (Subscribed,Permanent,)",
@@ -65,7 +44,7 @@
   {
     "appid": 740,
     "name": "Counter-Strike Global Offensive - Dedicated Server",
-    "subscription": "released (Subscribed,Permanent,)",
+    "subscription": "released (Subscribed,Permanent,)app_status 447760",
     "linux": true,
     "windows": true
   },
