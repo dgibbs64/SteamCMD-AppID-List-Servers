@@ -153,8 +153,6 @@ echo "Merging information."
 jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' steamcmd_appid_servers.json tmux_steam_server_linux.json tmux_steam_server_windows.json > steamcmd_appid_servers.json$$
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
-cat steamcmd_appid_servers.json | jq '[.[] | .windows = (.subscriptionwindows | contains("unknown")  )]'
-
 echo "Filtering false positives."
 cat steamcmd_appid_servers.json | jq 'map(select(.appid != 514900 and (.appid != 559480))' > steamcmd_appid_servers.json$$
 mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
