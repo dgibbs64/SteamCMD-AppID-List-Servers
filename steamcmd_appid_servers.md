@@ -8,7 +8,7 @@
 | 510     | Left 4 Dead Dedicated Server                                             | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 540     | Left 4 Dead Demo Dedicated Server                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)                              | true  | unknown (No License)                              | true    |
-| 635     | Alien Swarm Dedicated Server                                             | unknown (No License)app_status 328950             | true  | unknown (No License)                              | true    |
+| 635     | Alien Swarm Dedicated Server                                             | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 740     | Counter-Strike Global Offensive - Dedicated Server                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | true  | unknown (No License)                              | true    |
