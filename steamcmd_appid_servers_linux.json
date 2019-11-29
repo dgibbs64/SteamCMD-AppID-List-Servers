@@ -1356,6 +1356,12 @@
     "subscriptionwindows": "unknown (No License)"
   },
   {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 696260,
     "name": "Tree of Life - Experimental Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1846,5 +1852,11 @@
     "name": "Re.Poly Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1200740,
+    "name": "LoginToShootingRangeInServer00 VR",
+    "subscriptionlinux": "unknown (No License)",
+    "subscriptionwindows": "unknown (No License)"
   }
 ]

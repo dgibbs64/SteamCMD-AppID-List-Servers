@@ -253,6 +253,7 @@
 | 689780  | Murderous Pursuits Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 692500  | PianoBoard Server                                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 693060  | Perpetuum Dedicated Server                                               | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 696120  | GearStorm Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 696260  | Tree of Life - Experimental Server                                       | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 696640  | Radline + Dedicated Server (obsolete)                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 710560  | Ylands Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -352,3 +353,4 @@
 | 1171790 | Celaria Server                                                           | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1183370 | Mindustry Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1200740 | LoginToShootingRangeInServer00 VR                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
