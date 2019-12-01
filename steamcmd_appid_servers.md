@@ -17,7 +17,7 @@
 | 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 2413    | The Ship Dedicated Server Beta                                           | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 2460    | Bloody Good Time Dedicated Server                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
-| 2740    | ThreadSpace: Hyperbol dedicated server                                   | unknown (No License)                              | true  | unknown (No License)app_status 673990             | true    |
+| 2740    | ThreadSpace: Hyperbol dedicated server                                   | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 4020    | Garry's Mod Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 4207    | Race Internal Beta Dedicated Server                                      | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 4210    | Race Internal Beta Dedicated Server                                      | unknown (No License)                              | true  | unknown (No License)                              | true    |
