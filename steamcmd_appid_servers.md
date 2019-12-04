@@ -4,8 +4,8 @@
 | 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 205     | Source Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 210     | Source Dedicated Server                                                  | unknown (No License)                              | true  | unknown (No License)                              | true    |
-| 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 510     | Left 4 Dead Dedicated Server                                             | unknown (No License)                              | true  | unknown (No License)                              | true    |
+| 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)app_status 230030 | true  | released (Subscribed,Permanent,)                  | true    |
+| 510     | Left 4 Dead Dedicated Server                                             | unknown (No License)                              | true  | unknown (No License)app_status 227050             | true    |
 | 540     | Left 4 Dead Demo Dedicated Server                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 635     | Alien Swarm Dedicated Server                                             | unknown (No License)                              | true  | unknown (No License)                              | true    |

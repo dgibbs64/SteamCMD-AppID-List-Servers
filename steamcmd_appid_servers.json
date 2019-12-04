@@ -34,7 +34,7 @@
   {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionlinux": "released (Subscribed,Permanent,)app_status 230030",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
@@ -44,7 +44,7 @@
     "name": "Left 4 Dead Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": true,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (No License)app_status 227050",
     "windows": true
   },
   {
