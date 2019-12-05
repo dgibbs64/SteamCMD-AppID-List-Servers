@@ -20,14 +20,14 @@
   {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)app_status 230030",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
     "appid": 510,
     "name": "Left 4 Dead Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
-    "subscriptionwindows": "unknown (No License)app_status 227050"
+    "subscriptionwindows": "unknown (No License)"
   },
   {
     "appid": 540,
@@ -75,7 +75,7 @@
     "appid": 2145,
     "name": "Dark Messiah of Might & Magic Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
-    "subscriptionwindows": "unknown (No License)"
+    "subscriptionwindows": "unknown (No License)app_status 485250"
   },
   {
     "appid": 2403,
