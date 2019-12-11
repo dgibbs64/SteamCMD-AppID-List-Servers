@@ -226,6 +226,7 @@
 | 616940  | Cobalt WASD Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 619960  | Just Cause™ 3: Multiplayer - Dedicated Server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 620110  | The Archotek Project Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 621240  | Galaxy in Turmoil Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 622970  | Pavlov VR Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 623990  | Tom Clancy's Rainbow Six Siege - Test Server                             | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 628300  | Stellar Overload Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -311,6 +312,7 @@
 | 912290  | Miscreated: Experimental Server                                          | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 915070  | Outlaws of the Old West Dedicated Server Tool                            | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 916110  | BattleRush 2 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 928530  | Prime & Load: 1776 Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 931580  | Conan Exiles - Testlive Dedicated Server                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 939320  | Observer - Soundtrack                                                    | unknown (No License)                              | true  | unknown (No License)                              | true    |
 | 944490  | Vox Machinae Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -354,3 +356,4 @@
 | 1183370 | Mindustry Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1200740 | LoginToShootingRangeInServer00 VR                                        | unknown (No License)                              | true  | unknown (No License)                              | true    |
+| 1204170 | Onset Dedicated Server                                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |

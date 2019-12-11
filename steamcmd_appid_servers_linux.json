@@ -1206,6 +1206,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 621240,
+    "name": "Galaxy in Turmoil Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
+  },
+  {
     "appid": 622970,
     "name": "Pavlov VR Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1656,6 +1662,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 928530,
+    "name": "Prime & Load: 1776 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 931580,
     "name": "Conan Exiles - Testlive Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1858,5 +1870,11 @@
     "name": "LoginToShootingRangeInServer00 VR",
     "subscriptionlinux": "unknown (No License)",
     "subscriptionwindows": "unknown (No License)"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
   }
 ]
