@@ -2,7 +2,7 @@
 # steamcmd_appid_servers.sh
 # Author: Daniel Gibbs & Robin Bourne
 # Website: http://danielgibbs.co.uk
-# Version: 191112
+# Version: 191212
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 # Static variables
@@ -142,11 +142,11 @@ jq -Rsn '
 ' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 
 echo "Adding Linux compatibility information."
-jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
+jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
 mv tmux_steam_server_linux.json$$ tmux_steam_server_linux.json
 
 echo "Adding Windows compatibility information."
-jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
+jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
 mv tmux_steam_server_windows.json$$ tmux_steam_server_windows.json
 
 echo "Merging information."
