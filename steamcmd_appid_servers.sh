@@ -2,7 +2,7 @@
 # steamcmd_appid_servers.sh
 # Author: Daniel Gibbs & Robin Bourne
 # Website: http://danielgibbs.co.uk
-# Version: 191212
+# Version: 191112
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 # Static variables
@@ -68,7 +68,7 @@ if [ ! -f "tmux_steam_server_output_linux.txt" ]; then
 	touch "tmux_steam_server_output_linux.txt"
 fi
 tmux new -s "tmux-linux" -d './steamcmd/steamcmd.sh +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_linux.txt"
-
+echo ""
 echo "Waiting for SteamCMD prompt."
 while ! grep -q "Steam>" tmux_steam_server_output_linux.txt; do
 	echo -n "."
@@ -81,8 +81,7 @@ done
 # wait for the tmux session to finish
 echo ""
 echo "Waiting for the tmux session to finish."
-while [ "$(tmux ls | wc -l)" -ne "0" ]
-do
+while [ "$(tmux ls | wc -l)" -ne "0" ]; do
 	echo -n "."
 	sleep 1
 done
@@ -100,7 +99,7 @@ if [ ! -f "tmux_steam_server_output_windows.txt" ]; then
 	touch "tmux_steam_server_output_windows.txt"
 fi
 tmux new -s "tmux-windows" -d './steamcmd/steamcmd.sh +@sSteamCmdForcePlatformType windows +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_windows.txt"
-
+echo ""
 echo "Waiting for SteamCMD prompt."
 while ! grep -q "Steam>" tmux_steam_server_output_windows.txt; do
 	echo -n "."
@@ -112,12 +111,12 @@ done
 
 
 # wait for the tmux session to finish
+echo ""
 echo "Waiting for the tmux session to finish."
-while [ "$(tmux ls | wc -l)" -ne "0" ]
-	do
-		echo -n "."
-		sleep 1
-	done
+while [ "$(tmux ls | wc -l)" -ne "0" ]; do
+	echo -n "."
+	sleep 1
+done
 
 pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' tmux_steam_server_output_linux.txt > tmux_steam_server_linux.csv
 
@@ -140,13 +139,14 @@ jq -Rsn '
 	 | {"appid": $input[0]|tonumber, "subscriptionwindows": $input[1]}
 	]
 ' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
+' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 
 echo "Adding Linux compatibility information."
 jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
 mv tmux_steam_server_linux.json$$ tmux_steam_server_linux.json
 
 echo "Adding Windows compatibility information."
-jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
+jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not ) and (.subscriptionwindows | contains("unknown") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
 mv tmux_steam_server_windows.json$$ tmux_steam_server_windows.json
 
 echo "Merging information."
