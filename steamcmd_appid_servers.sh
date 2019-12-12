@@ -2,7 +2,7 @@
 # steamcmd_appid_servers.sh
 # Author: Daniel Gibbs & Robin Bourne
 # Website: http://danielgibbs.co.uk
-# Version: 191112
+# Version: 191212
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 # Static variables
@@ -111,9 +111,8 @@ done
 
 
 # wait for the tmux session to finish
-echo ""
 echo "Waiting for the tmux session to finish."
-while [ "$(tmux ls | wc -l)" -ne "0" ]; do
+while [ "$(tmux ls | wc -l)" -ne "0" ];	do
 	echo -n "."
 	sleep 1
 done
@@ -138,7 +137,6 @@ jq -Rsn '
 	 | (.[] | select((. | length) > 0) | . / ";") as $input
 	 | {"appid": $input[0]|tonumber, "subscriptionwindows": $input[1]}
 	]
-' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 ' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
 
 echo "Adding Linux compatibility information."
