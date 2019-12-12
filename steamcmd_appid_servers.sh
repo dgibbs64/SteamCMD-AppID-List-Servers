@@ -111,6 +111,7 @@ done
 
 
 # wait for the tmux session to finish
+echo ""
 echo "Waiting for the tmux session to finish."
 while [ "$(tmux ls | wc -l)" -ne "0" ];	do
 	echo -n "."
