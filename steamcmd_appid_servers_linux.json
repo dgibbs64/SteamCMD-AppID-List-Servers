@@ -3,7 +3,7 @@
     "appid": 90,
     "name": "Half-Life Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
+    "subscriptionwindows": "released (Subscribed,Permanent,)app_status 31720"
   },
   {
     "appid": 205,
@@ -1058,6 +1058,12 @@
   {
     "appid": 1136510,
     "name": "Warfork Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
