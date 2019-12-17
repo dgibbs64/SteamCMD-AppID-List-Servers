@@ -10,7 +10,7 @@
   {
     "appid": 90,
     "name": "Half-Life Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionlinux": "released (Subscribed,Permanent,)app_status 17585",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
@@ -114,7 +114,7 @@
   {
     "appid": 2403,
     "name": "The Ship Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (No License)app_status 549990",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
