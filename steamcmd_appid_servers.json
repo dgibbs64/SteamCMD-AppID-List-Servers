@@ -10,7 +10,7 @@
   {
     "appid": 90,
     "name": "Half-Life Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)app_status 17585",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
@@ -114,7 +114,7 @@
   {
     "appid": 2403,
     "name": "The Ship Dedicated Server",
-    "subscriptionlinux": "unknown (No License)app_status 549990",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
@@ -2826,6 +2826,14 @@
   {
     "appid": 1171790,
     "name": "Celaria Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1180760,
+    "name": "Risk of Rain 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

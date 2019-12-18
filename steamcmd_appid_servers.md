@@ -1,7 +1,7 @@
 | appid   | name                                                                     | subscriptionlinux                                 | linux | subscriptionwindows                               | windows |
 | ------- | ------------------------------------------------------------------------ | ------------------------------------------------- | ----- | ------------------------------------------------- | ------- |
 | 5       | Dedicated Server                                                         | unknown (Subscribed,Invalid Platform,Permanent,)  | false | unknown (Subscribed,Invalid Platform,Permanent,)  | false   |
-| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)app_status 17585  | true  | released (Subscribed,Permanent,)                  | true    |
+| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 205     | Source Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 210     | Source Dedicated Server                                                  | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -14,7 +14,7 @@
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1290    | Darkest Hour: Europe '44-'45 Dedicated Server                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2145    | Dark Messiah of Might & Magic Dedicated Server                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 2403    | The Ship Dedicated Server                                                | unknown (No License)app_status 549990             | false | unknown (No License)                              | false   |
+| 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2413    | The Ship Dedicated Server Beta                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2460    | Bloody Good Time Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2740    | ThreadSpace: Hyperbol dedicated server                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -354,6 +354,7 @@
 | 1136510 | Warfork Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1169370 | Necesse Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1171790 | Celaria Server                                                           | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 1180760 | Risk of Rain 2 Dedicated Server                                          | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1183370 | Mindustry Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1200740 | LoginToShootingRangeInServer00 VR                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
