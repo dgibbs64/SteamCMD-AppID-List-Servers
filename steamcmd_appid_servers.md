@@ -359,3 +359,4 @@
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1200740 | LoginToShootingRangeInServer00 VR                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1204170 | Onset Dedicated Server                                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1223310 | SRX Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
