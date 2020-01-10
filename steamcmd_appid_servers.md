@@ -171,7 +171,7 @@
 | 474802  | Tree of Savior - Veteran's Pack for EU Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 474803  | Tree of Savior - Veteran's Pack for SA Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 475370  | BrainBread 2 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 476400  | Ground Branch Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 476400  | GROUND BRANCH Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 485250  | The Black Death Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 489650  | Citadel: Forged With Fire Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 490500  | Zero G Arena dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
