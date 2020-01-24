@@ -191,7 +191,7 @@
 | 532330  | Starbound Unstable Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 533830  | Starbound Dedicated Server                                               | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 538480  | SURVIVAL Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 541790  | Days of War Dedicated Server                                             | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 541790  | Days of War Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 545990  | Call of Duty: Black Ops III - Unranked Dedicated Server                  | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 548400  | STEAM HAMMER Dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 549990  | Cobalt Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
