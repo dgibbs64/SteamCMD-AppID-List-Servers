@@ -2926,5 +2926,21 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1275530,
+    "name": "DeadsideServer",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
+  },
+  {
+    "appid": 1277220,
+    "name": "Deep Space Battle Simulator Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   }
 ]
