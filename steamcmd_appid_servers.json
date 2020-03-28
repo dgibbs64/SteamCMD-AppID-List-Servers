@@ -2942,5 +2942,13 @@
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   }
 ]

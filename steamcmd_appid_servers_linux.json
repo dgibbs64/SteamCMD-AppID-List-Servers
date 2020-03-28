@@ -1132,5 +1132,11 @@
     "name": "DeadsideServer",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
   }
 ]
