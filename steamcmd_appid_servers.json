@@ -784,6 +784,14 @@
     "windows": true
   },
   {
+    "appid": 293030,
+    "name": "Contagion Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 294420,
     "name": "7 Days to Die Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
