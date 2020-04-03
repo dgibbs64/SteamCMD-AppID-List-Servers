@@ -2936,6 +2936,14 @@
     "windows": true
   },
   {
+    "appid": 1255430,
+    "name": "Talvisota: Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1275530,
     "name": "DeadsideServer",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
