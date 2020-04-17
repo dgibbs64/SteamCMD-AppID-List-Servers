@@ -2912,6 +2912,14 @@
     "windows": false
   },
   {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1204170,
     "name": "Onset Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
