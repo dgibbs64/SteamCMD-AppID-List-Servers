@@ -340,6 +340,7 @@
 | 1023620 | PlayerVs Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1026340 | Barotrauma Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1041160 | Observers                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1045940 | HYPERCHARGE: Unboxed Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1047650 | Road to Eden - Dedicated server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1050410 | UP Server                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1054680 | Observers Demo                                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
