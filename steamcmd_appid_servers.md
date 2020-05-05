@@ -204,7 +204,7 @@
 | 554272  | Tree of Savior - Fresh Start Pack for SEA Servers                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 554273  | Tree of Savior - Fresh Start Pack for SA Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 556450  | The Forest Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 557690  | Vengeance: Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 557690  | Vengeance: Dedicated Server (OBSOLETE)                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 559440  | Sunset Rangers Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 562720  | Neptune: Arena FPS Dedicated server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 564390  | Serious Sam 2017 Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
