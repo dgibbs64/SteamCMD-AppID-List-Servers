@@ -2,9 +2,9 @@
   {
     "appid": 5,
     "name": "Dedicated Server",
-    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)app_status 17575",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "subscriptionwindows": "unknown (No License)",
     "windows": false
   },
   {
@@ -946,9 +946,9 @@
   {
     "appid": 345950,
     "name": "Down To One Dedicated Server",
-    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "subscriptionwindows": "unknown (No License)",
     "windows": false
   },
   {
