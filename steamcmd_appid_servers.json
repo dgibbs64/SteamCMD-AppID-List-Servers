@@ -1416,14 +1416,6 @@
     "windows": false
   },
   {
-    "appid": 494770,
-    "name": "FIREFIGHT RELOADED Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 497110,
     "name": "Gang Beasts Server",
     "subscriptionlinux": "unknown (No License)",
@@ -2098,6 +2090,14 @@
   {
     "appid": 723520,
     "name": "SCP Project Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 728470,
+    "name": "ASTRONEER Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

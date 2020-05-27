@@ -177,7 +177,6 @@
 | 489650  | Citadel: Forged With Fire Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 490500  | Zero G Arena dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 493970  | Homebrew Vehicle Sandbox - Dedicated Server                              | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 494770  | FIREFIGHT RELOADED Dedicated Server                                      | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 497110  | Gang Beasts Server                                                       | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 508320  | Throne Rushers - Server                                                  | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 512910  | Tree of Savior - Novice Pack for NA Servers                              | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -263,6 +262,7 @@
 | 710560  | Ylands Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 713970  | The Simple Apocalypse Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 723520  | SCP Project Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 728470  | ASTRONEER Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 730810  | Allegiance Server                                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739120  | BattleRush Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739590  | Eco Server                                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
