@@ -2,9 +2,9 @@
   {
     "appid": 5,
     "name": "Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
   },
   {
@@ -2992,6 +2992,14 @@
     "windows": true
   },
   {
+    "appid": 1279430,
+    "name": "Civil Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1280020,
     "name": "Survived - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3038,5 +3046,13 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1336240,
+    "name": "Automobilista 2 Beta - Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]
