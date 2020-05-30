@@ -3050,9 +3050,17 @@
   {
     "appid": 1336240,
     "name": "Automobilista 2 Beta - Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1338040,
+    "name": "Automobilista 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   }
 ]
