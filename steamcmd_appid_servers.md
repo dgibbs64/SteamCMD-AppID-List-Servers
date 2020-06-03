@@ -383,4 +383,4 @@
 | 1328700 | The Vestige - Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1336240 | Automobilista 2 Beta - Dedicated Server                                  | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1338040 | Automobilista 2 - Dedicated Server                                       | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
-| 1339270 | POWER Dedicated Server                                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1339270 | POWER Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |

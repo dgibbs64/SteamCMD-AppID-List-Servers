@@ -3066,8 +3066,8 @@
   {
     "appid": 1339270,
     "name": "POWER Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   }
