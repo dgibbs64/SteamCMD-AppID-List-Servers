@@ -3024,6 +3024,14 @@
     "windows": true
   },
   {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1303430,
     "name": "Gemini: Binary Conflict Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",

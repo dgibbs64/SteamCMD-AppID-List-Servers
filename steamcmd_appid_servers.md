@@ -378,6 +378,7 @@
 | 1280020 | Survived - Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1292030 | Retail Royale Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1292350 | pla_toon Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1301040 | Mod and Play Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1303430 | Gemini: Binary Conflict Dedicated Server                                 | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1307050 | Spoils of Plunder dedicated server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1328700 | The Vestige - Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
