@@ -1,7 +1,7 @@
 | appid   | name                                                                     | subscriptionlinux                                 | linux | subscriptionwindows                               | windows |
 | ------- | ------------------------------------------------------------------------ | ------------------------------------------------- | ----- | ------------------------------------------------- | ------- |
 | 5       | Dedicated Server                                                         | unknown (Subscribed,Invalid Platform,Permanent,)  | false | unknown (Subscribed,Invalid Platform,Permanent,)  | false   |
-| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 90      | Half-Life Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)app_status 44720  | true    |
 | 205     | Source Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 210     | Source Dedicated Server                                                  | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -339,6 +339,7 @@
 | 1017070 | Vanguard: Normandy 1944 Dedicated Server                                 | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1023620 | PlayerVs Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1026340 | Barotrauma Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1035540 | Fragsurf Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1041160 | Observers                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1045940 | HYPERCHARGE: Unboxed Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1047650 | Road to Eden - Dedicated server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
