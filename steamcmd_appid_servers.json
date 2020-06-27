@@ -12,7 +12,7 @@
     "name": "Half-Life Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)app_status 44720",
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
   {
@@ -3034,10 +3034,10 @@
   {
     "appid": 1301040,
     "name": "Mod and Play Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 1303430,
@@ -3086,5 +3086,13 @@
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1360240,
+    "name": "Fisty Cuffs Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]

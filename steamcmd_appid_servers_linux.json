@@ -3,7 +3,7 @@
     "appid": 90,
     "name": "Half-Life Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)app_status 44720"
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
     "appid": 205,
@@ -1190,6 +1190,12 @@
   {
     "appid": 1292350,
     "name": "pla_toon Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
