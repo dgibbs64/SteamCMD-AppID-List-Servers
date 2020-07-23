@@ -10,7 +10,7 @@
 | 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 635     | Alien Swarm Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 740     | Counter-Strike Global Offensive - Dedicated Server                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)app_status 497110             | false   |
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1290    | Darkest Hour: Europe '44-'45 Dedicated Server                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2145    | Dark Messiah of Might & Magic Dedicated Server                           | unknown (No License)                              | false | unknown (No License)                              | false   |
