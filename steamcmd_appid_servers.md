@@ -10,7 +10,7 @@
 | 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 635     | Alien Swarm Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 740     | Counter-Strike Global Offensive - Dedicated Server                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)app_status 497110             | false   |
+| 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1290    | Darkest Hour: Europe '44-'45 Dedicated Server                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2145    | Dark Messiah of Might & Magic Dedicated Server                           | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -93,13 +93,11 @@
 | 239510  | America's Army: Proving Grounds Beta Dedicated Server                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 244310  | Source SDK Base 2013 Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 255470  | Half-Life Deathmatch: Source Dedicated server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 258550  | Rust Dedicated Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 261020  | Takedown: Red Sabre Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 265360  | Kingdoms Rise Dedicated Server                                           | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 273530  | Centration Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 276060  | Sven Co-op Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 293030  | Contagion Dedicated Server                                               | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 294420  | 7 Days to Die Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 295230  | Fistful of Frags Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 298740  | Space Engineers Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 299310  | Serious Sam Classics: Revolution Dedicated Server                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -265,7 +263,6 @@
 | 728470  | ASTRONEER Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 730810  | Allegiance Server                                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739120  | BattleRush Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 739590  | Eco Server                                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739606  | In Another World With My Smartphone: Nation of Beastmen, and an Observer | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 745640  | Gamiflux Server                                                          | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 746200  | Post Scriptum Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
