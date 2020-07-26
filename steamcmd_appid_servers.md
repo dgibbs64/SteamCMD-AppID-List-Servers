@@ -156,7 +156,6 @@
 | 451320  | Founder's Server : Exclusive Access 3                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 452430  | Founder's Server : Exclusive Access 1                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 453420  | Formicide Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 460040  | Empires Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 460300  | Ice Lakes Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 460320  | MetaTron Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 460670  | The Lost Island Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -283,6 +282,7 @@
 | 770720  | Hunt: Showdown (Test Server)                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 774061  | The Prison Game Dedicated Server Tool                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 774771  | Original War Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 774961  | Squad - Public Test Dedicated Server                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 777030  | FTR Windows Server                                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 777180  | Game Server Toolbox                                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 779350  | TRAFICO - Battle Royale Test Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |

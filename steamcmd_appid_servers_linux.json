@@ -372,12 +372,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 460040,
-    "name": "Empires Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 460300,
     "name": "Ice Lakes Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -806,6 +800,12 @@
   {
     "appid": 774771,
     "name": "Original War Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
