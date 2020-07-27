@@ -744,14 +744,6 @@
     "windows": true
   },
   {
-    "appid": 258550,
-    "name": "Rust Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 261020,
     "name": "Takedown: Red Sabre Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1680,14 +1672,6 @@
     "windows": true
   },
   {
-    "appid": 581330,
-    "name": "Insurgency: Sandstorm Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 582320,
     "name": "RHdedicatedserver",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1885,14 +1869,6 @@
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 660470,
-    "name": "Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
   },
   {
@@ -2286,14 +2262,6 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
-  },
-  {
-    "appid": 786920,
-    "name": "SCP: Secret Laboratory ServerMod",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   },
   {
     "appid": 801230,
@@ -2786,14 +2754,6 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

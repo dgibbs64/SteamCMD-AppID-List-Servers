@@ -93,7 +93,6 @@
 | 239510  | America's Army: Proving Grounds Beta Dedicated Server                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 244310  | Source SDK Base 2013 Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 255470  | Half-Life Deathmatch: Source Dedicated server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 258550  | Rust Dedicated Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 261020  | Takedown: Red Sabre Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 265360  | Kingdoms Rise Dedicated Server                                           | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 273530  | Centration Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -210,7 +209,6 @@
 | 568660  | Lost Region Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 568880  | Sniper Elite 4 Dedicated Server                                          | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 574390  | Fog of War Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 581330  | Insurgency: Sandstorm Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 582320  | RHdedicatedserver                                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 582400  | Alien Swarm: Reactive Drop Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 587020  | Strike Vector EX Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -236,7 +234,6 @@
 | 643090  | Them's Fightin' Herds Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 643450  | Magical Girl Raising Project: Server Down for Maintenance                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 649390  | RutonyChat - Restream Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 660470  | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 663680  | Restricted-RPS - Public Server Rights                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 667230  | Capsa Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 668390  | Hanako: Honor & Blade Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -286,7 +283,6 @@
 | 777030  | FTR Windows Server                                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 777180  | Game Server Toolbox                                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 779350  | TRAFICO - Battle Royale Test Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 786920  | SCP: Secret Laboratory ServerMod                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 801230  | Fog Of War - Free Edition Dedicated Server                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 805140  | Battalion 1944 Dedicated Server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 805210  | Undoing Dedicated Server Tool                                            | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -349,7 +345,6 @@
 | 1075820 | Green Army Men - Dedicated Server                                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1084900 | Task Force Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1088320 | Day of Dragons - Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1099850 | Karl BOOM Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1110390 | Unturned Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
