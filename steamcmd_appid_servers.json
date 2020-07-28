@@ -2,7 +2,7 @@
   {
     "appid": 5,
     "name": "Dedicated Server",
-    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)app_status 17585",
     "linux": false,
     "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
@@ -1240,6 +1240,14 @@
     "windows": true
   },
   {
+    "appid": 460040,
+    "name": "Empires Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 460300,
     "name": "Ice Lakes Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1672,6 +1680,14 @@
     "windows": true
   },
   {
+    "appid": 581330,
+    "name": "Insurgency: Sandstorm Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 582320,
     "name": "RHdedicatedserver",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1869,6 +1885,14 @@
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 660470,
+    "name": "Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
   },
   {
@@ -2232,14 +2256,6 @@
     "windows": true
   },
   {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 777030,
     "name": "FTR Windows Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2262,6 +2278,14 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 786920,
+    "name": "SCP: Secret Laboratory ServerMod",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 801230,
@@ -2396,14 +2420,6 @@
     "name": "Fasaria World: Ancients of Moons Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 882430,
-    "name": "Beasts of Bermuda Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2754,6 +2770,14 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

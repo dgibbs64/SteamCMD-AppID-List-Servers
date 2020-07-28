@@ -1,4 +1,4 @@
-5,"Dedicated Server","unknown (Subscribed,Invalid Platform,Permanent,)","unknown (Subscribed,Invalid Platform,Permanent,)",false,false
+5,"Dedicated Server","unknown (Subscribed,Invalid Platform,Permanent,)app_status 17585","unknown (Subscribed,Invalid Platform,Permanent,)",false,false
 90,"Half-Life Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 205,"Source Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 210,"Source Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -153,6 +153,7 @@
 451320,"Founder's Server : Exclusive Access 3","unknown (No License)","unknown (No License)",false,false
 452430,"Founder's Server : Exclusive Access 1","unknown (No License)","unknown (No License)",false,false
 453420,"Formicide Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+460040,"Empires Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 460300,"Ice Lakes Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 460320,"MetaTron Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 460670,"The Lost Island Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -207,6 +208,7 @@
 568660,"Lost Region Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 568880,"Sniper Elite 4 Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 574390,"Fog of War Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+581330,"Insurgency: Sandstorm Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 582320,"RHdedicatedserver","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 582400,"Alien Swarm: Reactive Drop Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 587020,"Strike Vector EX Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
@@ -232,6 +234,7 @@
 643090,"Them's Fightin' Herds Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 643450,"Magical Girl Raising Project: Server Down for Maintenance","unknown (No License)","unknown (No License)",false,false
 649390,"RutonyChat - Restream Server","unknown (No License)","unknown (No License)",false,false
+660470,"Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Invalid Platform,Permanent,)",true,false
 663680,"Restricted-RPS - Public Server Rights","unknown (No License)","unknown (No License)",false,false
 667230,"Capsa Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 668390,"Hanako: Honor & Blade Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
@@ -277,10 +280,10 @@
 770720,"Hunt: Showdown (Test Server)","unknown (No License)","unknown (No License)",false,false
 774061,"The Prison Game Dedicated Server Tool","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 774771,"Original War Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
-774961,"Squad - Public Test Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 777030,"FTR Windows Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 777180,"Game Server Toolbox","unknown (No License)","unknown (No License)",false,false
 779350,"TRAFICO - Battle Royale Test Server","unknown (No License)","unknown (No License)",false,false
+786920,"SCP: Secret Laboratory ServerMod","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 801230,"Fog Of War - Free Edition Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 805140,"Battalion 1944 Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 805210,"Undoing Dedicated Server Tool","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
@@ -298,7 +301,6 @@
 878760,"Realm Royale - Test Server","unknown (No License)","unknown (No License)",false,false
 881430,"Spoxel Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 881600,"Fasaria World: Ancients of Moons Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
-882430,"Beasts of Bermuda Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 886440,"Super Versus Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 888520,"Pillage Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 896050,"scram server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
@@ -343,6 +345,7 @@
 1075820,"Green Army Men - Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 1084900,"Task Force Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 1086350,"Lurking in the Shadows Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+1088320,"Day of Dragons - Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 1099850,"Karl BOOM Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 1101560,"灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo","unknown (No License)","unknown (No License)",false,false
 1110390,"Unturned Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
