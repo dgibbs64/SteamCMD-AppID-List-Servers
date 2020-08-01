@@ -85,6 +85,7 @@
 | 227050  | Left 4 Dead 2 Beta - Linux Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 228780  | Blade Symphony Dedicated Server                                          | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 230030  | Painkiller Hell & Damnation Dedicated Server                             | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 232130  | Killing Floor 2 - Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 232250  | Team Fortress 2 Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 233780  | Arma 3 Server                                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 237410  | Insurgency Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -145,7 +146,6 @@
 | 429400  | Warhammer 40,000: Dark Nexus Arena Dedicated Server                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 439660  | Tower Unite Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 439700  | H1Z1: Test Server                                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 443030  | Conan Exiles Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 443050  | The Ship: Remasted Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 447760  | Automobilista - Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 449740  | Alchemist's Awakening Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -232,7 +232,6 @@
 | 630230  | DNL Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 638100  | Kreedz Climbing Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 638500  | Soldat Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 643090  | Them's Fightin' Herds Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 643450  | Magical Girl Raising Project: Server Down for Maintenance                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 649390  | RutonyChat - Restream Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 660470  | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
@@ -266,7 +265,6 @@
 | 739590  | Eco Server                                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739606  | In Another World With My Smartphone: Nation of Beastmen, and an Observer | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 745640  | Gamiflux Server                                                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 746200  | Post Scriptum Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 748090  | Colony Survival Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 749070  | Ymir dedicated server                                                    | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 756760  | Sniper Elite V2 Remastered Dedicated Server                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -348,6 +346,7 @@
 | 1075820 | Green Army Men - Dedicated Server                                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1084900 | Task Force Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1088320 | Day of Dragons - Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1099850 | Karl BOOM Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1111260 | WBTR Server                                                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -368,7 +367,6 @@
 | 1215190 | Warfare 1944 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1222650 | Space Impossible Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1223310 | SRX Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1247090 | Stormworks Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1255430 | Talvisota: Dedicated Server                                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1275530 | DeadsideServer                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 1277220 | Deep Space Battle Simulator Dedicated Server                             | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -385,5 +383,6 @@
 | 1338040 | Automobilista 2 - Dedicated Server                                       | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1339270 | POWER Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1360240 | Fisty Cuffs Server                                                       | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1377850 | Server is Down                                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1380950 | Fadeout Dedicated Server (alpha)                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1382420 | Tomatenquark Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |

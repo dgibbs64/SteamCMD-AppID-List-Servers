@@ -680,6 +680,14 @@
     "windows": false
   },
   {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 232250,
     "name": "Team Fortress 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1158,14 +1166,6 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
-  },
-  {
-    "appid": 443030,
-    "name": "Conan Exiles Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   },
   {
     "appid": 443050,
@@ -1856,14 +1856,6 @@
     "windows": true
   },
   {
-    "appid": 643090,
-    "name": "Them's Fightin' Herds Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 643450,
     "name": "Magical Girl Raising Project: Server Down for Maintenance",
     "subscriptionlinux": "unknown (No License)",
@@ -2126,14 +2118,6 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
-  },
-  {
-    "appid": 746200,
-    "name": "Post Scriptum Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   },
   {
     "appid": 748090,
@@ -2784,6 +2768,14 @@
     "windows": true
   },
   {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1099850,
     "name": "Karl BOOM Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2944,14 +2936,6 @@
     "windows": true
   },
   {
-    "appid": 1247090,
-    "name": "Stormworks Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 1255430,
     "name": "Talvisota: Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -3074,6 +3058,14 @@
   {
     "appid": 1360240,
     "name": "Fisty Cuffs Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 1377850,
+    "name": "Server is Down",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
