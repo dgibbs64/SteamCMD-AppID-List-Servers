@@ -248,14 +248,6 @@
     "windows": false
   },
   {
-    "appid": 17505,
-    "name": "Zombie Panic! Source Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 17515,
     "name": "Age of Chivalry Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -744,6 +736,14 @@
     "windows": true
   },
   {
+    "appid": 258550,
+    "name": "Rust Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 261020,
     "name": "Takedown: Red Sabre Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1168,6 +1168,14 @@
     "windows": false
   },
   {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1376,14 +1384,6 @@
     "windows": true
   },
   {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 490500,
     "name": "Zero G Arena dedicated server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1474,14 +1474,6 @@
   {
     "appid": 526340,
     "name": "Voxel Turf Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 530870,
-    "name": "Empyrion - Galactic Survival Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1856,6 +1848,14 @@
     "windows": true
   },
   {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 643450,
     "name": "Magical Girl Raising Project: Server Down for Maintenance",
     "subscriptionlinux": "unknown (No License)",
@@ -2118,6 +2118,14 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 748090,
@@ -2404,14 +2412,6 @@
     "name": "Fasaria World: Ancients of Moons Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 882430,
-    "name": "Beasts of Bermuda Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2792,6 +2792,14 @@
     "windows": false
   },
   {
+    "appid": 1110390,
+    "name": "Unturned Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1111260,
     "name": "WBTR Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2936,6 +2944,14 @@
     "windows": true
   },
   {
+    "appid": 1247090,
+    "name": "Stormworks Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1255430,
     "name": "Talvisota: Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2970,14 +2986,6 @@
   {
     "appid": 1280020,
     "name": "Survived - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1292030,
-    "name": "Retail Royale Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

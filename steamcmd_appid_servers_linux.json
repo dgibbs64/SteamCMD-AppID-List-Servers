@@ -30,12 +30,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 17505,
-    "name": "Zombie Panic! Source Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 17515,
     "name": "Age of Chivalry Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -128,6 +122,12 @@
   {
     "appid": 255470,
     "name": "Half-Life Deathmatch: Source Dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -330,6 +330,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -402,12 +408,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 489650,
-    "name": "Citadel: Forged With Fire Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 490500,
     "name": "Zero G Arena dedicated server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -422,12 +422,6 @@
   {
     "appid": 526340,
     "name": "Voxel Turf Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 530870,
-    "name": "Empyrion - Galactic Survival Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -630,6 +624,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 660470,
     "name": "Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -740,6 +740,12 @@
   {
     "appid": 739590,
     "name": "Eco Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -872,12 +878,6 @@
   {
     "appid": 881430,
     "name": "Spoxel Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 882430,
-    "name": "Beasts of Bermuda Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -1062,6 +1062,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 1110390,
+    "name": "Unturned Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 1129070,
     "name": "Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1134,6 +1140,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 1247090,
+    "name": "Stormworks Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 1275530,
     "name": "DeadsideServer",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1148,12 +1160,6 @@
   {
     "appid": 1280020,
     "name": "Survived - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1292030,
-    "name": "Retail Royale Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
