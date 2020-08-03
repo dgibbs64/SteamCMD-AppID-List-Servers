@@ -30,6 +30,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 17505,
+    "name": "Zombie Panic! Source Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 17515,
     "name": "Age of Chivalry Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -408,6 +414,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 490500,
     "name": "Zero G Arena dedicated server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -422,6 +434,12 @@
   {
     "appid": 526340,
     "name": "Voxel Turf Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 530870,
+    "name": "Empyrion - Galactic Survival Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -536,12 +554,6 @@
   {
     "appid": 598850,
     "name": "Hellion Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 600760,
-    "name": "Stationeers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -702,12 +714,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 713970,
     "name": "The Simple Apocalypse Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -734,12 +740,6 @@
   {
     "appid": 739120,
     "name": "BattleRush Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 739590,
-    "name": "Eco Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -912,12 +912,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 931580,
-    "name": "Conan Exiles - Testlive Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 944490,
     "name": "Vox Machinae Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -968,12 +962,6 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -1160,6 +1148,12 @@
   {
     "appid": 1280020,
     "name": "Survived - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1292030,
+    "name": "Retail Royale Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
