@@ -792,14 +792,6 @@
     "windows": false
   },
   {
-    "appid": 294420,
-    "name": "7 Days to Die Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1888,14 +1880,6 @@
     "windows": false
   },
   {
-    "appid": 660470,
-    "name": "Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
-    "windows": false
-  },
-  {
     "appid": 663680,
     "name": "Restricted-RPS - Public Server Rights",
     "subscriptionlinux": "unknown (No License)",
@@ -2058,6 +2042,14 @@
   {
     "appid": 696640,
     "name": "Radline + Dedicated Server (obsolete)",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2496,6 +2488,14 @@
     "windows": true
   },
   {
+    "appid": 931580,
+    "name": "Conan Exiles - Testlive Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 939320,
     "name": "Observer - Soundtrack",
     "subscriptionlinux": "unknown (No License)",
@@ -2848,14 +2848,6 @@
     "windows": true
   },
   {
-    "appid": 1180760,
-    "name": "Risk of Rain 2 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 1183370,
     "name": "Mindustry Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2892,6 +2884,14 @@
     "name": "Onset Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1207110,
+    "name": " GROUND BRANCH CTE Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
