@@ -1,17 +1,5 @@
 [
   {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -96,12 +84,6 @@
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   },
   {
-    "appid": 232130,
-    "name": "Killing Floor 2 - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 232250,
     "name": "Team Fortress 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -132,12 +114,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 258550,
-    "name": "Rust Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 273530,
     "name": "Centration Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -146,6 +122,12 @@
   {
     "appid": 276060,
     "name": "Sven Co-op Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -260,12 +242,6 @@
   {
     "appid": 402370,
     "name": "Wurm Unlimited Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 403240,
-    "name": "Squad Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -552,6 +528,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 604100,
     "name": "Rokh Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -634,6 +616,12 @@
     "name": "Them's Fightin' Herds Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 660470,
+    "name": "Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   },
   {
     "appid": 668390,
@@ -786,12 +774,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 777030,
     "name": "FTR Windows Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -872,6 +854,12 @@
   {
     "appid": 881430,
     "name": "Spoxel Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -966,6 +954,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 1003980,
     "name": "Right to Rule Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1034,12 +1028,6 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },

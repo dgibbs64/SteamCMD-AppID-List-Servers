@@ -1,37 +1,5 @@
 [
   {
-    "appid": 5,
-    "name": "Dedicated Server",
-    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
-    "windows": false
-  },
-  {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 210,
-    "name": "Source Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -536,14 +504,6 @@
     "windows": true
   },
   {
-    "appid": 208050,
-    "name": "Sniper Elite V2 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 210370,
     "name": "Starvoid Server",
     "subscriptionlinux": "unknown (No License)",
@@ -680,14 +640,6 @@
     "windows": false
   },
   {
-    "appid": 232130,
-    "name": "Killing Floor 2 - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 232250,
     "name": "Team Fortress 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -744,14 +696,6 @@
     "windows": true
   },
   {
-    "appid": 258550,
-    "name": "Rust Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 261020,
     "name": "Takedown: Red Sabre Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -790,6 +734,14 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 295230,
@@ -1050,14 +1002,6 @@
   {
     "appid": 402370,
     "name": "Wurm Unlimited Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 403240,
-    "name": "Squad Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1664,14 +1608,6 @@
     "windows": true
   },
   {
-    "appid": 568880,
-    "name": "Sniper Elite 4 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 574390,
     "name": "Fog of War Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1730,6 +1666,14 @@
   {
     "appid": 598850,
     "name": "Hellion Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1877,6 +1821,14 @@
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 660470,
+    "name": "Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
   },
   {
@@ -2232,14 +2184,6 @@
     "windows": true
   },
   {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 777030,
     "name": "FTR Windows Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2404,6 +2348,14 @@
     "name": "Fasaria World: Ancients of Moons Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2592,6 +2544,14 @@
     "windows": true
   },
   {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 996600,
     "name": "Heat Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2752,14 +2712,6 @@
     "windows": true
   },
   {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 1099850,
     "name": "Karl BOOM Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2842,6 +2794,14 @@
   {
     "appid": 1171790,
     "name": "Celaria Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1180760,
+    "name": "Risk of Rain 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
