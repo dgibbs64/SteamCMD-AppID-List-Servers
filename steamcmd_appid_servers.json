@@ -1,5 +1,37 @@
 [
   {
+    "appid": 5,
+    "name": "Dedicated Server",
+    "subscriptionlinux": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "unknown (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
+  },
+  {
+    "appid": 90,
+    "name": "Half-Life Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 205,
+    "name": "Source Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 210,
+    "name": "Source Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 310,
     "name": "Source 2007 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -504,6 +536,14 @@
     "windows": true
   },
   {
+    "appid": 208050,
+    "name": "Sniper Elite V2 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 210370,
     "name": "Starvoid Server",
     "subscriptionlinux": "unknown (No License)",
@@ -640,6 +680,14 @@
     "windows": false
   },
   {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 232250,
     "name": "Team Fortress 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -690,6 +738,14 @@
   {
     "appid": 255470,
     "name": "Half-Life Deathmatch: Source Dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1008,6 +1064,14 @@
     "windows": true
   },
   {
+    "appid": 403240,
+    "name": "Squad Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 405100,
     "name": "Hurtworld Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1102,14 +1166,6 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
-  },
-  {
-    "appid": 439700,
-    "name": "H1Z1: Test Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
   },
   {
     "appid": 443030,
@@ -1368,38 +1424,6 @@
     "windows": false
   },
   {
-    "appid": 512910,
-    "name": "Tree of Savior - Novice Pack for NA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 512911,
-    "name": "Tree of Savior - Novice Pack for EU Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 512912,
-    "name": "Tree of Savior - Novice Pack for SEA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 512913,
-    "name": "Tree of Savior - Novice Pack for SA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 516860,
     "name": "Of Kings And Men Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -1604,6 +1628,14 @@
     "name": "Lost Region Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 568880,
+    "name": "Sniper Elite 4 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1832,14 +1864,6 @@
     "windows": false
   },
   {
-    "appid": 663680,
-    "name": "Restricted-RPS - Public Server Rights",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 667230,
     "name": "Capsa Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2048,6 +2072,14 @@
     "windows": true
   },
   {
+    "appid": 739590,
+    "name": "Eco Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 739606,
     "name": "In Another World With My Smartphone: Nation of Beastmen, and an Observer",
     "subscriptionlinux": "unknown (No License)",
@@ -2178,6 +2210,14 @@
   {
     "appid": 774771,
     "name": "Original War Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2712,6 +2752,14 @@
     "windows": true
   },
   {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1099850,
     "name": "Karl BOOM Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2974,14 +3022,6 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
-  },
-  {
-    "appid": 1328700,
-    "name": "The Vestige - Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
   },
   {
     "appid": 1336240,
