@@ -7,7 +7,7 @@
 | 310     | Source 2007 Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 510     | Left 4 Dead Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 540     | Left 4 Dead Demo Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)app_status 384850             | false | unknown (No License)                              | false   |
+| 560     | Left 4 Dead 2 Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 635     | Alien Swarm Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 740     | Counter-Strike Global Offensive - Dedicated Server                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1240    | Mare Nostrum Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
