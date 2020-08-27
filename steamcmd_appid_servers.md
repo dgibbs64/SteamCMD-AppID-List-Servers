@@ -277,7 +277,6 @@
 | 770720  | Hunt: Showdown (Test Server)                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 774061  | The Prison Game Dedicated Server Tool                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 774771  | Original War Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 774961  | Squad - Public Test Dedicated Server                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 777030  | FTR Windows Server                                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 777180  | Game Server Toolbox                                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 779350  | TRAFICO - Battle Royale Test Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -323,7 +322,6 @@
 | 983360  | Ancestors Legacy Dedicated Server                                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 985050  | Action: Source Dedicated Server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 988950  | Journey of Life - Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 996560  | SCP: Secret Laboratory Dedicated Server                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 996600  | Heat Dedicated Server                                                    | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1003980 | Right to Rule Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1006030 | ATLAS Dedicated Server                                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
