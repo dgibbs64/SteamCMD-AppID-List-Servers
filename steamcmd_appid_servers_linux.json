@@ -24,12 +24,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 4020,
-    "name": "Garry's Mod Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 17505,
     "name": "Zombie Panic! Source Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -94,12 +88,6 @@
     "name": "Left 4 Dead 2 Beta - Linux Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
-  },
-  {
-    "appid": 232130,
-    "name": "Killing Floor 2 - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
     "appid": 232250,
@@ -684,12 +672,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 680870,
-    "name": "Airmen Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 685100,
     "name": "Crafting Dead Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -752,12 +734,6 @@
   {
     "appid": 739120,
     "name": "BattleRush Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 739590,
-    "name": "Eco Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -990,6 +966,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 1003980,
     "name": "Right to Rule Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1058,12 +1040,6 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },

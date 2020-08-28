@@ -144,14 +144,6 @@
     "windows": false
   },
   {
-    "appid": 4020,
-    "name": "Garry's Mod Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 4207,
     "name": "Race Internal Beta Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -680,14 +672,6 @@
     "windows": false
   },
   {
-    "appid": 232130,
-    "name": "Killing Floor 2 - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 232250,
     "name": "Team Fortress 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -818,14 +802,6 @@
   {
     "appid": 299310,
     "name": "Serious Sam Classics: Revolution Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 302200,
-    "name": "Miscreated Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1912,14 +1888,6 @@
     "windows": true
   },
   {
-    "appid": 680870,
-    "name": "Airmen Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 682380,
     "name": "Tree of Savior - Reset Pack for NA Servers",
     "subscriptionlinux": "unknown (No License)",
@@ -2066,14 +2034,6 @@
   {
     "appid": 739120,
     "name": "BattleRush Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 739590,
-    "name": "Eco Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2576,6 +2536,14 @@
     "windows": true
   },
   {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 996600,
     "name": "Heat Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2730,14 +2698,6 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -3040,6 +3000,14 @@
     "windows": false
   },
   {
+    "appid": 1362640,
+    "name": "Subsistence Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1377850,
     "name": "Server is Down",
     "subscriptionlinux": "unknown (No License)",
@@ -3062,5 +3030,21 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1386900,
+    "name": "Observer: System Redux",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 1402890,
+    "name": "Observer: System Redux Demo",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]
