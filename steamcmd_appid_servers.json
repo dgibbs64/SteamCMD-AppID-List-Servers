@@ -64,6 +64,14 @@
     "windows": false
   },
   {
+    "appid": 635,
+    "name": "Alien Swarm Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 740,
     "name": "Counter-Strike Global Offensive - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -72,8 +80,24 @@
     "windows": true
   },
   {
+    "appid": 1240,
+    "name": "Mare Nostrum Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1273,
     "name": "Killing Floor Beta Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 1290,
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
@@ -272,14 +296,6 @@
     "windows": true
   },
   {
-    "appid": 17585,
-    "name": "Dystopia Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 17595,
     "name": "Dystopia Beta Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -382,6 +398,14 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 42750,
@@ -584,6 +608,22 @@
     "windows": false
   },
   {
+    "appid": 223240,
+    "name": "Red Orchestra Windows Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 223250,
+    "name": "Red Orchestra Linux Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 223350,
     "name": "DayZ Server",
     "subscriptionlinux": "unknown (No License)",
@@ -728,6 +768,14 @@
     "windows": true
   },
   {
+    "appid": 276060,
+    "name": "Sven Co-op Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 293030,
     "name": "Contagion Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -760,8 +808,8 @@
     "windows": true
   },
   {
-    "appid": 302200,
-    "name": "Miscreated Dedicated Server",
+    "appid": 299310,
+    "name": "Serious Sam Classics: Revolution Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2008,14 +2056,6 @@
     "windows": true
   },
   {
-    "appid": 739590,
-    "name": "Eco Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 739606,
     "name": "In Another World With My Smartphone: Nation of Beastmen, and an Observer",
     "subscriptionlinux": "unknown (No License)",
@@ -2328,14 +2368,6 @@
     "windows": true
   },
   {
-    "appid": 882430,
-    "name": "Beasts of Bermuda Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 886440,
     "name": "Super Versus Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2382,14 +2414,6 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
-  },
-  {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   },
   {
     "appid": 915070,
@@ -2514,14 +2538,6 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",

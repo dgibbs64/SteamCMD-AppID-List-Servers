@@ -48,14 +48,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 17585,
-    "name": "Dystopia Dedicated Server",
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 17705,
-    "name": "Insurgency Mod Dedicated Server",
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -134,6 +134,12 @@
   {
     "appid": 273530,
     "name": "Centration Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 276060,
+    "name": "Sven Co-op Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -744,12 +750,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 739590,
-    "name": "Eco Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 746200,
     "name": "Post Scriptum Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -888,12 +888,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 882430,
-    "name": "Beasts of Bermuda Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 886440,
     "name": "Super Versus Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -980,12 +974,6 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
