@@ -296,6 +296,14 @@
     "windows": true
   },
   {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 17595,
     "name": "Dystopia Beta Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -736,14 +744,6 @@
     "windows": true
   },
   {
-    "appid": 258550,
-    "name": "Rust Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 261020,
     "name": "Takedown: Red Sabre Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -810,6 +810,14 @@
   {
     "appid": 299310,
     "name": "Serious Sam Classics: Revolution Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 302200,
+    "name": "Miscreated Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2416,6 +2424,14 @@
     "windows": false
   },
   {
+    "appid": 912290,
+    "name": "Miscreated: Experimental Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 915070,
     "name": "Outlaws of the Old West Dedicated Server Tool",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2844,14 +2860,6 @@
     "name": "Onset Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1207110,
-    "name": " GROUND BRANCH CTE Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },

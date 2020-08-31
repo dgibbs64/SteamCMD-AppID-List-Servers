@@ -48,6 +48,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 17705,
     "name": "Insurgency Mod Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -122,12 +128,6 @@
   {
     "appid": 255470,
     "name": "Half-Life Deathmatch: Source Dedicated server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 258550,
-    "name": "Rust Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
