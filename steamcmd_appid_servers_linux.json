@@ -60,12 +60,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 41080,
-    "name": "Serious Sam 3 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 111710,
     "name": "Nuclear Dawn - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -146,6 +140,12 @@
   {
     "appid": 276060,
     "name": "Sven Co-op Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -320,12 +320,6 @@
   {
     "appid": 429400,
     "name": "Warhammer 40,000: Dark Nexus Arena Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 439660,
-    "name": "Tower Unite Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -648,12 +642,6 @@
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   },
   {
-    "appid": 668390,
-    "name": "Hanako: Honor & Blade Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 673990,
     "name": "IOSoccer Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -974,6 +962,12 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
