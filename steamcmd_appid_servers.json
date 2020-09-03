@@ -408,6 +408,14 @@
     "windows": false
   },
   {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 42750,
     "name": "Call of Duty: Modern Warfare 3 - Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1108,6 +1116,14 @@
     "name": "Ballistic Overkill Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 418480,
+    "name": "Rising Storm 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1848,6 +1864,14 @@
     "windows": true
   },
   {
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 673990,
     "name": "IOSoccer Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1968,14 +1992,6 @@
     "windows": true
   },
   {
-    "appid": 696120,
-    "name": "GearStorm Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 696260,
     "name": "Tree of Life - Experimental Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1986,14 +2002,6 @@
   {
     "appid": 696640,
     "name": "Radline + Dedicated Server (obsolete)",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2536,14 +2544,6 @@
     "windows": true
   },
   {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 996600,
     "name": "Heat Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2704,6 +2704,14 @@
     "windows": true
   },
   {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1099850,
     "name": "Karl BOOM Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2836,14 +2844,6 @@
     "name": "Onset Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1207110,
-    "name": " GROUND BRANCH CTE Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -3000,14 +3000,6 @@
     "windows": false
   },
   {
-    "appid": 1362640,
-    "name": "Subsistence Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 1377850,
     "name": "Server is Down",
     "subscriptionlinux": "unknown (No License)",
@@ -3042,6 +3034,14 @@
   {
     "appid": 1402890,
     "name": "Observer: System Redux Demo",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 1408910,
+    "name": "UGDL Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",

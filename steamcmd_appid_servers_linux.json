@@ -60,6 +60,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 111710,
     "name": "Nuclear Dawn - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -642,6 +648,12 @@
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   },
   {
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 673990,
     "name": "IOSoccer Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -690,20 +702,8 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 696120,
-    "name": "GearStorm Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 696640,
     "name": "Radline + Dedicated Server (obsolete)",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -966,12 +966,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 1003980,
     "name": "Right to Rule Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1040,6 +1034,12 @@
   {
     "appid": 1086350,
     "name": "Lurking in the Shadows Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
