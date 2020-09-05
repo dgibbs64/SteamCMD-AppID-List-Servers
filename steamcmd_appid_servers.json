@@ -784,6 +784,14 @@
     "windows": false
   },
   {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -866,6 +874,14 @@
   {
     "appid": 324890,
     "name": "RS/RO2 Beta Community Maps - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 328950,
+    "name": "SNOW Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1680,6 +1696,14 @@
     "windows": true
   },
   {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 604100,
     "name": "Rokh Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1992,14 +2016,6 @@
     "windows": true
   },
   {
-    "appid": 710560,
-    "name": "Ylands Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 713970,
     "name": "The Simple Apocalypse Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2170,14 +2186,6 @@
   {
     "appid": 774771,
     "name": "Original War Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2536,14 +2544,6 @@
     "windows": true
   },
   {
-    "appid": 996560,
-    "name": "SCP: Secret Laboratory Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 996600,
     "name": "Heat Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2840,10 +2840,10 @@
     "windows": true
   },
   {
-    "appid": 1207110,
-    "name": " GROUND BRANCH CTE Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -3022,22 +3022,6 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
-  },
-  {
-    "appid": 1386900,
-    "name": "Observer: System Redux",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 1402890,
-    "name": "Observer: System Redux Demo",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
   },
   {
     "appid": 1408910,
