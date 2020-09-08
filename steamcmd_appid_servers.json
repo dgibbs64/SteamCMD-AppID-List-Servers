@@ -600,14 +600,6 @@
     "windows": true
   },
   {
-    "appid": 222860,
-    "name": "Left 4 Dead 2 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 223160,
     "name": "Ravaged Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -664,20 +656,20 @@
     "windows": false
   },
   {
-    "appid": 228780,
-    "name": "Blade Symphony Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 230030,
     "name": "Painkiller Hell & Damnation Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 232250,
@@ -786,14 +778,6 @@
   {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 298740,
-    "name": "Space Engineers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1138,14 +1122,6 @@
   {
     "appid": 439660,
     "name": "Tower Unite Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 443030,
-    "name": "Conan Exiles Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1680,14 +1656,6 @@
     "windows": true
   },
   {
-    "appid": 600760,
-    "name": "Stationeers Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 604100,
     "name": "Rokh Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2178,14 +2146,6 @@
   {
     "appid": 774771,
     "name": "Original War Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 774961,
-    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -3066,6 +3026,14 @@
   {
     "appid": 1413700,
     "name": "Trick Shot Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1418640,
+    "name": "Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
