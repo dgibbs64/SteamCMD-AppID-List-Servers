@@ -60,12 +60,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 41080,
-    "name": "Serious Sam 3 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 111710,
     "name": "Nuclear Dawn - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -80,6 +74,12 @@
   {
     "appid": 220070,
     "name": "Chivalry: Medieval Warfare Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 222860,
+    "name": "Left 4 Dead 2 Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -126,6 +126,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 258550,
+    "name": "Rust Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 273530,
     "name": "Centration Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -146,6 +152,12 @@
   {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -318,6 +330,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -474,12 +492,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 564390,
-    "name": "Serious Sam 2017 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 565060,
     "name": "Avorion Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -530,6 +542,12 @@
   {
     "appid": 598850,
     "name": "Hellion Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -726,6 +744,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 739590,
+    "name": "Eco Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 746200,
     "name": "Post Scriptum Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -770,6 +794,12 @@
   {
     "appid": 774771,
     "name": "Original War Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -854,6 +884,12 @@
   {
     "appid": 881430,
     "name": "Spoxel Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -944,6 +980,12 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },

@@ -408,14 +408,6 @@
     "windows": false
   },
   {
-    "appid": 41080,
-    "name": "Serious Sam 3 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 42750,
     "name": "Call of Duty: Modern Warfare 3 - Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -600,6 +592,14 @@
     "windows": true
   },
   {
+    "appid": 222860,
+    "name": "Left 4 Dead 2 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 223160,
     "name": "Ravaged Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -653,6 +653,14 @@
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
+  },
+  {
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
     "windows": false
   },
   {
@@ -728,6 +736,14 @@
     "windows": true
   },
   {
+    "appid": 258550,
+    "name": "Rust Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 261020,
     "name": "Takedown: Red Sabre Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -784,8 +800,24 @@
     "windows": true
   },
   {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 299310,
     "name": "Serious Sam Classics: Revolution Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 302200,
+    "name": "Miscreated Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1122,6 +1154,14 @@
   {
     "appid": 439660,
     "name": "Tower Unite Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -1560,14 +1600,6 @@
     "windows": true
   },
   {
-    "appid": 564390,
-    "name": "Serious Sam 2017 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 565060,
     "name": "Avorion Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1650,6 +1682,14 @@
   {
     "appid": 598850,
     "name": "Hellion Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2016,6 +2056,14 @@
     "windows": true
   },
   {
+    "appid": 739590,
+    "name": "Eco Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 739606,
     "name": "In Another World With My Smartphone: Nation of Beastmen, and an Observer",
     "subscriptionlinux": "unknown (No License)",
@@ -2146,6 +2194,14 @@
   {
     "appid": 774771,
     "name": "Original War Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 774961,
+    "name": "Squad - Public Test Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2316,6 +2372,14 @@
     "name": "Fasaria World: Ancients of Moons Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2498,6 +2562,14 @@
   {
     "appid": 988950,
     "name": "Journey of Life - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
