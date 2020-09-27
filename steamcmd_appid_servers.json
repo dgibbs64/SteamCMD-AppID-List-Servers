@@ -1088,14 +1088,6 @@
     "windows": true
   },
   {
-    "appid": 412680,
-    "name": "The Isle Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 413770,
     "name": "Project CARS 2 - Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -2048,14 +2040,6 @@
     "windows": true
   },
   {
-    "appid": 728470,
-    "name": "ASTRONEER Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 730810,
     "name": "Allegiance Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
@@ -2186,14 +2170,6 @@
   {
     "appid": 768703,
     "name": "TOS - New Rank Booster for SA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 770720,
-    "name": "Hunt: Showdown (Test Server)",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
@@ -2744,6 +2720,38 @@
     "windows": true
   },
   {
+    "appid": 1086350,
+    "name": "Lurking in the Shadows Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1099850,
+    "name": "Karl BOOM Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1101560,
+    "name": "灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1110390,
     "name": "Unturned Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2796,14 +2804,6 @@
     "name": "Necesse Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1170680,
-    "name": "Task Force Elite Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
