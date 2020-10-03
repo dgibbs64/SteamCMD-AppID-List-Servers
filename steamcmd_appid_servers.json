@@ -3106,10 +3106,10 @@
   {
     "appid": 1404690,
     "name": "Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 1408910,

@@ -388,7 +388,7 @@
 | 1382420 | Tomatenquark Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1386900 | Observer: System Redux                                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1402890 | Observer: System Redux Demo                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1404690 | Dedicated Server                                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1404690 | Dedicated Server                                                         | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1408910 | UGDL Dedicated Server                                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1413700 | Trick Shot Dedicated Server                                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1418640 | Dedicated Server                                                         | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
