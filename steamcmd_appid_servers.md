@@ -162,17 +162,6 @@
 | 462310  | Day of Infamy Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 463640  | Founder's Server : Exclusive Access 1 ( 50% OFF )                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 463650  | Founder's Server : Exclusive Access 2 ( 50% OFF )                        | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 472840  | Tree of Savior - Beginner's Pack for NA Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 472841  | Tree of Savior - Beginner's Pack for EU Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 472860  | Tree of Savior - Beginner's Pack for SEA Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 472861  | Tree of Savior - Beginner's Pack for SA Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474800  | Tree of Savior - Veteran's Pack for NA Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474801  | Tree of Savior - Veteran's Pack for SEA Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474802  | Tree of Savior - Veteran's Pack for EU Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474803  | Tree of Savior - Veteran's Pack for SA Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 475370  | BrainBread 2 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 476400  | GROUND BRANCH Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 485250  | The Black Death Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 489650  | Citadel: Forged With Fire Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 490500  | Zero G Arena dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 493970  | Homebrew Vehicle Sandbox - Dedicated Server                              | unknown (No License)                              | false | unknown (No License)                              | false   |
