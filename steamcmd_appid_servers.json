@@ -1296,6 +1296,94 @@
     "windows": false
   },
   {
+    "appid": 472840,
+    "name": "Tree of Savior - Beginner's Pack for NA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 472841,
+    "name": "Tree of Savior - Beginner's Pack for EU Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 472860,
+    "name": "Tree of Savior - Beginner's Pack for SEA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 472861,
+    "name": "Tree of Savior - Beginner's Pack for SA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 474800,
+    "name": "Tree of Savior - Veteran's Pack for NA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 474801,
+    "name": "Tree of Savior - Veteran's Pack for SEA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 474802,
+    "name": "Tree of Savior - Veteran's Pack for EU Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 474803,
+    "name": "Tree of Savior - Veteran's Pack for SA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 475370,
+    "name": "BrainBread 2 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 476400,
+    "name": "GROUND BRANCH Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 485250,
+    "name": "The Black Death Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 489650,
     "name": "Citadel: Forged With Fire Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
