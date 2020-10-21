@@ -340,6 +340,7 @@
 | 1047650 | Road to Eden - Dedicated server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1050410 | UP Server                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1054680 | Observers Demo                                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1064780 | Beyond The Wire - Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1071470 | Planetes Community Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1075180 | Beyond Enemy Lines 2 Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1075820 | Green Army Men - Dedicated Server                                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
