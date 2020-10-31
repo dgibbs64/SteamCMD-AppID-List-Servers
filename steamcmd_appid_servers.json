@@ -96,6 +96,14 @@
     "windows": false
   },
   {
+    "appid": 1290,
+    "name": "Darkest Hour: Europe '44-'45 Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 2145,
     "name": "Dark Messiah of Might & Magic Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -170,14 +178,6 @@
   {
     "appid": 4270,
     "name": "RACE 07 Demo Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 4940,
-    "name": "Natural Selection 2 Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
@@ -384,6 +384,14 @@
     "windows": false
   },
   {
+    "appid": 41005,
+    "name": "Serious Sam HD Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 41015,
     "name": "Serious Sam HD: The Second Encounter Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -504,10 +512,26 @@
     "windows": false
   },
   {
+    "appid": 111710,
+    "name": "Nuclear Dawn - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 203300,
     "name": "America's Army: Proving Grounds Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 208050,
+    "name": "Sniper Elite V2 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -613,22 +637,6 @@
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 227040,
-    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 227050,
-    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
   },
   {
@@ -822,6 +830,14 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 319060,
+    "name": "Lambda Wars Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   },
   {
     "appid": 320850,
@@ -1024,6 +1040,14 @@
     "windows": true
   },
   {
+    "appid": 403240,
+    "name": "Squad Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 405100,
     "name": "Hurtworld Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1068,14 +1092,6 @@
     "name": "Ballistic Overkill Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 418480,
-    "name": "Rising Storm 2 - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1560,10 +1576,34 @@
     "windows": true
   },
   {
+    "appid": 564390,
+    "name": "Serious Sam 2017 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 565060,
+    "name": "Avorion Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 568660,
     "name": "Lost Region Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 568880,
+    "name": "Sniper Elite 4 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1704,12 +1744,12 @@
     "windows": false
   },
   {
-    "appid": 622970,
-    "name": "Pavlov VR Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
+    "appid": 623990,
+    "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   },
   {
     "appid": 628300,
@@ -1784,10 +1824,10 @@
     "windows": false
   },
   {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1908,14 +1948,6 @@
     "name": "Perpetuum Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 696120,
-    "name": "GearStorm Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2050,6 +2082,14 @@
   {
     "appid": 762880,
     "name": "Outpost Zero Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 764860,
+    "name": "Jetball Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2504,6 +2544,14 @@
     "windows": true
   },
   {
+    "appid": 996600,
+    "name": "Heat Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1003980,
     "name": "Right to Rule Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2640,6 +2688,14 @@
     "windows": true
   },
   {
+    "appid": 1075820,
+    "name": "Green Army Men - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1084900,
     "name": "Task Force Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2722,6 +2778,14 @@
   {
     "appid": 1136510,
     "name": "Warfork Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -2824,14 +2888,6 @@
     "windows": true
   },
   {
-    "appid": 1231430,
-    "name": "CFToolServer",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 1247090,
     "name": "Stormworks Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -2846,6 +2902,14 @@
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1275530,
+    "name": "DeadsideServer",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
   },
   {
     "appid": 1277220,
@@ -2906,6 +2970,14 @@
   {
     "appid": 1307050,
     "name": "Spoils of Plunder dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1316470,
+    "name": "Warfare 1944 Beta Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -3024,6 +3096,14 @@
     "windows": true
   },
   {
+    "appid": 1420710,
+    "name": "Night of the Dead Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 1424230,
     "name": "Holdfast: Nations At War - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3046,5 +3126,13 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 1460560,
+    "name": "Unclear Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   }
 ]
