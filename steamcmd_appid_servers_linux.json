@@ -90,6 +90,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 227050,
+    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
+  },
+  {
     "appid": 232130,
     "name": "Killing Floor 2 - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -600,6 +606,12 @@
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   },
   {
+    "appid": 622970,
+    "name": "Pavlov VR Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 628300,
     "name": "Stellar Overload Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -692,6 +704,12 @@
   {
     "appid": 689780,
     "name": "Murderous Pursuits Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },

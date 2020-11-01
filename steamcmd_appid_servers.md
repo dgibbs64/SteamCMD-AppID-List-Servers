@@ -23,6 +23,7 @@
 | 4210    | Race Internal Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 4240    | Race Dedicated Server                                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 4270    | RACE 07 Demo Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 4940    | Natural Selection 2 Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 8610    | RACE 07 Dedicated Server                                                 | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 8680    | RACE 07 Demo - Crowne Plaza Edition Dedicated Server                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 8710    | STCC - The Game Demo Dedicated Server                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -80,6 +81,8 @@
 | 223250  | Red Orchestra Linux Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 223350  | DayZ Server                                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 224620  | Primal Carnage Dedicated Server                                          | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 227040  | Left 4 Dead 2 Beta - Win32 Dedicated Server                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 227050  | Left 4 Dead 2 Beta - Linux Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 228780  | Blade Symphony Dedicated Server                                          | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 230030  | Painkiller Hell & Damnation Dedicated Server                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 232130  | Killing Floor 2 - Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -137,6 +140,7 @@
 | 413770  | Project CARS 2 - Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 414570  | Crea Dedicated Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 416880  | Ballistic Overkill Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 418480  | Rising Storm 2 - Dedicated Server                                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 419790  | Eden Star Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 423410  | Blackwake Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 426660  | Robot Roller-Derby Disco Dodgeball Dedicated Server                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -218,6 +222,7 @@
 | 619960  | Just Cause™ 3: Multiplayer - Dedicated Server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 620110  | The Archotek Project Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 621240  | Galaxy in Turmoil Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
+| 622970  | Pavlov VR Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 623990  | Tom Clancy's Rainbow Six Siege - Test Server                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 628300  | Stellar Overload Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 629800  | MORDHAU Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -228,6 +233,7 @@
 | 643450  | Magical Girl Raising Project: Server Down for Maintenance                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 649390  | RutonyChat - Restream Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 660470  | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
+| 667230  | Capsa Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 668390  | Hanako: Honor & Blade Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 673990  | IOSoccer Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 677100  | Valnir Rok Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -244,6 +250,7 @@
 | 689780  | Murderous Pursuits Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 692500  | PianoBoard Server                                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 693060  | Perpetuum Dedicated Server                                               | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 696120  | GearStorm Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 696260  | Tree of Life - Experimental Server                                       | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 696640  | Radline + Dedicated Server (obsolete)                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 710560  | Ylands Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -361,6 +368,7 @@
 | 1215190 | Warfare 1944 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1222650 | Space Impossible Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1223310 | SRX Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1231430 | CFToolServer                                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1247090 | Stormworks Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1255430 | Talvisota: Dedicated Server                                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1275530 | DeadsideServer                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |

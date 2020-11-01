@@ -184,6 +184,14 @@
     "windows": false
   },
   {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 8610,
     "name": "RACE 07 Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -640,6 +648,22 @@
     "windows": false
   },
   {
+    "appid": 227040,
+    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 227050,
+    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
+  },
+  {
     "appid": 228780,
     "name": "Blade Symphony Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1092,6 +1116,14 @@
     "name": "Ballistic Overkill Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 418480,
+    "name": "Rising Storm 2 - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -1744,6 +1776,14 @@
     "windows": false
   },
   {
+    "appid": 622970,
+    "name": "Pavlov VR Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 623990,
     "name": "Tom Clancy's Rainbow Six Siege - Test Server",
     "subscriptionlinux": "unknown (No License)",
@@ -1822,6 +1862,14 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
+  },
+  {
+    "appid": 667230,
+    "name": "Capsa Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 668390,
@@ -1948,6 +1996,14 @@
     "name": "Perpetuum Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
   },
@@ -2886,6 +2942,14 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1231430,
+    "name": "CFToolServer",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   },
   {
     "appid": 1247090,
