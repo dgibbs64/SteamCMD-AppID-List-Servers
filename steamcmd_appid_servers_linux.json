@@ -1038,6 +1038,12 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 1041860,
+    "name": "HELL'S NEW WORLD Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 1045940,
     "name": "HYPERCHARGE: Unboxed Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1282,5 +1288,11 @@
     "name": "Zero-based World Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 1481590,
+    "name": "Zero-based World Dedicated Server Alpha",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)"
   }
 ]

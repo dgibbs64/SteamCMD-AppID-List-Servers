@@ -336,6 +336,7 @@
 | 1026340 | Barotrauma Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1035540 | Fragsurf Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1041160 | Observers                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1041860 | HELL'S NEW WORLD Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1045940 | HYPERCHARGE: Unboxed Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1047650 | Road to Eden - Dedicated server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1050410 | UP Server                                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -405,3 +406,4 @@
 | 1471190 | NARAKA: BLADEPOINT - Test Server Playtest                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1475910 | DIY Simulator Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1479670 | Zero-based World Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
