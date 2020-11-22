@@ -394,7 +394,7 @@
 | 1396070 | The Art of Observer System Redux                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1402480 | NARAKA: BLADEPOINT - Test Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1402890 | Observer: System Redux Demo                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1404690 | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1404690 | Paint Royale Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1408910 | UGDL Dedicated Server                                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1413700 | Trick Shot Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1418640 | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
