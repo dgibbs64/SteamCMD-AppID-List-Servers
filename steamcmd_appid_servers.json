@@ -3202,10 +3202,10 @@
   {
     "appid": 1427490,
     "name": "ExoCorps Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 1430110,
