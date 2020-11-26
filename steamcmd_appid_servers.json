@@ -3254,5 +3254,13 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
+  },
+  {
+    "appid": 1485470,
+    "name": "Monogon: Echoes Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]

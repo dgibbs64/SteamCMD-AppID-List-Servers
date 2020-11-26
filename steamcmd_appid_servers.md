@@ -407,3 +407,4 @@
 | 1475910 | DIY Simulator Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1479670 | Zero-based World Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
+| 1485470 | Monogon: Echoes Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
