@@ -1328,54 +1328,6 @@
     "windows": false
   },
   {
-    "appid": 474800,
-    "name": "Tree of Savior - Veteran's Pack for NA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 474801,
-    "name": "Tree of Savior - Veteran's Pack for SEA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 474802,
-    "name": "Tree of Savior - Veteran's Pack for EU Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 474803,
-    "name": "Tree of Savior - Veteran's Pack for SA Servers",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 475370,
-    "name": "BrainBread 2 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 476400,
-    "name": "GROUND BRANCH Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 485250,
     "name": "The Black Death Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1710,38 +1662,6 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
-  },
-  {
-    "appid": 604100,
-    "name": "Rokh Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 609870,
-    "name": "Hunt For Gods Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 612940,
-    "name": "Decaying Substance Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 615320,
-    "name": "Game Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
   },
   {
     "appid": 616940,

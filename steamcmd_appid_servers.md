@@ -166,12 +166,6 @@
 | 472841  | Tree of Savior - Beginner's Pack for EU Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 472860  | Tree of Savior - Beginner's Pack for SEA Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 472861  | Tree of Savior - Beginner's Pack for SA Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474800  | Tree of Savior - Veteran's Pack for NA Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474801  | Tree of Savior - Veteran's Pack for SEA Servers                          | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474802  | Tree of Savior - Veteran's Pack for EU Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 474803  | Tree of Savior - Veteran's Pack for SA Servers                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 475370  | BrainBread 2 Dedicated Server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 476400  | GROUND BRANCH Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 485250  | The Black Death Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 489650  | Citadel: Forged With Fire Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 490500  | Zero G Arena dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -214,10 +208,6 @@
 | 598010  | SQUIDS FROM SPACE Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 598850  | Hellion Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 600760  | Stationeers Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 604100  | Rokh Dedicated Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 609870  | Hunt For Gods Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 612940  | Decaying Substance Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 615320  | Game Server                                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 616940  | Cobalt WASD Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 619960  | Just Cause™ 3: Multiplayer - Dedicated Server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 620110  | The Archotek Project Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
