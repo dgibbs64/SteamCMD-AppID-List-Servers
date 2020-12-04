@@ -1,23 +1,5 @@
 [
   {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 310,
-    "name": "Source 2007 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 740,
     "name": "Counter-Strike Global Offensive - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -396,6 +378,18 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
+    "appid": 475370,
+    "name": "BrainBread 2 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 476400,
+    "name": "GROUND BRANCH Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 485250,
     "name": "The Black Death Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -548,6 +542,24 @@
   {
     "appid": 600760,
     "name": "Stationeers Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 604100,
+    "name": "Rokh Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 609870,
+    "name": "Hunt For Gods Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 612940,
+    "name": "Decaying Substance Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
