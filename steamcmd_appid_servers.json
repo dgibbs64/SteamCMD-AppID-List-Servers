@@ -3098,10 +3098,10 @@
   {
     "appid": 1380950,
     "name": "Fadeout Dedicated Server (alpha)",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 1382420,
