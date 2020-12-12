@@ -3097,7 +3097,7 @@
   },
   {
     "appid": 1380950,
-    "name": "Fadeout Dedicated Server (alpha)",
+    "name": "Fadeout Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -3146,6 +3146,14 @@
   {
     "appid": 1404690,
     "name": "Paint Royale Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1405890,
+    "name": "Blood Oath: When The Sword Rises dedicated server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
