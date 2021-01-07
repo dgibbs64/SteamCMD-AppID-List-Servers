@@ -402,6 +402,7 @@
 | 1424230 | Holdfast: Nations At War - Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1427490 | ExoCorps Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1430110 | Assetto Corsa Competizione Dedicated Server                              | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1433270 | SCP: Escape Together Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1460560 | Unclear Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1471190 | NARAKA: BLADEPOINT - Test Server Playtest                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1475910 | DIY Simulator Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
