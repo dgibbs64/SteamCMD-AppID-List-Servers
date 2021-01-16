@@ -359,7 +359,7 @@
 | 1170680 | Task Force Elite Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1171790 | Celaria Server                                                           | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1180760 | Risk of Rain 2 Dedicated Server                                          | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
-| 1183370 | Mindustry Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1183370 | Mindustry Dedicated Server                                               | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1189160 | Re.Poly Server                                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1200740 | LoginToShootingRangeInServer00 VR                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1203110 | BadLads Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
