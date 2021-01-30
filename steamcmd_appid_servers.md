@@ -55,15 +55,6 @@
 | 42750   | Call of Duty: Modern Warfare 3 - Dedicated Server                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 43210   | The Haunted: Hells Reach Dedicated Server                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 44720   | RACE 07 Dedicated Server Beta                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 55280   | Homefront Dedicated Server                                               | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
-| 55290   | Homefront Dedicated Server [Japanese]                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 57910   | Duke Nukem Forever Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 63220   | Monday Night Combat Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 70010   | Dino D-Day - Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 72310   | Breach - Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 72780   | Brink Dedicated Server                                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 91720   | E.Y.E - Dedicated Server                                                 | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 96810   | Nexuiz Dedicated Server                                                  | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 105610  | Terraria - Dedicated Server                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 111710  | Nuclear Dawn - Dedicated Server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 203300  | America's Army: Proving Grounds Dedicated Server                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -249,7 +240,12 @@
 | 689780  | Murderous Pursuits Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 692500  | PianoBoard Server                                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 693060  | Perpetuum Dedicated Server                                               | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 696120  | GearStorm Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 696260  | Tree of Life - Experimental Server                                       | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 696640  | Radline + Dedicated Server (obsolete)                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 710560  | Ylands Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 713970  | The Simple Apocalypse Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 723520  | SCP Project Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 728470  | ASTRONEER Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 730810  | Allegiance Server                                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 739120  | BattleRush Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -342,7 +338,11 @@
 | 1084900 | Task Force Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1086350 | Lurking in the Shadows Dedicated Server                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1088320 | Day of Dragons - Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1099850 | Karl BOOM Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1101560 | 灵魂筹码欧美服demo测试版 Soul at Stake US/EU Server Testing Demo                   | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1110390 | Unturned Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1111260 | WBTR Server                                                              | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 1119550 | SFIW:DedicatedServer                                                     | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1129070 | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1136460 | Without A Roof (W.A.R.) Dedicated Server                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1136510 | Warfork Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
