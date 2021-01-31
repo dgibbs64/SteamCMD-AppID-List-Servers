@@ -55,6 +55,15 @@
 | 42750   | Call of Duty: Modern Warfare 3 - Dedicated Server                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 43210   | The Haunted: Hells Reach Dedicated Server                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 44720   | RACE 07 Dedicated Server Beta                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 55280   | Homefront Dedicated Server                                               | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 55290   | Homefront Dedicated Server [Japanese]                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 57910   | Duke Nukem Forever Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 63220   | Monday Night Combat Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 70010   | Dino D-Day - Dedicated Server                                            | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 72310   | Breach - Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 72780   | Brink Dedicated Server                                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 91720   | E.Y.E - Dedicated Server                                                 | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 96810   | Nexuiz Dedicated Server                                                  | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 105610  | Terraria - Dedicated Server                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 111710  | Nuclear Dawn - Dedicated Server                                          | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 203300  | America's Army: Proving Grounds Dedicated Server                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
