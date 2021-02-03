@@ -2424,6 +2424,14 @@
     "windows": true
   },
   {
+    "appid": 896660,
+    "name": "Valheim Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 897590,
     "name": "Memories of Mars - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3266,9 +3274,9 @@
   {
     "appid": 1534710,
     "name": "SCP: Breakout Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   }
 ]

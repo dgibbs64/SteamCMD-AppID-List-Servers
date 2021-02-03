@@ -303,6 +303,7 @@
 | 886440  | Super Versus Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 888520  | Pillage Dedicated Server                                                 | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 896050  | scram server                                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 896660  | Valheim Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 897590  | Memories of Mars - Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 904710  | The Warhorn Dedicated Server                                             | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 908290  | ColdByte Server Composer                                                 | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -408,4 +409,4 @@
 | 1479670 | Zero-based World Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 1485470 | Monogon: Echoes Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1534710 | SCP: Breakout Dedicated Server                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
