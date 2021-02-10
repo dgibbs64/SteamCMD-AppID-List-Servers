@@ -3088,6 +3088,14 @@
     "windows": true
   },
   {
+    "appid": 1375660,
+    "name": "SCP: Recontainment Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1377850,
     "name": "Server is Down",
     "subscriptionlinux": "unknown (No License)",
@@ -3274,6 +3282,14 @@
   {
     "appid": 1534710,
     "name": "SCP: Breakout Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1549820,
+    "name": "Modiverse Linux Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
