@@ -386,7 +386,7 @@
 | 1339270 | POWER Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
 | 1360240 | Fisty Cuffs Server                                                       | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1362640 | Subsistence Dedicated Server                                             | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
-| 1375660 | SCP: Recontainment Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1375660 | SCP: Recontainment Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1377850 | Server is Down                                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1380950 | Fadeout Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1382420 | Tomatenquark Server                                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
