@@ -1808,68 +1808,12 @@
     "windows": true
   },
   {
-    "appid": 638100,
-    "name": "Kreedz Climbing Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 638500,
-    "name": "Soldat Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 643090,
-    "name": "Them's Fightin' Herds Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 643450,
-    "name": "Magical Girl Raising Project: Server Down for Maintenance",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 649390,
-    "name": "RutonyChat - Restream Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
     "appid": 660470,
     "name": "Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false
-  },
-  {
-    "appid": 667230,
-    "name": "Capsa Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 668390,
-    "name": "Hanako: Honor & Blade Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   },
   {
     "appid": 673990,
@@ -3184,14 +3128,6 @@
     "windows": true
   },
   {
-    "appid": 1418640,
-    "name": "Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 1420710,
     "name": "Night of the Dead Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3200,99 +3136,11 @@
     "windows": true
   },
   {
-    "appid": 1424230,
-    "name": "Holdfast: Nations At War - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1427490,
-    "name": "ExoCorps Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1430110,
-    "name": "Assetto Corsa Competizione Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 1433270,
-    "name": "SCP: Escape Together Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1460560,
-    "name": "Unclear Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1471190,
-    "name": "NARAKA: BLADEPOINT - Test Server Playtest",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
-  },
-  {
-    "appid": 1475910,
-    "name": "DIY Simulator Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1479670,
-    "name": "Zero-based World Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1481590,
-    "name": "Zero-based World Dedicated Server Alpha",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
-    "windows": false
-  },
-  {
     "appid": 1485470,
     "name": "Monogon: Echoes Dedicated Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
-  },
-  {
-    "appid": 1534710,
-    "name": "SCP: Breakout Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
-    "appid": 1549820,
-    "name": "Modiverse Linux Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
   }
 ]

@@ -226,14 +226,7 @@
 | 628300  | Stellar Overload Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 629800  | MORDHAU Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 630230  | DNL Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 638100  | Kreedz Climbing Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 638500  | Soldat Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 643090  | Them's Fightin' Herds Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 643450  | Magical Girl Raising Project: Server Down for Maintenance                | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 649390  | RutonyChat - Restream Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 660470  | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
-| 667230  | Capsa Dedicated Server                                                   | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
-| 668390  | Hanako: Honor & Blade Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 673990  | IOSoccer Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 677100  | Valnir Rok Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 679600  | Pantropy dedicated server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -398,17 +391,5 @@
 | 1405890 | Blood Oath: When The Sword Rises dedicated server                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1408910 | UGDL Dedicated Server                                                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1413700 | Trick Shot Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1418640 | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1420710 | Night of the Dead Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1424230 | Holdfast: Nations At War - Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1427490 | ExoCorps Dedicated Server                                                | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1430110 | Assetto Corsa Competizione Dedicated Server                              | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1433270 | SCP: Escape Together Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1460560 | Unclear Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1471190 | NARAKA: BLADEPOINT - Test Server Playtest                                | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1475910 | DIY Simulator Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1479670 | Zero-based World Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 1485470 | Monogon: Echoes Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
