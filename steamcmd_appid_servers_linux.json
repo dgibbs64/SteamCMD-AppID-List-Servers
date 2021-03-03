@@ -1,5 +1,23 @@
 [
   {
+    "appid": 90,
+    "name": "Half-Life Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 205,
+    "name": "Source Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
+    "appid": 310,
+    "name": "Source 2007 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "subscriptionwindows": "released (Subscribed,Permanent,)"
+  },
+  {
     "appid": 740,
     "name": "Counter-Strike Global Offensive - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -102,86 +120,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 244310,
-    "name": "Source SDK Base 2013 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 255470,
-    "name": "Half-Life Deathmatch: Source Dedicated server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 258550,
     "name": "Rust Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 273530,
-    "name": "Centration Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 276060,
-    "name": "Sven Co-op Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 294420,
     "name": "7 Days to Die Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 295230,
-    "name": "Fistful of Frags Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 298740,
-    "name": "Space Engineers Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 313900,
-    "name": "NS2: Combat Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 317670,
-    "name": "No More Room in Hell Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 320850,
-    "name": "Life is Feudal: Your Own Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 332670,
-    "name": "Project CARS - Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 332850,
-    "name": "BlazeRush Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 336400,
-    "name": "Primal Carnage: Extinction Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
@@ -1128,38 +1074,8 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
   {
-    "appid": 1189160,
-    "name": "Re.Poly Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
     "appid": 1203110,
     "name": "BadLads Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1204170,
-    "name": "Onset Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1215190,
-    "name": "Warfare 1944 Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1222650,
-    "name": "Space Impossible Dedicated Server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "subscriptionwindows": "released (Subscribed,Permanent,)"
-  },
-  {
-    "appid": 1223310,
-    "name": "SRX Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "subscriptionwindows": "released (Subscribed,Permanent,)"
   },
