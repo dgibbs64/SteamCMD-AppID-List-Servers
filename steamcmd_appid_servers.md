@@ -99,6 +99,7 @@
 | 273530  | Centration Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 276060  | Sven Co-op Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 293030  | Contagion Dedicated Server                                               | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 294420  | 7 Days to Die Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 295230  | Fistful of Frags Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 298740  | Space Engineers Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 299310  | Serious Sam Classics: Revolution Dedicated Server                        | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
@@ -181,6 +182,29 @@
 | 525900  | Linux Dedicated Server                                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 526340  | Voxel Turf Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 530870  | Empyrion - Galactic Survival Dedicated Server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 532330  | Starbound Unstable Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 533830  | Starbound Dedicated Server                                               | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 538480  | SURVIVAL Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 541790  | Days of War Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 545990  | Call of Duty: Black Ops III - Unranked Dedicated Server                  | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 548400  | STEAM HAMMER Dedicated server                                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 549990  | Cobalt Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 550772  | Steam Dev Days: Game Server Hosting                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 550790  | Rend Server                                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 553650  | VIAR Server                                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 554270  | Tree of Savior - Fresh Start Pack for NA Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 554271  | Tree of Savior - Fresh Start Pack for EU Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 554272  | Tree of Savior - Fresh Start Pack for SEA Servers                        | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 554273  | Tree of Savior - Fresh Start Pack for SA Servers                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 556450  | The Forest Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 557690  | Vengeance: Dedicated Server (OBSOLETE)                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 559440  | Sunset Rangers Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 562720  | Neptune: Arena FPS Dedicated server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 564390  | Serious Sam 2017 Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 565060  | Avorion Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 568660  | Lost Region Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 568880  | Sniper Elite 4 Dedicated Server                                          | released (Subscribed,Invalid Platform,Permanent,) | false | released (Subscribed,Permanent,)                  | true    |
+| 574390  | Fog of War Dedicated Server                                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 581330  | Insurgency: Sandstorm Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 582320  | RHdedicatedserver                                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 582400  | Alien Swarm: Reactive Drop Dedicated Server                              | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
@@ -191,7 +215,17 @@
 | 600760  | Stationeers Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 604100  | Rokh Dedicated Server                                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 609870  | Hunt For Gods Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 612940  | Decaying Substance Dedicated Server                                      | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 615320  | Game Server                                                              | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 616940  | Cobalt WASD Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 619960  | Just Cause™ 3: Multiplayer - Dedicated Server                            | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 620110  | The Archotek Project Dedicated Server                                    | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 621240  | Galaxy in Turmoil Dedicated Server                                       | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
+| 622970  | Pavlov VR Dedicated Server                                               | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 623990  | Tom Clancy's Rainbow Six Siege - Test Server                             | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 628300  | Stellar Overload Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 629800  | MORDHAU Dedicated Server                                                 | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 630230  | DNL Dedicated Server                                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 638100  | Kreedz Climbing Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 638500  | Soldat Dedicated Server                                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 643090  | Them's Fightin' Herds Dedicated Server                                   | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |

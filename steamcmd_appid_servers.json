@@ -792,6 +792,14 @@
     "windows": false
   },
   {
+    "appid": 294420,
+    "name": "7 Days to Die Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 295230,
     "name": "Fistful of Frags Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1448,6 +1456,190 @@
     "windows": true
   },
   {
+    "appid": 532330,
+    "name": "Starbound Unstable Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 533830,
+    "name": "Starbound Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 538480,
+    "name": "SURVIVAL Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 541790,
+    "name": "Days of War Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 545990,
+    "name": "Call of Duty: Black Ops III - Unranked Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 548400,
+    "name": "STEAM HAMMER Dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 549990,
+    "name": "Cobalt Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 550772,
+    "name": "Steam Dev Days: Game Server Hosting",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 550790,
+    "name": "Rend Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 553650,
+    "name": "VIAR Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 554270,
+    "name": "Tree of Savior - Fresh Start Pack for NA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 554271,
+    "name": "Tree of Savior - Fresh Start Pack for EU Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 554272,
+    "name": "Tree of Savior - Fresh Start Pack for SEA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 554273,
+    "name": "Tree of Savior - Fresh Start Pack for SA Servers",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 556450,
+    "name": "The Forest Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 557690,
+    "name": "Vengeance: Dedicated Server (OBSOLETE)",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 559440,
+    "name": "Sunset Rangers Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 562720,
+    "name": "Neptune: Arena FPS Dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 564390,
+    "name": "Serious Sam 2017 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 565060,
+    "name": "Avorion Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 568660,
+    "name": "Lost Region Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 568880,
+    "name": "Sniper Elite 4 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 574390,
+    "name": "Fog of War Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 581330,
     "name": "Insurgency: Sandstorm Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -1528,12 +1720,92 @@
     "windows": true
   },
   {
+    "appid": 612940,
+    "name": "Decaying Substance Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 615320,
+    "name": "Game Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
+    "appid": 616940,
+    "name": "Cobalt WASD Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 619960,
+    "name": "Just Cause™ 3: Multiplayer - Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 620110,
+    "name": "The Archotek Project Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 621240,
+    "name": "Galaxy in Turmoil Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
+    "windows": false
+  },
+  {
+    "appid": 622970,
+    "name": "Pavlov VR Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 623990,
     "name": "Tom Clancy's Rainbow Six Siege - Test Server",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false
+  },
+  {
+    "appid": 628300,
+    "name": "Stellar Overload Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 629800,
+    "name": "MORDHAU Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 630230,
+    "name": "DNL Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 638100,
