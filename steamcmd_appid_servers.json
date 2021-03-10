@@ -3288,6 +3288,14 @@
     "windows": false
   },
   {
+    "appid": 1503660,
+    "name": "Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
+  },
+  {
     "appid": 1534710,
     "name": "SCP: Breakout Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3302,5 +3310,13 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1573820,
+    "name": "Raptor Territory Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]
