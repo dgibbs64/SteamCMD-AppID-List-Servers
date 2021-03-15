@@ -414,4 +414,4 @@
 | 1503660 | Dedicated Server                                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1573820 | Raptor Territory Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1573820 | Raptor Territory Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
