@@ -14,7 +14,7 @@
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1290    | Darkest Hour: Europe '44-'45 Dedicated Server                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2145    | Dark Messiah of Might & Magic Dedicated Server                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)app_status 679600             | false   |
 | 2413    | The Ship Dedicated Server Beta                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2460    | Bloody Good Time Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2740    | ThreadSpace: Hyperbol dedicated server                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
@@ -411,6 +411,7 @@
 | 1479670 | Zero-based World Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 1485470 | Monogon: Echoes Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1502300 |  Survive the Nights Dedicated Server                                     | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1503660 | Dedicated Server                                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
