@@ -14,7 +14,7 @@
 | 1273    | Killing Floor Beta Dedicated Server                                      | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1290    | Darkest Hour: Europe '44-'45 Dedicated Server                            | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2145    | Dark Messiah of Might & Magic Dedicated Server                           | unknown (No License)                              | false | unknown (No License)                              | false   |
-| 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)app_status 679600             | false   |
+| 2403    | The Ship Dedicated Server                                                | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2413    | The Ship Dedicated Server Beta                                           | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2460    | Bloody Good Time Dedicated Server                                        | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 2740    | ThreadSpace: Hyperbol dedicated server                                   | unknown (No License)                              | false | unknown (No License)                              | false   |
