@@ -414,7 +414,7 @@
 | 1481590 | Zero-based World Dedicated Server Alpha                                  | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Invalid Platform,Permanent,) | false   |
 | 1485470 | Monogon: Echoes Dedicated Server                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1502300 |  Survive the Nights Dedicated Server                                     | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1503660 | Dedicated Server                                                         | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1503660 | Dedicated Server                                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1573820 | Raptor Territory Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
