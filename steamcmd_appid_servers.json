@@ -186,10 +186,10 @@
   {
     "appid": 4940,
     "name": "Natural Selection 2 Dedicated Server",
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
   },
   {
     "appid": 8610,
@@ -2416,14 +2416,6 @@
     "windows": true
   },
   {
-    "appid": 896050,
-    "name": "scram server",
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true
-  },
-  {
     "appid": 896660,
     "name": "Valheim Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
@@ -3350,5 +3342,13 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1612490,
+    "name": "Insane Town Dedicated Server",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   }
 ]
