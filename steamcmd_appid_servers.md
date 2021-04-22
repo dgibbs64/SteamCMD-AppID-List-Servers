@@ -418,4 +418,4 @@
 | 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1573820 | Raptor Territory Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1603250 | Cyberless III: Online Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
-| 1612490 | Insane Town Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
+| 1612490 | Insane Town Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
