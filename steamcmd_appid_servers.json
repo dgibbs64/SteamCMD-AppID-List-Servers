@@ -921,7 +921,7 @@
   },
   {
     "appid": 336400,
-    "name": "Primal Carnage: Extinction Dedicated Server",
+    "name": "PCE Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
@@ -3334,6 +3334,14 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true
+  },
+  {
+    "appid": 1575887,
+    "name": "Sniper Ghost Warrior Contracts 2 - Blue Servers Skins",
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false
   },
   {
     "appid": 1603250,
