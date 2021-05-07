@@ -2160,6 +2160,22 @@
     "windows": true
   },
   {
+    "appid": 928530,
+    "name": "Prime & Load: 1776 Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 931580,
+    "name": "Conan Exiles - Testlive Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
     "appid": 939320,
     "name": "Observer - Soundtrack",
     "subscriptionlinux": "unknown (No License)",
@@ -2330,6 +2346,14 @@
   {
     "appid": 1026340,
     "name": "Barotrauma Dedicated Server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1035540,
+    "name": "Fragsurf Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
