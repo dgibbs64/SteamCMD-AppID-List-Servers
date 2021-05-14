@@ -417,6 +417,7 @@
 | 1534710 | SCP: Breakout Dedicated Server                                           | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1549820 | Modiverse Linux Dedicated Server                                         | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1573820 | Raptor Territory Dedicated Server                                        | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1574860 | Kaboom! Dedicated Server                                                 | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1575887 | Sniper Ghost Warrior Contracts 2 - Blue Servers Skins                    | unknown (No License)                              | false | unknown (No License)                              | false   |
 | 1603250 | Cyberless III: Online Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1612490 | Insane Town Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
