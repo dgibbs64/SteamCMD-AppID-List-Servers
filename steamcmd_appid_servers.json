@@ -2441,7 +2441,7 @@
   },
   {
     "appid": 908290,
-    "name": "ColdByte Server Composer",
+    "name": "Server Composer",
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
@@ -3034,6 +3034,14 @@
   {
     "appid": 1307050,
     "name": "Spoils of Plunder dedicated server",
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true
+  },
+  {
+    "appid": 1315990,
+    "name": "Blackstorm - Dedicated Server",
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
