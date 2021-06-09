@@ -424,3 +424,4 @@
 | 1603250 | Cyberless III: Online Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1612490 | Insane Town Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
 | 1653130 | Desperation Dedicated Server                                             | released (Subscribed,Permanent,)                  | true  | released (Subscribed,Permanent,)                  | true    |
+| 1663160 | POW Windows Dedicated Server                                             | unknown (No License)                              | false | unknown (No License)                              | false   |
