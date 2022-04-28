@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-node@v1
+    - uses: actions/setup-node@v3
     - run: npm install -g markdown-table-cli
 
     - name: Run steamcmd_appid_servers.sh
