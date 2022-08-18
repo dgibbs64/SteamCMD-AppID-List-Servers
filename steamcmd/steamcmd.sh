@@ -31,8 +31,7 @@ if [ "$DEBUGGER" == "gdb" ] || [ "$DEBUGGER" == "cgdb" ]; then
     unset LD_PRELOAD
   fi
 
-  : "${DEBUGGER_ARGS=}"
-  $DEBUGGER -x "$ARGSFILE" $DEBUGGER_ARGS --args "$STEAMEXE" "$@"
+  $DEBUGGER -x "$ARGSFILE" "$STEAMEXE" "$@"
   rm "$ARGSFILE"
 else
   $DEBUGGER "$STEAMEXE" "$@"

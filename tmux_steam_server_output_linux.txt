@@ -1,86 +1,5 @@
-Redirecting stderr to '/home/runner/Steam/logs/stderr.txt'
-ILocalize::AddFile() failed to load file "public/steambootstrapper_english.txt".
-[  0%] Checking for available update...
-[----] Downloading update (0 of 55093 KB)...
-[  0%] Downloading update (3378 of 55093 KB)...
-[  6%] Downloading update (7290 of 55093 KB)...
-[ 13%] Downloading update (9818 of 55093 KB)...
-[ 17%] Downloading update (12321 of 55093 KB)...
-[ 22%] Downloading update (15069 of 55093 KB)...
-[ 27%] Downloading update (17564 of 55093 KB)...
-[ 31%] Downloading update (20017 of 55093 KB)...
-[ 36%] Downloading update (22525 of 55093 KB)...
-[ 40%] Downloading update (25261 of 55093 KB)...
-[ 45%] Downloading update (27771 of 55093 KB)...
-[ 50%] Downloading update (30284 of 55093 KB)...
-[ 54%] Downloading update (32808 of 55093 KB)...
-[ 59%] Downloading update (35536 of 55093 KB)...
-[ 64%] Downloading update (37648 of 55093 KB)...
-[ 68%] Downloading update (38903 of 55093 KB)...
-[ 70%] Downloading update (40158 of 55093 KB)...
-[ 72%] Downloading update (41536 of 55093 KB)...
-[ 75%] Downloading update (42785 of 55093 KB)...
-[ 77%] Downloading update (44011 of 55093 KB)...
-[ 79%] Downloading update (45388 of 55093 KB)...
-[ 82%] Downloading update (46651 of 55093 KB)...
-[ 84%] Downloading update (47902 of 55093 KB)...
-[ 86%] Downloading update (49283 of 55093 KB)...
-[ 89%] Downloading update (50510 of 55093 KB)...
-[ 91%] Downloading update (51759 of 55093 KB)...
-[ 93%] Downloading update (53014 of 55093 KB)...
-[ 96%] Downloading update (54395 of 55093 KB)...
-[ 98%] Downloading update (55093 of 55093 KB)...
-[100%] Download Complete.
-[----] Applying update...
-[----] Extracting package...
-[----] Extracting package...
-[----] Extracting package...
-[----] Extracting package...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Cleaning up...
-[----] Update complete, launching...
-Redirecting stderr to '/home/runner/Steam/logs/stderr.txt'
-/tmp/dumps insufficient permissions - delete and recreate
-[  0%] Checking for available updates...
-[----] Verifying installation...
-[  0%] Downloading update...
-[  0%] Checking for available updates...
-[----] Download complete.
-[----] Extracting package...
-[----] Extracting package...
-[----] Extracting package...
-[----] Extracting package...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Installing update...
-[----] Cleaning up...
-[----] Update complete, launching Steamcmd...
-Redirecting stderr to '/home/runner/Steam/logs/stderr.txt'
-[  0%] Checking for available updates...
-[----] Verifying installation...
-Steam Console Client (c) Valve Corporation - version 1658944597
--- type 'quit' to exit --
-Loading Steam API...OK
-
-Connecting anonymously to Steam Public...OK
-Waiting for client config...OK
-Waiting for user info...OK
-[1m
-Steam>[0mapp_status 5
+app_status 5
 app_status 90
-AppID 5 (): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 app_status 205
 app_status 210
 app_status 310
@@ -88,6 +7,7 @@ app_status 510
 app_status 540
 app_status 560
 app_status 635
+Redirecting stderr to '/home/runner/Steam/logs/stderr.txt'
 app_status 740
 app_status 1240
 app_status 1273
@@ -96,6 +16,7 @@ app_status 2145
 app_status 2403
 app_status 2413
 app_status 2460
+[  0%] Checking for available updates...
 app_status 2740
 app_status 4020
 app_status 4207
@@ -107,6 +28,224 @@ app_status 8610
 app_status 8610
 app_status 8680
 app_status 8680
+app_status 8710
+app_status 8710
+app_status 8730
+app_status 8730
+app_status 8770
+app_status 8770
+app_status 10030
+app_status 10030
+app_status 13180
+app_status 13180
+app_status 17505
+app_status 17505
+app_status 17515
+app_status 17515
+app_status 17525
+app_status 17525
+app_status 17535
+app_status 17535
+app_status 17555
+app_status 17555
+app_status 17575
+app_status 17575
+app_status 17585
+app_status 17585
+app_status 17595
+app_status 17595
+app_status 17705
+app_status 17705
+app_status 17790
+app_status 17790
+app_status 18112
+app_status 18112
+app_status 25740
+app_status 25740
+app_status 31720
+app_status 31720
+app_status 33905
+app_status 33905
+app_status 33935
+app_status 33935
+app_status 34120
+app_status 34120
+app_status 34850
+app_status 34850
+app_status 39580
+app_status 39580
+app_status 41005
+app_status 41005
+app_status 41015
+app_status 41015
+app_status 41080
+app_status 41080
+app_status 42750
+app_status 42750
+app_status 43210
+app_status 43210
+app_status 44720
+app_status 44720
+app_status 55280
+app_status 55280
+app_status 55290
+app_status 55290
+app_status 57910
+app_status 57910
+app_status 63220
+app_status 63220
+app_status 70010
+app_status 70010
+app_status 72310
+app_status 72310
+app_status 72780
+app_status 72780
+app_status 91720
+app_status 91720
+app_status 96810
+app_status 96810
+app_status 105610
+app_status 111710
+app_status 203300
+app_status 208050
+app_status 210370
+app_status 212542
+app_status 213040
+app_status 215350
+app_status 215360
+app_status 216280
+app_status 220070
+app_status 222860
+app_status 223160
+app_status 223240
+[----] Verifying installation...
+app_status 223250
+app_status 223350
+app_status 224620
+app_status 227040
+app_status 227050
+app_status 228780
+app_status 230030
+app_status 232130
+app_status 232250
+app_status 232330
+app_status 233780
+app_status 237410
+app_status 238690
+app_status 239510
+app_status 244310
+app_status 255470
+app_status 258550
+app_status 261020
+app_status 273530
+app_status 276060
+app_status 293030
+app_status 294420
+app_status 295230
+app_status 298740
+app_status 299310
+app_status 328950
+app_status 329710
+app_status 332670
+app_status 332850
+app_status 336400
+app_status 338440
+app_status 339010
+app_status 346680
+app_status 354060
+app_status 361580
+app_status 367970
+app_status 369630
+app_status 403240
+app_status 412680
+app_status 414570
+app_status 416880
+app_status 418480
+app_status 419790
+app_status 423410
+app_status 426660
+app_status 429400
+app_status 439660
+app_status 439700
+app_status 439700
+app_status 443030
+app_status 443050
+app_status 443050
+app_status 447760
+app_status 447760
+app_status 449740
+app_status 449740
+app_status 450980
+app_status 450980
+app_status 451280
+app_status 451280
+app_status 451320
+app_status 451320
+app_status 452430
+app_status 452430
+app_status 453420
+app_status 453420
+app_status 460040
+app_status 460040
+app_status 460300
+app_status 460300
+app_status 460320
+app_status 460320
+app_status 460670
+app_status 460670
+app_status 462310
+app_status 462310
+app_status 463640
+app_status 463650
+app_status 472840
+app_status 472841
+app_status 472860
+app_status 472861
+app_status 474800
+app_status 474801
+app_status 474802
+app_status 474803
+app_status 475370
+app_status 476400
+app_status 485250
+app_status 489650
+app_status 490500
+app_status 493970
+app_status 497110
+app_status 514900
+app_status 516860
+app_status 523390
+app_status 525900
+app_status 526340
+app_status 530870
+app_status 532330
+app_status 581330
+app_status 582400
+app_status 600760
+app_status 622970
+app_status 623990
+app_status 710560
+app_status 728470
+app_status 739590
+app_status 746200
+app_status 749070
+app_status 770720
+app_status 774961
+app_status 805140
+app_status 824360
+app_status 844650
+app_status 878760
+app_status 881430
+app_status 88160Steam Console Client (c) Valve Corporation - version 1658944597
+-- type 'quit' to exit --
+Loading Steam API...OK
+
+Connecting anonymously to Steam Public...OK
+Waiting for client config...OK
+Waiting for user info...OK
+[1m
+Steam>[0m0
+app_status AppID 5 (): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -120,26 +259,15 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: unknown (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
 {
 }
 [1m
-Steam>[0mapp_status 8710
-app_status 8710
-app_status 8730
-app_status 8730
-app_status 8770
-app_status 8770
-app_status 10030
-app_status 10030
-app_status 13180
-app_status 13180
-app_status 17505
-app_status 17505
-AppID 90 (Half-Life Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+Steam>[0m882430
+app_staAppID 90 (Half-Life Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -153,26 +281,15 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
 {
 }
 [1m
-Steam>[0mapp_status 17515
-app_status 17515
-app_status 17525
-app_status 17525
-app_status 17535
-app_status 17535
-app_status 17555
-app_status 17555
-app_status 17575
-app_status 17575
-app_status 17585
-app_status 17585
-AppID 205 (Source Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+Steam>[0mtus 884110
+app_AppID 205 (Source Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -186,26 +303,15 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
 {
 }
 [1m
-Steam>[0mapp_status 17595
-app_status 17595
-app_status 17705
-app_status 17705
-app_status 17790
-app_status 17790
-app_status 18112
-app_status 18112
-app_status 25740
-app_status 25740
-app_status 31720
-app_status 31720
-AppID 210 (): 
+Steam>[0mstatus 886440
+aAppID 210 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -215,138 +321,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 33905
-app_status 33905
-app_status 33935
-app_status 33935
-app_status 34120
-app_status 34120
-app_status 34850
-app_status 34850
-app_status 39580
-app_status 39580
-AppID 310 (Source 2007 Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-app_status 41005
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
- - install state: uninstalled
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 41005
-app_status 41015
-app_status 41015
-app_status 41080
-app_status 41080
-app_status 42750
-app_status 42750
-app_status 43210
-app_status 43210
-app_status 44720
-app_status 44720
-app_status 55280
-AppID 510 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 55280
-app_status 55290
-app_status 55290
-app_status 57910
-app_status 57910
-app_status 63220
-app_status 63220
-app_status 70010
-app_status 70010
-app_status 72310
-app_status 72310
-AppID 540 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 72780
-app_status 72780
-app_status 91720
-app_status 91720
-app_status 96810
-app_status 96810
-app_status 105610
-app_status 111710
-app_status 203300
-app_status 208050
-app_status 210370
-app_status 212542
-AppID 560 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 213040
-app_status 215350
-app_status 215360
-app_status 216280
-app_status 220070
-app_status 222860
-app_status 223160
-app_status 223240
-app_status 223250
-app_status 223350
-app_status 224620
-app_status 227040
-AppID 635 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 227050
-app_status 228780
-app_status 230030
-app_status 232130
-app_status 232250
-app_status 232330
-app_status 233780
-app_status 237410
-app_status 238690
-app_status 239510
-app_status 244310
-app_status 255470
-AppID 740 (Counter-Strike Global Offensive - Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+Steam>[0mpp_status 88852AppID 310 (Source 2007 Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -360,23 +335,15 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
 {
 }
 [1m
-Steam>[0mapp_status 258550
-app_status 261020
-app_status 273530
-app_status 276060
-app_status 293030
-app_status 294420
-app_status 295230
-app_status 298740
-app_status 299310
-AppID 1240 (): 
+Steam>[0m0
+app_status 89AppID 510 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -386,19 +353,8 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 328950
-app_status 329710
-app_status 332670
-app_status 332850
-app_status 336400
-app_status 338440
-app_status 339010
-app_status 346680
-app_status 354060
-app_status 361580
-app_status 367970
-app_status 369630
-AppID 1273 (): 
+Steam>[0m6660
+app_statusAppID 540 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -408,17 +364,8 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 403240
-app_status 412680
-app_status 414570
-app_status 416880
-app_status 418480
-app_status 419790
-app_status 423410
-app_status 426660
-app_status 429400
-app_status 439660
-AppID 1290 (): 
+Steam>[0m 897590
+app_staAppID 560 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -428,19 +375,8 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 439700
-app_status 439700
-app_status 443030
-app_status 443050
-app_status 443050
-app_status 447760
-app_status 447760
-app_status 449740
-app_status 449740
-app_status 450980
-app_status 450980
-app_status 451280
-AppID 2145 (): 
+Steam>[0mtus 904710
+app_AppID 635 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -450,106 +386,8 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 451280
-app_status 451320
-app_status 451320
-app_status 452430
-app_status 452430
-app_status 453420
-app_status 453420
-app_status 460040
-app_status 460040
-app_status 460300
-app_status 460300
-app_status 460320
-AppID 2403 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 460320
-app_status 460670
-app_status 460670
-app_status 462310
-app_status 462310
-app_status 463640
-app_status 463650
-app_status 472840
-app_status 472841
-app_status 472860
-app_status 472861
-AppID 2413 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{app_status 474800
-
-}
-[1m
-Steam>[0mapp_status 474801
-app_status 474802
-app_status 474803
-app_status 475370
-app_status 476400
-app_status 485250
-app_status 489650
-app_status 490500
-app_status 493970
-app_status 497110
-app_status 514900
-app_status 516860
-AppID 2460 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 523390
-app_status 525900
-app_status 526340
-app_status 530870
-app_status 532330
-app_status 581330
-app_status 582400
-app_status 600760
-app_status 622970
-app_status 623990
-app_status 710560
-AppID 2740 (): 
- - release state: unknown (No License)
- - install state: uninstalled
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
-
- - user config: "internal"
-{
-}
-[1m
-Steam>[0mapp_status 728470
-app_status 739590
-app_status 746200
-app_status 749070
-app_status 770720
-app_status 774961
-app_status 805140
-app_status 824360
-app_status 844650
-app_status 878760
-app_status 881430
-app_status 881600
-AppID 4020 (Garry's Mod Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+Steam>[0mstatus 906940
+aAppID 740 (Counter-Strike Global Offensive - Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -563,26 +401,14 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
 {
 }
 [1m
-Steam>[0mapp_status 882430
-app_status 884110
-app_status 886440
-app_status 888520
-app_status 896660
-app_status 897590
-app_status 904710
-app_status 906940
-app_status 908290
-app_status 912290
-app_status 915070
-app_status 916110
-AppID 4207 (): 
+Steam>[0mpp_status 908290AppID 1240 (): 
  - release state: unknown (No License)
  - install state: uninstalled
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
@@ -592,11 +418,116 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 {
 }
 [1m
-Steam>[0mapp_status 920720
-app_status 928530
-app_status 931580
-app_status 939320
-app_status 944490
+Steam>[0m
+app_status 9122AppID 1273 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0m90
+app_status 91AppID 1290 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0m5070
+app_status AppID 2145 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0m916110
+app_statuAppID 2403 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0ms 920720
+app_staAppID 2413 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0mtus 928530
+app_sAppID 2460 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0mtatus 931580
+appAppID 2740 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0m_status 939320
+aAppID 4020 (Garry's Mod Dedicated Server): src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - release state: released (Subscribed,Permanent,)
+ - owner account: 1722197014
+ - install state: uninstalled
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0mpp_status 944490AppID 4207 (): 
+ - release state: unknown (No License)
+ - install state: uninstalled
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
+
+ - user config: "internal"
+{
+}
+[1m
+Steam>[0m
 app_status 9478AppID 4210 (): 
  - release state: unknown (No License)
  - install state: uninstalled
@@ -644,7 +575,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -804,7 +735,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -824,7 +755,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -846,7 +777,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -866,7 +797,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -888,7 +819,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -908,7 +839,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -930,7 +861,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -950,7 +881,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -972,7 +903,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -991,7 +922,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1013,7 +944,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1033,7 +964,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1055,7 +986,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1075,7 +1006,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1117,7 +1048,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1137,7 +1068,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1376,7 +1307,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1396,7 +1327,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1477,7 +1408,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1497,7 +1428,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1688,7 +1619,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1710,7 +1641,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1732,7 +1663,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1820,7 +1751,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1842,7 +1773,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1919,7 +1850,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1941,7 +1872,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1962,7 +1893,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -1995,7 +1926,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2017,7 +1948,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2039,7 +1970,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2072,7 +2003,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2094,7 +2025,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2127,7 +2058,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2149,7 +2080,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2171,7 +2102,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2204,7 +2135,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2226,7 +2157,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2259,7 +2190,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2281,7 +2212,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2303,7 +2234,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2324,7 +2255,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2346,7 +2277,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2368,7 +2299,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2390,7 +2321,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2412,7 +2343,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2434,7 +2365,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2456,7 +2387,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2478,7 +2409,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2500,7 +2431,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2522,7 +2453,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2544,7 +2475,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2566,7 +2497,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2588,7 +2519,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2610,7 +2541,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2632,7 +2563,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2654,7 +2585,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2676,7 +2607,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2698,7 +2629,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2720,7 +2651,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2741,7 +2672,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2763,7 +2694,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2785,7 +2716,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2807,7 +2738,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2849,7 +2780,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2871,7 +2802,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2891,7 +2822,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2913,7 +2844,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2933,7 +2864,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2955,7 +2886,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2975,7 +2906,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -2997,7 +2928,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3017,7 +2948,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3098,7 +3029,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3118,7 +3049,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3140,7 +3071,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3160,7 +3091,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3182,7 +3113,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3202,7 +3133,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3224,7 +3155,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3244,7 +3175,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3286,7 +3217,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3306,7 +3237,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3437,7 +3368,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3459,7 +3390,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3481,7 +3412,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3503,7 +3434,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3525,7 +3456,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3580,7 +3511,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3602,7 +3533,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3635,7 +3566,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3657,7 +3588,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3689,7 +3620,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3711,7 +3642,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3733,7 +3664,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3755,7 +3686,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3788,7 +3719,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3810,7 +3741,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3832,7 +3763,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3854,7 +3785,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3876,7 +3807,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3909,7 +3840,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3931,7 +3862,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3953,7 +3884,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -3975,7 +3906,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4008,7 +3939,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4030,7 +3961,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4052,7 +3983,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4073,7 +4004,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4095,7 +4026,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4117,7 +4048,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4139,7 +4070,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4161,7 +4092,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4183,7 +4114,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4205,7 +4136,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4238,7 +4169,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4260,7 +4191,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4282,7 +4213,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4304,7 +4235,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4326,7 +4257,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4348,7 +4279,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4381,7 +4312,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4403,7 +4334,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4425,7 +4356,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4447,7 +4378,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4468,7 +4399,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4490,7 +4421,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4512,7 +4443,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4534,7 +4465,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4556,7 +4487,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4578,7 +4509,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4600,7 +4531,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4622,7 +4553,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4644,7 +4575,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4666,7 +4597,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4688,7 +4619,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4710,7 +4641,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4732,7 +4663,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4765,7 +4696,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4787,7 +4718,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4809,7 +4740,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4831,7 +4762,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4864,7 +4795,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4887,7 +4818,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4908,7 +4839,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4949,7 +4880,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4970,7 +4901,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -4991,7 +4922,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5012,7 +4943,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5033,7 +4964,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5054,7 +4985,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5075,7 +5006,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5096,7 +5027,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5117,7 +5048,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5138,7 +5069,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5159,7 +5090,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5190,7 +5121,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5211,7 +5142,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5232,7 +5163,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5253,7 +5184,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5274,7 +5205,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5295,7 +5226,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5316,7 +5247,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5337,7 +5268,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5358,7 +5289,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5379,7 +5310,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5400,7 +5331,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5421,7 +5352,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5452,7 +5383,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5473,7 +5404,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5494,7 +5425,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5515,7 +5446,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5536,7 +5467,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5557,7 +5488,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5588,7 +5519,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5619,7 +5550,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5640,7 +5571,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5661,7 +5592,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5682,7 +5613,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5703,7 +5634,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5724,7 +5655,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5745,7 +5676,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5766,7 +5697,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5787,7 +5718,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5808,7 +5739,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5829,7 +5760,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5850,7 +5781,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5871,7 +5802,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5892,7 +5823,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5913,7 +5844,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5934,7 +5865,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -5991,7 +5922,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6010,7 +5941,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6031,7 +5962,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6050,7 +5981,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6071,7 +6002,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6090,7 +6021,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6129,7 +6060,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6148,7 +6079,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6169,7 +6100,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6188,7 +6119,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6281,7 +6212,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6300,7 +6231,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6321,7 +6252,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6340,7 +6271,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6379,7 +6310,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6398,7 +6329,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6419,7 +6350,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6438,7 +6369,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6469,7 +6400,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6488,7 +6419,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6509,7 +6440,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6530,7 +6461,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6549,7 +6480,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6606,7 +6537,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6625,7 +6556,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6646,7 +6577,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6665,7 +6596,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6704,7 +6635,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6723,7 +6654,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6744,7 +6675,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6763,7 +6694,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6784,7 +6715,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6805,7 +6736,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6826,7 +6757,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6845,7 +6776,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6866,7 +6797,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6885,7 +6816,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6906,7 +6837,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6927,7 +6858,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6946,7 +6877,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6967,7 +6898,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -6986,7 +6917,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7053,7 +6984,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7072,7 +7003,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7093,7 +7024,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7112,7 +7043,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7133,7 +7064,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7154,7 +7085,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7175,7 +7106,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7194,7 +7125,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7215,7 +7146,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7236,7 +7167,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7255,7 +7186,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7294,7 +7225,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7315,7 +7246,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7334,7 +7265,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7355,7 +7286,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7376,7 +7307,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7395,7 +7326,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7416,7 +7347,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7435,7 +7366,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7474,7 +7405,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7523,7 +7454,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7544,7 +7475,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7603,7 +7534,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7622,7 +7553,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7661,7 +7592,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7680,7 +7611,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7701,7 +7632,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7720,7 +7651,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7779,7 +7710,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7810,7 +7741,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7841,7 +7772,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7862,7 +7793,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7883,7 +7814,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7904,7 +7835,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7925,7 +7856,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -7956,7 +7887,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8013,7 +7944,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8034,7 +7965,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8055,7 +7986,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Invalid Platform,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8076,7 +8007,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8097,7 +8028,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8118,7 +8049,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8149,7 +8080,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8170,7 +8101,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8211,7 +8142,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8242,7 +8173,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8273,7 +8204,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8304,7 +8235,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8325,7 +8256,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8386,7 +8317,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8437,7 +8368,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8468,7 +8399,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
@@ -8489,7 +8420,7 @@ src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 src/clientdll/configstore.cpp (361) : GSteamEngine().IsEngineThreadRunning()
 
  - release state: released (Subscribed,Permanent,)
- - owner account: 3969047937
+ - owner account: 1722197014
  - install state: uninstalled
 
  - user config: "internal"
