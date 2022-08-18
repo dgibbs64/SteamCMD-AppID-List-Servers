@@ -16,25 +16,6 @@ download_steam_files() {
   fi
 }
 
-# Checks for SteamCMD, and installs if it does not exist.
-install_steamcmd() {
-  echo ""
-  echo "Installing SteamCMD."
-  cd "${rootdir}" || exit
-  mkdir -pv "steamcmd"
-  cd "steamcmd" || exit
-  if [ ! -f "steamcmd.sh" ]; then
-    echo -e "downloading steamcmd_linux.tar.gz...\c"
-    wget -N /dev/null http://media.steampowered.com/client/steamcmd_linux.tar.gz 2>&1 | grep -F HTTP | cut -c45- | uniq
-    tar --verbose -zxf "steamcmd_linux.tar.gz"
-    rm -v "steamcmd_linux.tar.gz"
-    chmod +x "steamcmd.sh"
-  else
-    echo "SteamCMD is already installed."
-  fi
-  cd "${rootdir}" || exit
-}
-
 # Generate a list of commands to send to SteamCMD.
 # Parameter 1: JSON content to parse as an array of relevant entities.
 # Returns: Output as string.
@@ -67,7 +48,7 @@ echo "Spin up 1 TMUX in Linux mode."
 if [ ! -f "tmux_steam_server_output_linux.txt" ]; then
   touch "tmux_steam_server_output_linux.txt"
 fi
-tmux new -s "tmux-linux" -d './steamcmd/steamcmd.sh +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_linux.txt"
+tmux new -s "tmux-linux" -d 'steamcmd +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_linux.txt"
 echo ""
 echo "Waiting for SteamCMD prompt."
 while ! grep -q "Steam>" tmux_steam_server_output_linux.txt; do
@@ -98,7 +79,7 @@ echo "Spin up 1 TMUX in Windows mode."
 if [ ! -f "tmux_steam_server_output_windows.txt" ]; then
   touch "tmux_steam_server_output_windows.txt"
 fi
-tmux new -s "tmux-windows" -d './steamcmd/steamcmd.sh +@sSteamCmdForcePlatformType windows +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_windows.txt"
+tmux new -s "tmux-windows" -d 'steamcmd +@sSteamCmdForcePlatformType windows +login anonymous' \; pipe-pane "cat > ./tmux_steam_server_output_windows.txt"
 echo ""
 echo "Waiting for SteamCMD prompt."
 while ! grep -q "Steam>" tmux_steam_server_output_windows.txt; do
