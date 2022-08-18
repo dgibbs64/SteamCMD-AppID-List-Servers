@@ -20,7 +20,13 @@ jobs:
 
       - uses: actions/setup-node@v3
 
-      - run: npm install -g markdown-table-cli
+      - name: Install required packages
+        run: |
+          sudo apt-get update
+          sudo apt-get install tmux jq
+
+      - name: install markdown-table-cli
+        run: npm install -g markdown-table-cli
 
       - name: Setup steamcmd
         uses: CyberAndrii/setup-steamcmd@v1
