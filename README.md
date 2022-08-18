@@ -9,7 +9,7 @@
 
 This repository stores every dedicated server `AppID` and its name available on Steam as `json`, `CSV` and `MD` table by grabbing the info from the SteamAPI and filtering for the word `server`.
 
-`https://api.steampowered.com/ISteamApps/GetAppList/v2/`
+[[steamcmd_appid_servers.json](https://api.steampowered.com/ISteamApps/GetAppList/v2/)](https://api.steampowered.com/ISteamApps/GetAppList/v2/)
 
 ## List
 
