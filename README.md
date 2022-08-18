@@ -9,7 +9,7 @@
 
 This repository stores every dedicated server `AppID` and its name available on Steam as `json`, `CSV` and `MD` table by grabbing the info from the SteamAPI and filtering for the word `server`.
 
-[[steamcmd_appid_servers.json](https://api.steampowered.com/ISteamApps/GetAppList/v2/)](https://api.steampowered.com/ISteamApps/GetAppList/v2/)
+[steamcmd_appid_servers.json](https://api.steampowered.com/ISteamApps/GetAppList/v2/)
 
 ## List
 
@@ -37,10 +37,13 @@ A list of linux supported servers are listed below
 
 Simply download the script and run it.
 
-    wget https://raw.githubusercontent.com/dgibbs64/SteamCMD-AppID-List-Servers/master/steamcmd_appid_server.sh;chmod +x steamcmd_appid_server.sh;./steamcmd_appid_server.sh
+```bash
+wget https://raw.githubusercontent.com/dgibbs64/SteamCMD-AppID-List-Servers/master/steamcmd_appid_server.sh
+chmod +x steamcmd_appid_server.sh
+./steamcmd_appid_server.sh
+```
 
 ## SteamDB
 
 A list of server packages can also be seen using SteamDB
-
-https://steamdb.info/search/?a=app&q=server
+[SteamDB](https://steamdb.info/search/?a=app&q=server)
