@@ -29,25 +29,24 @@ steamcommands=$(jq -n "${steamservers}" | jq -r '.[] | [.appid] | @csv' | sed 's
 
 # Linux analysis session
 echo "Generate SteamCMD commands for Linux analysis session"
-echo "${steamcommands//send-keys/send-keys -t tmux-linux}" >> tmux_steam_server_commands_linux.sh
-echo "tmux send-keys -t tmux-linux \"exit\" ENTER" >> tmux_steam_server_commands_linux.sh
+echo "${steamcommands//send-keys/send-keys -t tmux-linux}" >> ${tempdir}/tmux_steam_server_commands_linux.sh
+echo "tmux send-keys -t tmux-linux \"exit\" ENTER" >> ${tempdir}/tmux_steam_server_commands_linux.sh
 
 echo "Start Tmux Linux analysis session"
-touch tmux_steam_server_output_linux.txt
-tmux new -s "tmux-linux" -d 'steamcmd +login anonymous' \; pipe-pane "cat > tmux_steam_server_output_linux.txt"
+touch ${tempdir}/tmux_steam_server_output_linux.txt
+tmux new -s "tmux-linux" -d 'steamcmd +login anonymous' \; pipe-pane "cat > ${tempdir}/tmux_steam_server_output_linux.txt"
 echo ""
 echo "Wait for SteamCMD prompt on Linux analysis session"
-while ! grep -q "Steam>" tmux_steam_server_output_linux.txt; do
+while ! grep -q "Steam>" ${tempdir}/tmux_steam_server_output_linux.txt; do
   echo -n "."
   sleep 1
 done
 echo ""
 
 echo "Execute SteamCMD commands for Linux analysis session"
-chmod +x tmux_steam_server_commands_linux.sh
-./tmux_steam_server_commands_linux.sh &
+chmod +x ${tempdir}/tmux_steam_server_commands_linux.sh
+${tempdir}//tmux_steam_server_commands_linux.sh &
 
-# wait for the tmux session to finish
 echo ""
 echo "Wait for the linux analysis session to finish"
 while [ "$(tmux ls | grep -c "tmux-linux")" -ne "0" ]; do
@@ -57,7 +56,7 @@ done
 echo ""
 
 # Generate csv and json for Linux analysis session
-pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' tmux_steam_server_output_linux.txt > tmux_steam_server_linux.csv
+pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' ${tempdir}/tmux_steam_server_output_linux.txt > ${tempdir}/tmux_steam_server_linux.csv
 
 # convert the CSV to JSON
 jq -Rsn '
@@ -66,27 +65,27 @@ jq -Rsn '
 	 | (.[] | select((. | length) > 0) | . / ";") as $input
 	 | {"appid": $input[0]|tonumber, "subscriptionlinux": $input[1]}
 	]
-' < tmux_steam_server_linux.csv > tmux_steam_server_linux.json
+' < ${tempdir}/tmux_steam_server_linux.csv > ${tempdir}/tmux_steam_server_linux.json
 
 # Windows analysis session
 echo "Generate SteamCMD commands for Windows analysis session"
-echo "${steamcommands//send-keys/send-keys -t tmux-windows}" >> tmux_steam_server_commands_windows.sh
-echo "tmux send-keys -t tmux-windows \"exit\" ENTER" >> tmux_steam_server_commands_windows.sh
+echo "${steamcommands//send-keys/send-keys -t tmux-windows}" >> ${tempdir}/tmux_steam_server_commands_windows.sh
+echo "tmux send-keys -t tmux-windows \"exit\" ENTER" >> ${tempdir}/tmux_steam_server_commands_windows.sh
 
 echo "Start Tmux Windows analysis session"
-touch tmux_steam_server_output_windows.txt
-tmux new -s "tmux-windows" -d 'steamcmd +@sSteamCmdForcePlatformType windows +login anonymous' \; pipe-pane "cat > tmux_steam_server_output_windows.txt"
+touch ${tempdir}/tmux_steam_server_output_windows.txt
+tmux new -s "tmux-windows" -d 'steamcmd +@sSteamCmdForcePlatformType windows +login anonymous' \; pipe-pane "cat > ${tempdir}/tmux_steam_server_output_windows.txt"
 echo ""
 echo "Wait for SteamCMD prompt on Windows analysis session"
-while ! grep -q "Steam>" tmux_steam_server_output_windows.txt; do
+while ! grep -q "Steam>" ${tempdir}/tmux_steam_server_output_windows.txt; do
   echo -n "."
   sleep 1
 done
 echo ""
 
 echo "Execute SteamCMD commands for Windows analysis session"
-chmod +x tmux_steam_server_commands_windows.sh
-./tmux_steam_server_commands_windows.sh &
+chmod +x ${tempdir}/tmux_steam_server_commands_windows.sh
+${tempdir}/tmux_steam_server_commands_windows.sh &
 
 # wait for the tmux session to finish
 echo ""
@@ -98,7 +97,7 @@ done
 echo ""
 
 # Generate csv and json for Windows analysis session
-pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' tmux_steam_server_output_windows.txt > tmux_steam_server_windows.csv
+pcre2grep -M -o1 -o2 --om-separator=\; 'AppID ([0-9]{1,8})[\s\S]*?release state: (.*)$' ${tempdir}/tmux_steam_server_output_windows.txt > ${tempdir}/tmux_steam_server_windows.csv
 
 # convert the CSV to JSON
 jq -Rsn '
@@ -107,25 +106,24 @@ jq -Rsn '
 	 | (.[] | select((. | length) > 0) | . / ";") as $input
 	 | {"appid": $input[0]|tonumber, "subscriptionwindows": $input[1]}
 	]
-' < tmux_steam_server_windows.csv > tmux_steam_server_windows.json
+' < ${tempdir}/tmux_steam_server_windows.csv > ${tempdir}/tmux_steam_server_windows.json
 
-# Merge Linux and Windows data
 echo "Adding Linux compatibility information."
-jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < tmux_steam_server_linux.json > tmux_steam_server_linux.json$$
-mv tmux_steam_server_linux.json$$ tmux_steam_server_linux.json
+jq '[.[] | .linux = (.subscriptionlinux | contains("Invalid Platform") | not ) and (.subscriptionlinux | contains("unknown") | not )]' < ${tempdir}/tmux_steam_server_linux.json > ${tempdir}/tmux_steam_server_linux.json$$
+mv ${tempdir}/tmux_steam_server_linux.json$$ ${tempdir}/tmux_steam_server_linux.json
 
 echo "Adding Windows compatibility information."
-jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not ) and (.subscriptionwindows | contains("unknown") | not )]' < tmux_steam_server_windows.json > tmux_steam_server_windows.json$$
-mv tmux_steam_server_windows.json$$ tmux_steam_server_windows.json
+jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not ) and (.subscriptionwindows | contains("unknown") | not )]' < ${tempdir}/tmux_steam_server_windows.json > ${tempdir}/tmux_steam_server_windows.json$$
+mv ${tempdir}/tmux_steam_server_windows.json$$ ${tempdir}/tmux_steam_server_windows.json
 
 echo "Merging information."
-jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' steamcmd_appid_servers.json tmux_steam_server_linux.json tmux_steam_server_windows.json > steamcmd_appid_servers.json$$
-mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
+jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' steamcmd_appid_servers.json ${tempdir}/tmux_steam_server_linux.json ${tempdir}/tmux_steam_server_windows.json > ${tempdir}/steamcmd_appid_servers.json$$
+mv ${tempdir}/steamcmd_appid_servers.json$$ ${tempdir}/steamcmd_appid_servers.json
 
 # Remove False positives
 echo "Filtering false positives."
-cat steamcmd_appid_servers.json | jq 'map(select(.appid != 514900 and .appid != 559480))' > steamcmd_appid_servers.json$$
-mv steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
+cat ${tempdir}/steamcmd_appid_servers.json | jq 'map(select(.appid != 514900 and .appid != 559480))' > ${tempdir}/steamcmd_appid_servers.json$$
+mv ${tempdir}/steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
 echo "Creating steamcmd_appid_servers.csv"
 cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
@@ -133,12 +131,12 @@ cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscriptionlinu
 echo "Creating steamcmd_appid_servers.md"
 cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
-cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]] ))' | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_linux.json
+cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]] ))' | jq -s '.[]|sort_by(.appid)' > ${tempdir}/steamcmd_appid_servers_linux.json
 
 echo "Creating steamcmd_appid_servers_linux.csv"
-cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > steamcmd_appid_servers_linux.csv
+cat ${tempdir}/steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > ${tempdir}/steamcmd_appid_servers_linux.csv
 
 echo "Creating steamcmd_appid_servers_linux.md"
-cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows]' | md-table > steamcmd_appid_servers_linux.md
+cat ${tempdir}/steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows]' | md-table > ${tempdir}/steamcmd_appid_servers_linux.md
 
 exit
