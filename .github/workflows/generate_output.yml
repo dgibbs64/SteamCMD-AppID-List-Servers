@@ -23,7 +23,7 @@ jobs:
       - name: Install required packages
         run: |
           sudo apt-get update
-          sudo apt-get install tmux jq
+          sudo apt-get install tmux jq pcre2-utils
 
       - name: install markdown-table-cli
         run: npm install -g markdown-table-cli
