@@ -129,7 +129,7 @@ echo "Creating steamcmd_appid_servers.csv"
 cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
 
 echo "Creating steamcmd_appid_servers.md"
-cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
+#cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
 
 cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]] ))' | jq -s '.[]|sort_by(.appid)' > ${tempdir}/steamcmd_appid_servers_linux.json
 
