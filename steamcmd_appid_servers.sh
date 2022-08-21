@@ -2,7 +2,7 @@
 # steamcmd_appid_servers.sh
 # Author: Daniel Gibbs & Robin Bourne
 # Website: http://danielgibbs.co.uk
-# Version: 191212
+# Version: 220821
 # Description: Saves the complete list of all the appid their names in json and csv.
 
 # Static variables
@@ -21,12 +21,11 @@ tempdir="$(mktemp -d)"
 download_steam_files
 
 echo "Creating steamcmd_appid_servers.json"
-steamservers=$(jq '[.applist.apps[] | select(.name | contains("server","Server"))]' "${tempdir}/steamcmd_getapplist.json" | jq -s '.[]|sort_by(.appid)')
+jq '[.applist.apps[] | select(.name | contains("server","Server"))]' "${tempdir}/steamcmd_getapplist.json" | jq -s '.[]|sort_by(.appid)' > "${tempdir}/steamcmd_servers.json"
 #echo "${steamservers}" >steamcmd_appid_servers.json
 
 echo "Generate SteamCMD commands"
-steamcommands=$(jq -n "${steamservers}" | jq -r '.[] | [.appid] | @csv' | sed 's/^/tmux send-keys "app_status /' | sed 's/$/" ENTER/')
-
+steamcommands=$(jq -r '.[] | [.appid] | @csv' "${tempdir}/steamcmd_servers.json" | sed 's/^/tmux send-keys "app_status /' | sed 's/$/" ENTER/')
 # Linux analysis session
 echo "Generate SteamCMD commands for Linux analysis session"
 echo "${steamcommands//send-keys/send-keys -t tmux-linux}" >> ${tempdir}/tmux_steam_server_commands_linux.sh
@@ -117,26 +116,25 @@ jq '[.[] | .windows = (.subscriptionwindows | contains("Invalid Platform") | not
 mv ${tempdir}/tmux_steam_server_windows.json$$ ${tempdir}/tmux_steam_server_windows.json
 
 echo "Merging information."
-jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' steamcmd_appid_servers.json ${tempdir}/tmux_steam_server_linux.json ${tempdir}/tmux_steam_server_windows.json > ${tempdir}/steamcmd_appid_servers.json$$
+jq -s '[ .[0] + .[1] + .[2] | group_by(.appid)[] | add]' "${tempdir}/tmux_steam_server_linux.json" "${tempdir}/tmux_steam_server_windows.json" > ${tempdir}/steamcmd_appid_servers.json$$
+mv ${tempdir}/steamcmd_appid_servers.json$$ ${tempdir}/steamcmd_appid_servers.json
+
+# Add name to each appid
+jq '[JOIN(INDEX(input[]; (.appid|tostring)); .[]; (.appid|tostring); add)]' "${tempdir}/steamcmd_appid_servers.json" "${tempdir}/steamcmd_servers.json" > ${tempdir}/steamcmd_appid_servers.json$$
 mv ${tempdir}/steamcmd_appid_servers.json$$ ${tempdir}/steamcmd_appid_servers.json
 
 # Remove False positives
-echo "Filtering false positives."
-cat ${tempdir}/steamcmd_appid_servers.json | jq 'map(select(.appid != 514900 and .appid != 559480))' > ${tempdir}/steamcmd_appid_servers.json$$
+echo "Filtering false positives"
+jq 'map(select(.appid != 514900 and .appid != 559480))' ${tempdir}/steamcmd_appid_servers.json > ${tempdir}/steamcmd_appid_servers.json$$
 mv ${tempdir}/steamcmd_appid_servers.json$$ steamcmd_appid_servers.json
 
 echo "Creating steamcmd_appid_servers.csv"
 cat steamcmd_appid_servers.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > steamcmd_appid_servers.csv
 
-echo "Creating steamcmd_appid_servers.md"
-#cat steamcmd_appid_servers.json | md-table > steamcmd_appid_servers.md
+# Linux Specific files
+cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["subscriptionwindows"], ["windows"], ["subscriptionlinux"], ["linux"]] ))' | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_linux.json
+cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name] | @csv' > steamcmd_appid_servers_linux.csv
 
-cat steamcmd_appid_servers.json | jq '[.[] | select(.linux == true)]' | jq 'map( delpaths( [["linux"], ["windows"]] ))' | jq -s '.[]|sort_by(.appid)' > ${tempdir}/steamcmd_appid_servers_linux.json
-
-echo "Creating steamcmd_appid_servers_linux.csv"
-cat ${tempdir}/steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows] | @csv' > ${tempdir}/steamcmd_appid_servers_linux.csv
-
-echo "Creating steamcmd_appid_servers_linux.md"
-cat ${tempdir}/steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name, .subscriptionlinux, .subscriptionwindows, .linux, .windows]' | md-table > ${tempdir}/steamcmd_appid_servers_linux.md
-
-exit
+# Windows Specific files
+cat steamcmd_appid_servers.json | jq '[.[] | select(.windows == true)]' | jq 'map( delpaths( [["subscriptionwindows"], ["windows"], ["subscriptionlinux"], ["linux"]] ))' | jq -s '.[]|sort_by(.appid)' > steamcmd_appid_servers_windows.json
+cat steamcmd_appid_servers_linux.json | jq -r '.[] | [.appid, .name] | @csv' > steamcmd_appid_servers_windows.csv
