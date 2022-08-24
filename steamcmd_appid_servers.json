@@ -4022,5 +4022,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Bounters Playtest Server"
+  },
+  {
+    "appid": 2131400,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "VEIN Dedicated Server"
   }
 ]
