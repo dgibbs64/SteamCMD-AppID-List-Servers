@@ -1,15 +1,135 @@
 [
   {
+    "appid": 90,
+    "name": "Half-Life Dedicated Server"
+  },
+  {
+    "appid": 205,
+    "name": "Source Dedicated Server"
+  },
+  {
+    "appid": 310,
+    "name": "Source 2007 Dedicated Server"
+  },
+  {
+    "appid": 740,
+    "name": "Counter-Strike Global Offensive - Dedicated Server"
+  },
+  {
+    "appid": 4020,
+    "name": "Garry's Mod Dedicated Server"
+  },
+  {
     "appid": 4940,
     "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 17505,
+    "name": "Zombie Panic! Source Dedicated Server"
+  },
+  {
+    "appid": 17515,
+    "name": "Age of Chivalry Dedicated Server"
+  },
+  {
+    "appid": 17525,
+    "name": "Synergy Dedicated Server"
+  },
+  {
+    "appid": 17535,
+    "name": "D.I.P.R.I.P. Dedicated Server"
+  },
+  {
+    "appid": 17555,
+    "name": "Eternal Silence Dedicated Server"
+  },
+  {
+    "appid": 17575,
+    "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server"
+  },
+  {
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server"
+  },
+  {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
+    "appid": 55280,
+    "name": "Homefront Dedicated Server"
+  },
+  {
+    "appid": 111710,
+    "name": "Nuclear Dawn - Dedicated Server"
+  },
+  {
+    "appid": 203300,
+    "name": "America's Army: Proving Grounds Dedicated Server"
+  },
+  {
+    "appid": 208050,
+    "name": "Sniper Elite V2 Dedicated Server"
+  },
+  {
+    "appid": 220070,
+    "name": "Chivalry: Medieval Warfare Dedicated Server"
+  },
+  {
+    "appid": 222860,
+    "name": "Left 4 Dead 2 Dedicated Server"
+  },
+  {
+    "appid": 227040,
+    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server"
   },
   {
     "appid": 228780,
     "name": "Blade Symphony Dedicated Server"
   },
   {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server"
+  },
+  {
+    "appid": 232250,
+    "name": "Team Fortress 2 Dedicated Server"
+  },
+  {
+    "appid": 232330,
+    "name": "Counter-Strike: Source Dedicated Server"
+  },
+  {
+    "appid": 237410,
+    "name": "Insurgency Dedicated Server"
+  },
+  {
+    "appid": 238690,
+    "name": "Rising Storm Beta Dedicated Server"
+  },
+  {
+    "appid": 244310,
+    "name": "Source SDK Base 2013 Dedicated Server"
+  },
+  {
+    "appid": 255470,
+    "name": "Half-Life Deathmatch: Source Dedicated server"
+  },
+  {
     "appid": 258550,
     "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 273530,
+    "name": "Centration Dedicated Server"
+  },
+  {
+    "appid": 276060,
+    "name": "Sven Co-op Dedicated Server"
   },
   {
     "appid": 294420,
@@ -160,12 +280,92 @@
     "name": "Eden Star Dedicated Server"
   },
   {
+    "appid": 423410,
+    "name": "Blackwake Dedicated Server"
+  },
+  {
+    "appid": 426660,
+    "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server"
+  },
+  {
+    "appid": 429400,
+    "name": "Warhammer 40,000: Dark Nexus Arena Dedicated Server"
+  },
+  {
     "appid": 439660,
     "name": "Tower Unite Dedicated Server"
   },
   {
     "appid": 443030,
     "name": "Conan Exiles Dedicated Server"
+  },
+  {
+    "appid": 443050,
+    "name": "The Ship: Remasted Dedicated Server"
+  },
+  {
+    "appid": 447760,
+    "name": "Automobilista - Dedicated Server"
+  },
+  {
+    "appid": 449740,
+    "name": "Alchemist's Awakening Dedicated Server"
+  },
+  {
+    "appid": 450980,
+    "name": "Ultimate Arena FPS - Dedicated Server"
+  },
+  {
+    "appid": 453420,
+    "name": "Formicide Dedicated Server"
+  },
+  {
+    "appid": 460040,
+    "name": "Empires Dedicated Server"
+  },
+  {
+    "appid": 460300,
+    "name": "Ice Lakes Dedicated Server"
+  },
+  {
+    "appid": 460320,
+    "name": "MetaTron Dedicated Server"
+  },
+  {
+    "appid": 462310,
+    "name": "Day of Infamy Dedicated Server"
+  },
+  {
+    "appid": 475370,
+    "name": "BrainBread 2 Dedicated Server"
+  },
+  {
+    "appid": 476400,
+    "name": "GROUND BRANCH Dedicated Server"
+  },
+  {
+    "appid": 485250,
+    "name": "The Black Death Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 490500,
+    "name": "Zero G Arena dedicated server"
+  },
+  {
+    "appid": 516860,
+    "name": "Of Kings And Men Dedicated Server"
+  },
+  {
+    "appid": 523390,
+    "name": "LandTraveller - Dedicated Server"
+  },
+  {
+    "appid": 526340,
+    "name": "Voxel Turf Dedicated Server"
   },
   {
     "appid": 530870,
