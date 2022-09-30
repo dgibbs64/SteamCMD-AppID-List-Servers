@@ -129,7 +129,7 @@
   },
   {
     "appid": 2460,
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (No License)app_status 557690",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -3768,6 +3768,14 @@
     "name": "Escape from Covid Dedicated Server"
   },
   {
+    "appid": 1863440,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Mount & Blade II: Dedicated Server"
+  },
+  {
     "appid": 1865350,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3790,6 +3798,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Treason Dedicated Server"
+  },
+  {
+    "appid": 1890870,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Arma Reforger Experimental Server"
   },
   {
     "appid": 1892930,
