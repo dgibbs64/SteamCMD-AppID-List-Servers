@@ -944,6 +944,14 @@
     "name": "Rising World Dedicated Server"
   },
   {
+    "appid": 345950,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Down To One Dedicated Server"
+  },
+  {
     "appid": 346680,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
