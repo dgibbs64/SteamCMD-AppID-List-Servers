@@ -1,7 +1,67 @@
 [
   {
+    "appid": 90,
+    "name": "Half-Life Dedicated Server"
+  },
+  {
+    "appid": 205,
+    "name": "Source Dedicated Server"
+  },
+  {
+    "appid": 310,
+    "name": "Source 2007 Dedicated Server"
+  },
+  {
+    "appid": 740,
+    "name": "Counter-Strike Global Offensive - Dedicated Server"
+  },
+  {
+    "appid": 4020,
+    "name": "Garry's Mod Dedicated Server"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 17505,
+    "name": "Zombie Panic! Source Dedicated Server"
+  },
+  {
+    "appid": 17515,
+    "name": "Age of Chivalry Dedicated Server"
+  },
+  {
+    "appid": 17525,
+    "name": "Synergy Dedicated Server"
+  },
+  {
+    "appid": 17535,
+    "name": "D.I.P.R.I.P. Dedicated Server"
+  },
+  {
+    "appid": 17555,
+    "name": "Eternal Silence Dedicated Server"
+  },
+  {
     "appid": 17575,
     "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server"
+  },
+  {
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server"
+  },
+  {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
+    "appid": 55280,
+    "name": "Homefront Dedicated Server"
   },
   {
     "appid": 111710,
@@ -42,6 +102,34 @@
   {
     "appid": 232330,
     "name": "Counter-Strike: Source Dedicated Server"
+  },
+  {
+    "appid": 237410,
+    "name": "Insurgency Dedicated Server"
+  },
+  {
+    "appid": 238690,
+    "name": "Rising Storm Beta Dedicated Server"
+  },
+  {
+    "appid": 244310,
+    "name": "Source SDK Base 2013 Dedicated Server"
+  },
+  {
+    "appid": 255470,
+    "name": "Half-Life Deathmatch: Source Dedicated server"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 273530,
+    "name": "Centration Dedicated Server"
+  },
+  {
+    "appid": 276060,
+    "name": "Sven Co-op Dedicated Server"
   },
   {
     "appid": 294420,
@@ -576,44 +664,8 @@
     "name": "Base Defense Dedicated Server"
   },
   {
-    "appid": 823850,
-    "name": "DARCO - Reign of Elements - Dedicated Server"
-  },
-  {
-    "appid": 824240,
-    "name": "Unfortunate Spacemen Dedicated Server"
-  },
-  {
-    "appid": 824360,
-    "name": "PixARK Dedicated Server"
-  },
-  {
-    "appid": 839510,
-    "name": "Scrunk Server"
-  },
-  {
-    "appid": 844410,
-    "name": "Triggered: Assault Dedicated Server"
-  },
-  {
-    "appid": 844650,
-    "name": "Post Scriptum - Beta Dedicated Server"
-  },
-  {
-    "appid": 848490,
-    "name": "Murderous Pursuits Beta Dedicated Server"
-  },
-  {
     "appid": 859010,
     "name": "UniverCity Dedicated Server"
-  },
-  {
-    "appid": 881430,
-    "name": "Spoxel Dedicated Server"
-  },
-  {
-    "appid": 881600,
-    "name": "Fasaria World: Ancients of Moons Server"
   },
   {
     "appid": 882430,
@@ -624,22 +676,6 @@
     "name": "SCP: Pandemic Dedicated Server"
   },
   {
-    "appid": 886440,
-    "name": "Super Versus Server"
-  },
-  {
-    "appid": 888520,
-    "name": "Pillage Dedicated Server"
-  },
-  {
-    "appid": 896660,
-    "name": "Valheim Dedicated Server"
-  },
-  {
-    "appid": 897590,
-    "name": "Memories of Mars - Dedicated Server"
-  },
-  {
     "appid": 904710,
     "name": "The Warhorn Dedicated Server"
   },
@@ -648,20 +684,24 @@
     "name": "LEAP Server"
   },
   {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
-  },
-  {
-    "appid": 915070,
-    "name": "Outlaws of the Old West Dedicated Server Tool"
-  },
-  {
     "appid": 916110,
     "name": "BattleRush 2 Dedicated Server"
   },
   {
     "appid": 920720,
     "name": "Last Oasis - Dedicated Server"
+  },
+  {
+    "appid": 928530,
+    "name": "Prime & Load: 1776 Dedicated Server"
+  },
+  {
+    "appid": 931580,
+    "name": "Conan Exiles - Testlive Dedicated Server"
+  },
+  {
+    "appid": 996560,
+    "name": "SCP: Secret Laboratory Dedicated Server"
   },
   {
     "appid": 1006890,
@@ -988,6 +1028,14 @@
     "name": "Longvinter Dedicated Server"
   },
   {
+    "appid": 1652070,
+    "name": "QANGA Dedicated Server"
+  },
+  {
+    "appid": 1664300,
+    "name": "Animalia Survival Dedicated Server"
+  },
+  {
     "appid": 1680420,
     "name": "Prehistoric Marine Monsters dedicated server"
   },
@@ -1056,12 +1104,24 @@
     "name": "Chunkers Server"
   },
   {
+    "appid": 1874900,
+    "name": "Arma Reforger Server"
+  },
+  {
+    "appid": 1892930,
+    "name": "s&box server"
+  },
+  {
     "appid": 1911460,
     "name": "Infinite Progression Dedicated Server"
   },
   {
     "appid": 1911970,
     "name": "OverShoot Battle Race [ Dedicated Server ]"
+  },
+  {
+    "appid": 1964150,
+    "name": "Perfect Heist 2 Dedicated Server"
   },
   {
     "appid": 2093570,
