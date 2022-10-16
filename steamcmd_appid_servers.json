@@ -3400,6 +3400,14 @@
     "name": "SCP: Breakout Dedicated Server"
   },
   {
+    "appid": 1541640,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Cartels Dedicated Server"
+  },
+  {
     "appid": 1549820,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
