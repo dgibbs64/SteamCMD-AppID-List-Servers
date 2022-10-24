@@ -32,14 +32,10 @@ jobs:
       - name: Run steamcmd_appid_servers.sh
         run: ./steamcmd_appid_servers.sh
 
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -m "GitHub Actions build: $(date --rfc-3339=date)" -a
-
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
+      - name: Push to main branch
+        uses: Automattic/action-commit-to-branch@master
         with:
-          branch: ${{ github.ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "main"
+          commit_message: "GitHub Actions build: $(date --rfc-3339=date)"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
