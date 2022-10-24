@@ -5,11 +5,11 @@
 <br>
 </p>
 <p align="center">
-<a href="https://github.com/GameServerManagers/SteamCMD-AppID-List-Servers/actions"><img src="https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/workflows/Generate%20Output/badge.svg?style=flat-square&logo=codacy&logoColor=white" alt="GitHub Workflow Status"></a>
+<a href="https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/actions"><img src="https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/workflows/Generate%20Output/badge.svg?style=flat-square&logo=codacy&logoColor=white" alt="GitHub Workflow Status"></a>
 <a href="https://www.codacy.com/gh/dgibbs64/SteamCMD-AppID-List-Servers/dashboard"><img src="https://img.shields.io/codacy/grade/61b87c56e64f46a0a29df385dd7e5c60?style=flat-square&logo=codacy&logoColor=white" alt="Codacy grade"></a>
 <a href="https://developer.valvesoftware.com/wiki/SteamCMD"><img src="https://img.shields.io/badge/SteamCMD-000000?style=flat-square&amp;logo=Steam&amp;logoColor=white" alt="SteamCMD"></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Made with BASH-1f425f?style=flat-square&amp;logo=gnu bash&amp;logoColor=white" alt="SteamCMD"></a>
-<a href="https://github.com/GameServerManagers/SteamCMD-AppID-List-Servers/blob/main/LICENSE"><img src="https://img.shields.io/github/license/gameservermanagers/SteamCMD-AppID-List-Servers?style=flat-square" alt="MIT License"></a>
+<a href="https://github.com/dgibbs64/SteamCMD-AppID-List-Servers/blob/main/LICENSE"><img src="https://img.shields.io/github/license/dgibbs64/SteamCMD-AppID-List-Servers?style=flat-square" alt="MIT License"></a>
 </p>
 
 ## Description
