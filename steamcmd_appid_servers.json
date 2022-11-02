@@ -1832,14 +1832,6 @@
     "name": "Them's Fightin' Herds Dedicated Server"
   },
   {
-    "appid": 643450,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Magical Girl Raising Project: Server Down for Maintenance"
-  },
-  {
     "appid": 649390,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -2070,14 +2062,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Eco Server"
-  },
-  {
-    "appid": 739606,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "In Another World With My Smartphone: Nation of Beastmen, and an Observer"
   },
   {
     "appid": 745640,
@@ -3597,7 +3581,7 @@
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
-    "name": "KoA Dedicated Server"
+    "name": "Kingdom of Atham: Server"
   },
   {
     "appid": 1738710,
