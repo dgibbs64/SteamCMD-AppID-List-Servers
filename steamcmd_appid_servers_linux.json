@@ -352,8 +352,32 @@
     "name": "Lost Region Dedicated Server"
   },
   {
+    "appid": 574390,
+    "name": "Fog of War Dedicated Server"
+  },
+  {
     "appid": 581330,
     "name": "Insurgency: Sandstorm Dedicated Server"
+  },
+  {
+    "appid": 582320,
+    "name": "RHdedicatedserver"
+  },
+  {
+    "appid": 582400,
+    "name": "Alien Swarm: Reactive Drop Dedicated Server"
+  },
+  {
+    "appid": 587020,
+    "name": "Strike Vector EX Dedicated Server"
+  },
+  {
+    "appid": 598010,
+    "name": "SQUIDS FROM SPACE Dedicated Server"
+  },
+  {
+    "appid": 598850,
+    "name": "Hellion Dedicated Server"
   },
   {
     "appid": 600760,
@@ -704,12 +728,44 @@
     "name": "Road to Eden - Dedicated server"
   },
   {
+    "appid": 1061710,
+    "name": "CryoFall Dedicated Server"
+  },
+  {
     "appid": 1064780,
     "name": "Beyond The Wire - Dedicated Server"
   },
   {
+    "appid": 1071470,
+    "name": "Planetes Community Dedicated Server"
+  },
+  {
+    "appid": 1075180,
+    "name": "Beyond Enemy Lines 2 Dedicated Server"
+  },
+  {
+    "appid": 1084900,
+    "name": "Task Force Dedicated Server"
+  },
+  {
+    "appid": 1086350,
+    "name": "MekaFighters Dedicated Server"
+  },
+  {
+    "appid": 1086950,
+    "name": "Solace Crafting Dedicated Server"
+  },
+  {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server"
+  },
+  {
     "appid": 1098260,
     "name": "Creativerse Dedicated Server"
+  },
+  {
+    "appid": 1099850,
+    "name": "Karl BOOM Dedicated Server"
   },
   {
     "appid": 1110390,
@@ -740,8 +796,24 @@
     "name": "Re.Poly Server"
   },
   {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
     "appid": 1215190,
     "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
   },
   {
     "appid": 1247090,
@@ -752,12 +824,64 @@
     "name": "DeadsideServer"
   },
   {
+    "appid": 1277220,
+    "name": "Deep Space Battle Simulator Dedicated Server"
+  },
+  {
+    "appid": 1279430,
+    "name": "Civil Dedicated Server"
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server"
+  },
+  {
+    "appid": 1292030,
+    "name": "Retail Royale Server"
+  },
+  {
+    "appid": 1292350,
+    "name": "pla_toon Dedicated Server"
+  },
+  {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server"
+  },
+  {
+    "appid": 1303430,
+    "name": "Gemini: Binary Conflict Dedicated Server"
+  },
+  {
+    "appid": 1307050,
+    "name": "Spoils of Plunder dedicated server"
+  },
+  {
+    "appid": 1315990,
+    "name": "Blackstorm - Dedicated Server"
+  },
+  {
     "appid": 1316470,
     "name": "Warfare 1944 Beta Dedicated Server"
   },
   {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
+  },
+  {
+    "appid": 1375660,
+    "name": "SCP: Recontainment Dedicated Server"
+  },
+  {
+    "appid": 1377020,
+    "name": "Sanctuary Island dedicated server"
+  },
+  {
+    "appid": 1380950,
+    "name": "Fadeout Dedicated Server"
+  },
+  {
+    "appid": 1382420,
+    "name": "Tomatenquark Server"
   },
   {
     "appid": 1404690,
@@ -800,8 +924,28 @@
     "name": "Unclear Dedicated Server"
   },
   {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
+    "appid": 1479670,
+    "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
+  },
+  {
+    "appid": 1481590,
+    "name": "Zero-based World Dedicated Server Alpha"
+  },
+  {
     "appid": 1502300,
     "name": " Survive the Nights Dedicated Server"
+  },
+  {
+    "appid": 1503660,
+    "name": "Dedicated Server"
   },
   {
     "appid": 1534710,
@@ -990,6 +1134,10 @@
   {
     "appid": 2192110,
     "name": "Shooter Game Dedicated Server"
+  },
+  {
+    "appid": 2192940,
+    "name": "Coronation Dedicated Server"
   },
   {
     "appid": 2208380,
