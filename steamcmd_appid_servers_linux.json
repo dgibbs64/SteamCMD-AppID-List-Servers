@@ -428,6 +428,18 @@
     "name": "DNL Dedicated Server"
   },
   {
+    "appid": 638100,
+    "name": "Kreedz Climbing Dedicated Server"
+  },
+  {
+    "appid": 638500,
+    "name": "Soldat Dedicated Server"
+  },
+  {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server"
+  },
+  {
     "appid": 660470,
     "name": "Dedicated Server"
   },
@@ -444,24 +456,116 @@
     "name": "Valnir Rok Dedicated Server"
   },
   {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 680020,
+    "name": "Wasteworld Server"
+  },
+  {
+    "appid": 680870,
+    "name": "Airmen Dedicated Server"
+  },
+  {
+    "appid": 685100,
+    "name": "Crafting Dead Dedicated Server"
+  },
+  {
+    "appid": 689410,
+    "name": "BattleBitDedicatedGameServer"
+  },
+  {
+    "appid": 689780,
+    "name": "Murderous Pursuits Dedicated Server"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server"
+  },
+  {
+    "appid": 696640,
+    "name": "Radline + Dedicated Server (obsolete)"
+  },
+  {
+    "appid": 704980,
+    "name": "Master Arena Server"
+  },
+  {
     "appid": 710560,
     "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 713970,
+    "name": "The Simple Apocalypse Server"
+  },
+  {
+    "appid": 723520,
+    "name": "SCP Project Dedicated Server"
   },
   {
     "appid": 728470,
     "name": "ASTRONEER Dedicated Server"
   },
   {
+    "appid": 730810,
+    "name": "Allegiance Server"
+  },
+  {
+    "appid": 739120,
+    "name": "BattleRush Dedicated Server"
+  },
+  {
     "appid": 739590,
     "name": "Eco Server"
+  },
+  {
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server"
   },
   {
     "appid": 748090,
     "name": "Colony Survival Dedicated Server"
   },
   {
+    "appid": 761080,
+    "name": "Battle Splash 2.0 Dedicated Server"
+  },
+  {
+    "appid": 762880,
+    "name": "Outpost Zero Dedicated Server"
+  },
+  {
+    "appid": 764860,
+    "name": "Jetball Dedicated Server"
+  },
+  {
+    "appid": 764940,
+    "name": "Fear the Night Server"
+  },
+  {
+    "appid": 774061,
+    "name": "The Prison Game Dedicated Server Tool"
+  },
+  {
+    "appid": 774771,
+    "name": "Original War Server"
+  },
+  {
     "appid": 774961,
     "name": "Squad - Public Test Dedicated Server"
+  },
+  {
+    "appid": 777030,
+    "name": "FTR Windows Server"
+  },
+  {
+    "appid": 786920,
+    "name": "SCP: Secret Laboratory ServerMod"
+  },
+  {
+    "appid": 801230,
+    "name": "Fog Of War - Free Edition Dedicated Server"
   },
   {
     "appid": 805140,
@@ -504,6 +608,10 @@
     "name": "UniverCity Dedicated Server"
   },
   {
+    "appid": 869800,
+    "name": "Jabroni Brawl: Episode 3 - Dedicated Server"
+  },
+  {
     "appid": 881430,
     "name": "Spoxel Dedicated Server"
   },
@@ -530,6 +638,10 @@
   {
     "appid": 906940,
     "name": "LEAP Server"
+  },
+  {
+    "appid": 916110,
+    "name": "BattleRush 2 Dedicated Server"
   },
   {
     "appid": 920720,
@@ -726,6 +838,34 @@
   {
     "appid": 1280020,
     "name": "Survived - Dedicated Server"
+  },
+  {
+    "appid": 1292030,
+    "name": "Retail Royale Server"
+  },
+  {
+    "appid": 1292350,
+    "name": "pla_toon Dedicated Server"
+  },
+  {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server"
+  },
+  {
+    "appid": 1303430,
+    "name": "Gemini: Binary Conflict Dedicated Server"
+  },
+  {
+    "appid": 1307050,
+    "name": "Spoils of Plunder dedicated server"
+  },
+  {
+    "appid": 1315990,
+    "name": "Blackstorm - Dedicated Server"
+  },
+  {
+    "appid": 1316470,
+    "name": "Warfare 1944 Beta Dedicated Server"
   },
   {
     "appid": 1362540,
