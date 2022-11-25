@@ -4166,5 +4166,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Dysterra Dedicated Server"
+  },
+  {
+    "appid": 2232430,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Geoterra Dedicated Server"
   }
 ]
