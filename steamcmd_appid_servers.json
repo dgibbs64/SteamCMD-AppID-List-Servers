@@ -2672,30 +2672,6 @@
     "name": "Barotrauma Dedicated Server"
   },
   {
-    "appid": 1035540,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Fragsurf Dedicated Server"
-  },
-  {
-    "appid": 1041160,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Observers"
-  },
-  {
-    "appid": 1041860,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "HELL'S NEW WORLD Dedicated Server"
-  },
-  {
     "appid": 1045940,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -2704,76 +2680,12 @@
     "name": "HYPERCHARGE: Unboxed Dedicated Server"
   },
   {
-    "appid": 1047650,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Road to Eden - Dedicated server"
-  },
-  {
-    "appid": 1050410,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "UP Server"
-  },
-  {
-    "appid": 1054680,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Observers Demo"
-  },
-  {
-    "appid": 1061710,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "CryoFall Dedicated Server"
-  },
-  {
     "appid": 1064780,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Beyond The Wire - Dedicated Server"
-  },
-  {
-    "appid": 1071470,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Planetes Community Dedicated Server"
-  },
-  {
-    "appid": 1075180,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Beyond Enemy Lines 2 Dedicated Server"
-  },
-  {
-    "appid": 1075820,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Green Army Men - Dedicated Server"
-  },
-  {
-    "appid": 1084900,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Task Force Dedicated Server"
   },
   {
     "appid": 1086350,
@@ -3080,68 +2992,12 @@
     "name": "Gemini: Binary Conflict Dedicated Server"
   },
   {
-    "appid": 1307050,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Spoils of Plunder dedicated server"
-  },
-  {
-    "appid": 1315990,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Blackstorm - Dedicated Server"
-  },
-  {
-    "appid": 1316470,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Warfare 1944 Beta Dedicated Server"
-  },
-  {
-    "appid": 1336240,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Automobilista 2 Beta - Dedicated Server"
-  },
-  {
-    "appid": 1338040,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Automobilista 2 - Dedicated Server"
-  },
-  {
-    "appid": 1339270,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "POWER Dedicated Server"
-  },
-  {
     "appid": 1348640,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Frozen Flame - Dedicated Server"
-  },
-  {
-    "appid": 1360240,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Fisty Cuffs Server"
   },
   {
     "appid": 1362540,
@@ -3168,14 +3024,6 @@
     "name": "Sanctuary Island dedicated server"
   },
   {
-    "appid": 1377850,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Server is Down"
-  },
-  {
     "appid": 1380950,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3184,92 +3032,12 @@
     "name": "Fadeout Dedicated Server"
   },
   {
-    "appid": 1382420,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Tomatenquark Server"
-  },
-  {
-    "appid": 1386900,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Observer: System Redux"
-  },
-  {
-    "appid": 1396070,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "The Art of Observer System Redux"
-  },
-  {
     "appid": 1402480,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "NARAKA: BLADEPOINT - Test Server"
-  },
-  {
-    "appid": 1402890,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Observer: System Redux Demo"
-  },
-  {
-    "appid": 1404690,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Paint Royale Dedicated Server"
-  },
-  {
-    "appid": 1405890,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Blood Oath: When The Sword Rises dedicated server"
-  },
-  {
-    "appid": 1408910,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "UGDL Dedicated Server"
-  },
-  {
-    "appid": 1413700,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "TrickShot Dedicated Server"
-  },
-  {
-    "appid": 1418640,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Dedicated Server"
-  },
-  {
-    "appid": 1420480,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "TrickShot Demo Dedicated Server"
   },
   {
     "appid": 1420710,
@@ -3288,70 +3056,6 @@
     "name": "Holdfast: Nations At War - Dedicated Server"
   },
   {
-    "appid": 1427490,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "ExoCorps Dedicated Server"
-  },
-  {
-    "appid": 1430110,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Assetto Corsa Competizione Dedicated Server"
-  },
-  {
-    "appid": 1433120,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "STAR WARS™: The Old Republic™ - Public Test Server"
-  },
-  {
-    "appid": 1433270,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "SCP: Escape Together Dedicated Server"
-  },
-  {
-    "appid": 1460560,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Unclear Dedicated Server"
-  },
-  {
-    "appid": 1471190,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "NARAKA: BLADEPOINT - Test Server Playtest"
-  },
-  {
-    "appid": 1475910,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "DIY Simulator Dedicated Server"
-  },
-  {
-    "appid": 1479670,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Zero-based World Dedicated Server"
-  },
-  {
     "appid": 1480080,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3366,46 +3070,6 @@
     "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
     "windows": false,
     "name": "Zero-based World Dedicated Server Alpha"
-  },
-  {
-    "appid": 1502300,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": " Survive the Nights Dedicated Server"
-  },
-  {
-    "appid": 1503660,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Dedicated Server"
-  },
-  {
-    "appid": 1534710,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "SCP: Breakout Dedicated Server"
-  },
-  {
-    "appid": 1541640,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Cartels Dedicated Server"
-  },
-  {
-    "appid": 1549820,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Modiverse Linux Dedicated Server"
   },
   {
     "appid": 1573820,
@@ -3432,22 +3096,6 @@
     "name": "Sniper Ghost Warrior Contracts 2 - Blue Servers Skins"
   },
   {
-    "appid": 1587690,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "EZ2ON REBOOT : R (Test Server)"
-  },
-  {
-    "appid": 1602470,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "DOOMBRINGER Dedicated Server"
-  },
-  {
     "appid": 1603250,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3456,52 +3104,12 @@
     "name": "Cyberless III: Online Server"
   },
   {
-    "appid": 1612490,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Insane Town Dedicated Server"
-  },
-  {
-    "appid": 1624070,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "ArtemisheaServer"
-  },
-  {
-    "appid": 1639880,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Longvinter Dedicated Server"
-  },
-  {
     "appid": 1652070,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "QANGA Dedicated Server"
-  },
-  {
-    "appid": 1653130,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Desperation Dedicated Server"
-  },
-  {
-    "appid": 1663160,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "POW Windows Dedicated Server"
   },
   {
     "appid": 1664300,
@@ -3520,68 +3128,12 @@
     "name": "Nova-Life_GameServer"
   },
   {
-    "appid": 1670340,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Craftopia Dedicated Server"
-  },
-  {
-    "appid": 1680420,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Prehistoric Marine Monsters dedicated server"
-  },
-  {
-    "appid": 1686460,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "nanos world Dedicated Server"
-  },
-  {
-    "appid": 1688010,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "GotG Dedicated Server"
-  },
-  {
     "appid": 1690800,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Satisfactory Dedicated Server"
-  },
-  {
-    "appid": 1697660,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Hellbreath Dedicated Server"
-  },
-  {
-    "appid": 1717030,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Smerch Battle Arena - Dedicated Server"
-  },
-  {
-    "appid": 1722130,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Birthright Dedicated Server"
   },
   {
     "appid": 1736750,
