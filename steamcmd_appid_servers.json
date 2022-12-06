@@ -4174,5 +4174,13 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2241720,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "TheCenozoicEraServer"
   }
 ]
