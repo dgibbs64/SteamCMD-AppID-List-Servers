@@ -116,12 +116,60 @@
     "name": "7 Days to Die Dedicated Server"
   },
   {
+    "appid": 295230,
+    "name": "Fistful of Frags Dedicated Server"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server"
+  },
+  {
+    "appid": 313900,
+    "name": "NS2: Combat Dedicated Server"
+  },
+  {
     "appid": 317670,
     "name": "No More Room in Hell Dedicated Server"
   },
   {
     "appid": 320850,
     "name": "Life is Feudal: Your Own Dedicated Server"
+  },
+  {
+    "appid": 332670,
+    "name": "Project CARS - Dedicated Server"
+  },
+  {
+    "appid": 332850,
+    "name": "BlazeRush Dedicated Server"
+  },
+  {
+    "appid": 336400,
+    "name": "PCE Dedicated Server"
+  },
+  {
+    "appid": 338440,
+    "name": "BOMB Dedicated Server"
+  },
+  {
+    "appid": 339010,
+    "name": "Rising World Dedicated Server"
+  },
+  {
+    "appid": 346680,
+    "name": "Black Mesa Dedicated Server"
+  },
+  {
+    "appid": 361580,
+    "name": "Wreckfest Dedicated Server"
+  },
+  {
+    "appid": 367970,
+    "name": "Medieval Engineers Dedicated Server"
+  },
+  {
+    "appid": 369630,
+    "name": "Mirage: Arcane Warfare - Dedicated Server"
   },
   {
     "appid": 378670,
@@ -134,6 +182,10 @@
   {
     "appid": 383410,
     "name": "Codename CURE Dedicated Server"
+  },
+  {
+    "appid": 393250,
+    "name": "Savage Resurrection Dedicated Server"
   },
   {
     "appid": 402370,
@@ -736,6 +788,26 @@
     "name": "Warfork Dedicated Server"
   },
   {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server"
+  },
+  {
+    "appid": 1170680,
+    "name": "Task Force Elite Dedicated Server"
+  },
+  {
+    "appid": 1189160,
+    "name": "Re.Poly Server"
+  },
+  {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
     "appid": 1215190,
     "name": "Warfare 1944 Dedicated Server"
   },
@@ -748,8 +820,72 @@
     "name": "SRX Dedicated Server"
   },
   {
+    "appid": 1247090,
+    "name": "Stormworks Dedicated Server"
+  },
+  {
+    "appid": 1275530,
+    "name": "DeadsideServer"
+  },
+  {
+    "appid": 1277220,
+    "name": "Deep Space Battle Simulator Dedicated Server"
+  },
+  {
+    "appid": 1279430,
+    "name": "Civil Dedicated Server"
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server"
+  },
+  {
+    "appid": 1292030,
+    "name": "Retail Royale Server"
+  },
+  {
+    "appid": 1292350,
+    "name": "pla_toon Dedicated Server"
+  },
+  {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server"
+  },
+  {
+    "appid": 1303430,
+    "name": "Gemini: Binary Conflict Dedicated Server"
+  },
+  {
+    "appid": 1307050,
+    "name": "Spoils of Plunder dedicated server"
+  },
+  {
+    "appid": 1315990,
+    "name": "Blackstorm - Dedicated Server"
+  },
+  {
+    "appid": 1316470,
+    "name": "Warfare 1944 Beta Dedicated Server"
+  },
+  {
+    "appid": 1348640,
+    "name": "Frozen Flame - Dedicated Server"
+  },
+  {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
+  },
+  {
+    "appid": 1377020,
+    "name": "Sanctuary Island dedicated server"
+  },
+  {
+    "appid": 1380950,
+    "name": "Fadeout Dedicated Server"
+  },
+  {
+    "appid": 1382420,
+    "name": "Tomatenquark Server"
   },
   {
     "appid": 1404690,
@@ -782,6 +918,34 @@
   {
     "appid": 1427490,
     "name": "ExoCorps Dedicated Server"
+  },
+  {
+    "appid": 1433270,
+    "name": "SCP: Escape Together Dedicated Server"
+  },
+  {
+    "appid": 1460560,
+    "name": "Unclear Dedicated Server"
+  },
+  {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
+    "appid": 1479670,
+    "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
+  },
+  {
+    "appid": 1481590,
+    "name": "Zero-based World Dedicated Server Alpha"
+  },
+  {
+    "appid": 1502300,
+    "name": " Survive the Nights Dedicated Server"
   },
   {
     "appid": 1503660,
@@ -896,8 +1060,40 @@
     "name": "Arma Reforger Server"
   },
   {
+    "appid": 1892930,
+    "name": "s&box server"
+  },
+  {
+    "appid": 1899880,
+    "name": "BadlandsDedicatedServer"
+  },
+  {
+    "appid": 1899970,
+    "name": "BadlandsServerBeta"
+  },
+  {
+    "appid": 1900210,
+    "name": "LGS Dedicated Server"
+  },
+  {
+    "appid": 1911460,
+    "name": "Infinite Progression Dedicated Server"
+  },
+  {
+    "appid": 1911970,
+    "name": "OverShoot Battle Race [ Dedicated Server ]"
+  },
+  {
+    "appid": 1932270,
+    "name": "Condemned Dedicated Server"
+  },
+  {
     "appid": 1936830,
     "name": "nanos world™ Dedicated Server"
+  },
+  {
+    "appid": 1948990,
+    "name": "Snapshot VR Dedicated Server"
   },
   {
     "appid": 1963720,
@@ -918,6 +1114,10 @@
   {
     "appid": 2069670,
     "name": "defect dedicated server"
+  },
+  {
+    "appid": 2093570,
+    "name": "Lightphobe Dedicated Server"
   },
   {
     "appid": 2101160,
