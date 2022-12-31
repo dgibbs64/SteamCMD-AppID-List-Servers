@@ -3977,10 +3977,10 @@
   },
   {
     "appid": 1978930,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "Project Speed 2 Dedicated Server"
   },
   {
