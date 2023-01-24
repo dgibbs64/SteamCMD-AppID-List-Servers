@@ -644,10 +644,6 @@
     "name": "Squad - Public Test Dedicated Server"
   },
   {
-    "appid": 777030,
-    "name": "FTR Windows Server"
-  },
-  {
     "appid": 786920,
     "name": "SCP: Secret Laboratory ServerMod"
   },
@@ -1374,5 +1370,9 @@
   {
     "appid": 2292470,
     "name": "Rock Hoppers Dedicated Server"
+  },
+  {
+    "appid": 2293960,
+    "name": "Dedicated Server"
   }
 ]
