@@ -4248,6 +4248,14 @@
     "name": "JUSTKILL Dedicated Server"
   },
   {
+    "appid": 2260500,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "VSDedicatedServer"
+  },
+  {
     "appid": 2261800,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
