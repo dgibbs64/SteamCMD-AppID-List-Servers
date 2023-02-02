@@ -4249,10 +4249,10 @@
   },
   {
     "appid": 2260500,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "VSDedicatedServer"
   },
   {
@@ -4286,5 +4286,13 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Dedicated Server"
+  },
+  {
+    "appid": 2306520,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "STRIKE ZOMBIE - Dedicated Server"
   }
 ]
