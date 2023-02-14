@@ -4137,10 +4137,10 @@
   },
   {
     "appid": 2164830,
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "Karagon Dedicated Server"
   },
   {
