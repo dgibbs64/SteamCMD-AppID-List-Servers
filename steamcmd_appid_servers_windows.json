@@ -548,6 +548,34 @@
     "name": "Crafting Dead Dedicated Server"
   },
   {
+    "appid": 689410,
+    "name": "BattleBitDedicatedGameServer"
+  },
+  {
+    "appid": 689780,
+    "name": "Murderous Pursuits Dedicated Server"
+  },
+  {
+    "appid": 693060,
+    "name": "Perpetuum Dedicated Server"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server"
+  },
+  {
+    "appid": 696640,
+    "name": "Radline + Dedicated Server (obsolete)"
+  },
+  {
+    "appid": 704980,
+    "name": "Master Arena Server"
+  },
+  {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
     "appid": 713970,
     "name": "The Simple Apocalypse Server"
   },
@@ -664,8 +692,32 @@
     "name": "Murderous Pursuits Beta Dedicated Server"
   },
   {
+    "appid": 848830,
+    "name": "Cube Universe Server"
+  },
+  {
     "appid": 859010,
     "name": "UniverCity Dedicated Server"
+  },
+  {
+    "appid": 869800,
+    "name": "Jabroni Brawl: Episode 3 - Dedicated Server"
+  },
+  {
+    "appid": 881430,
+    "name": "Spoxel Dedicated Server"
+  },
+  {
+    "appid": 881600,
+    "name": "Fasaria World: Ancients of Moons Server"
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server"
+  },
+  {
+    "appid": 884110,
+    "name": "SCP: 5K - Community Dedicated Server"
   },
   {
     "appid": 886440,
@@ -730,6 +782,10 @@
   {
     "appid": 950290,
     "name": "Dedicated Server"
+  },
+  {
+    "appid": 950900,
+    "name": "Operation: Harsh Doorstop - Dedicated Server"
   },
   {
     "appid": 955080,
@@ -812,6 +868,18 @@
     "name": "Road to Eden - Dedicated server"
   },
   {
+    "appid": 1061710,
+    "name": "CryoFall Dedicated Server"
+  },
+  {
+    "appid": 1064780,
+    "name": "Beyond The Wire - Dedicated Server"
+  },
+  {
+    "appid": 1071470,
+    "name": "Planetes Community Dedicated Server"
+  },
+  {
     "appid": 1075180,
     "name": "Beyond Enemy Lines 2 Dedicated Server"
   },
@@ -872,6 +940,26 @@
     "name": "Remnants Dedicated Server"
   },
   {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server"
+  },
+  {
+    "appid": 1170680,
+    "name": "Task Force Elite Dedicated Server"
+  },
+  {
+    "appid": 1171790,
+    "name": "Celaria Server"
+  },
+  {
+    "appid": 1180760,
+    "name": "Risk of Rain 2 Dedicated Server"
+  },
+  {
+    "appid": 1189160,
+    "name": "Re.Poly Server"
+  },
+  {
     "appid": 1203110,
     "name": "BadLads Dedicated Server"
   },
@@ -882,6 +970,18 @@
   {
     "appid": 1207110,
     "name": " GROUND BRANCH CTE Dedicated Server"
+  },
+  {
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
   },
   {
     "appid": 1247090,
@@ -1056,6 +1156,30 @@
     "name": "ArtemisheaServer"
   },
   {
+    "appid": 1639880,
+    "name": "Longvinter Dedicated Server"
+  },
+  {
+    "appid": 1652070,
+    "name": "QANGA Dedicated Server"
+  },
+  {
+    "appid": 1653130,
+    "name": "Desperation Dedicated Server"
+  },
+  {
+    "appid": 1664300,
+    "name": "Animalia Survival Dedicated Server"
+  },
+  {
+    "appid": 1665030,
+    "name": "Nova-Life_GameServer"
+  },
+  {
+    "appid": 1670340,
+    "name": "Craftopia Dedicated Server"
+  },
+  {
     "appid": 1680420,
     "name": "Prehistoric Marine Monsters dedicated server"
   },
@@ -1066,6 +1190,14 @@
   {
     "appid": 1690800,
     "name": "Satisfactory Dedicated Server"
+  },
+  {
+    "appid": 1722130,
+    "name": "Birthright Dedicated Server"
+  },
+  {
+    "appid": 1736750,
+    "name": "Kingdom of Atham: Server"
   },
   {
     "appid": 1750680,
@@ -1160,6 +1292,22 @@
     "name": "Euro Truck Simulator 2 Dedicated Server"
   },
   {
+    "appid": 1963720,
+    "name": "Core Keeper Dedicated Server"
+  },
+  {
+    "appid": 1964150,
+    "name": "Perfect Heist 2 Dedicated Server"
+  },
+  {
+    "appid": 1978930,
+    "name": "Project Speed 2 Dedicated Server"
+  },
+  {
+    "appid": 1992220,
+    "name": "Escape from Polykov - Dedicated Server"
+  },
+  {
     "appid": 2058450,
     "name": "Swords 'n Magic and Stuff Dedicated Server"
   },
@@ -1198,6 +1346,14 @@
   {
     "appid": 2192110,
     "name": "Shooter Game Dedicated Server"
+  },
+  {
+    "appid": 2192940,
+    "name": "Coronation Dedicated Server"
+  },
+  {
+    "appid": 2200460,
+    "name": "kraserServer"
   },
   {
     "appid": 2208380,
