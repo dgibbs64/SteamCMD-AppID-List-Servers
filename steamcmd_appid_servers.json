@@ -3136,6 +3136,14 @@
     "name": "Warfare 1944 Beta Dedicated Server"
   },
   {
+    "appid": 1316480,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
+  },
+  {
     "appid": 1336240,
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
