@@ -184,8 +184,52 @@
     "name": "Codename CURE Dedicated Server"
   },
   {
+    "appid": 393250,
+    "name": "Savage Resurrection Dedicated Server"
+  },
+  {
+    "appid": 402370,
+    "name": "Wurm Unlimited Dedicated Server"
+  },
+  {
     "appid": 403240,
     "name": "Squad Dedicated Server"
+  },
+  {
+    "appid": 405100,
+    "name": "Hurtworld Dedicated Server"
+  },
+  {
+    "appid": 407480,
+    "name": "Angels Fall First Dedicated Server"
+  },
+  {
+    "appid": 412680,
+    "name": "The Isle Dedicated Server"
+  },
+  {
+    "appid": 414570,
+    "name": "Crea Dedicated Server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 419790,
+    "name": "Eden Star Dedicated Server"
+  },
+  {
+    "appid": 423410,
+    "name": "Blackwake Dedicated Server"
+  },
+  {
+    "appid": 426660,
+    "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server"
+  },
+  {
+    "appid": 429400,
+    "name": "Warhammer 40,000: Dark Nexus Arena Dedicated Server"
   },
   {
     "appid": 439660,
@@ -196,8 +240,68 @@
     "name": "Conan Exiles Dedicated Server"
   },
   {
+    "appid": 443050,
+    "name": "The Ship: Remasted Dedicated Server"
+  },
+  {
+    "appid": 447760,
+    "name": "Automobilista - Dedicated Server"
+  },
+  {
+    "appid": 449740,
+    "name": "Alchemist's Awakening Dedicated Server"
+  },
+  {
+    "appid": 450980,
+    "name": "Ultimate Arena FPS - Dedicated Server"
+  },
+  {
+    "appid": 453420,
+    "name": "Formicide Dedicated Server"
+  },
+  {
+    "appid": 460040,
+    "name": "Empires Dedicated Server"
+  },
+  {
+    "appid": 460300,
+    "name": "Ice Lakes Dedicated Server"
+  },
+  {
+    "appid": 460320,
+    "name": "MetaTron Dedicated Server"
+  },
+  {
+    "appid": 462310,
+    "name": "Day of Infamy Dedicated Server"
+  },
+  {
+    "appid": 475370,
+    "name": "BrainBread 2 Dedicated Server"
+  },
+  {
     "appid": 476400,
     "name": "GROUND BRANCH Dedicated Server"
+  },
+  {
+    "appid": 485250,
+    "name": "The Black Death Dedicated Server"
+  },
+  {
+    "appid": 489650,
+    "name": "Citadel: Forged With Fire Server"
+  },
+  {
+    "appid": 490500,
+    "name": "Zero G Arena dedicated server"
+  },
+  {
+    "appid": 523390,
+    "name": "LandTraveller - Dedicated Server"
+  },
+  {
+    "appid": 526340,
+    "name": "Voxel Turf Dedicated Server"
   },
   {
     "appid": 530870,
@@ -940,12 +1044,28 @@
     "name": "Isles of Avalon Dedicated Server"
   },
   {
+    "appid": 1815810,
+    "name": "Turbo Sliders Unlimited Dedicated Server"
+  },
+  {
     "appid": 1827320,
     "name": "Isles of Yore Dedicated Server - Windows"
   },
   {
     "appid": 1827330,
     "name": "Isles of Yore Dedicated Server - Linux"
+  },
+  {
+    "appid": 1829350,
+    "name": "V Rising Dedicated Server"
+  },
+  {
+    "appid": 1830410,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1850780,
+    "name": "Powerjackers Dedicated Server"
   },
   {
     "appid": 1865350,
@@ -1028,6 +1148,22 @@
     "name": "Turbo Force Dedicated Server"
   },
   {
+    "appid": 2131400,
+    "name": "VEIN Dedicated Server"
+  },
+  {
+    "appid": 2138530,
+    "name": "Wrangel Island Playtest - Dedicated Server"
+  },
+  {
+    "appid": 2181210,
+    "name": "JBMod Dedicated Server"
+  },
+  {
+    "appid": 2192110,
+    "name": "Shooter Game Dedicated Server"
+  },
+  {
     "appid": 2192940,
     "name": "Coronation Dedicated Server"
   },
@@ -1036,11 +1172,43 @@
     "name": "kraserServer"
   },
   {
+    "appid": 2208380,
+    "name": "DeadPoly Dedicated Server"
+  },
+  {
+    "appid": 2232430,
+    "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2239530,
+    "name": "American Truck Simulator Dedicated Server"
+  },
+  {
     "appid": 2246720,
     "name": "JUSTKILL Dedicated Server"
   },
   {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
     "appid": 2292470,
     "name": "Rock Hoppers Dedicated Server"
+  },
+  {
+    "appid": 2293960,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 2306520,
+    "name": "STRIKE ZOMBIE - Dedicated Server"
   }
 ]
