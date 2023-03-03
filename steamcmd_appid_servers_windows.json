@@ -208,6 +208,42 @@
     "name": "RaceRoom Dedicated Server"
   },
   {
+    "appid": 361580,
+    "name": "Wreckfest Dedicated Server"
+  },
+  {
+    "appid": 367970,
+    "name": "Medieval Engineers Dedicated Server"
+  },
+  {
+    "appid": 369630,
+    "name": "Mirage: Arcane Warfare - Dedicated Server"
+  },
+  {
+    "appid": 378670,
+    "name": "Savage Lands Dedicated Server"
+  },
+  {
+    "appid": 381690,
+    "name": "Reign Of Kings Dedicated Server"
+  },
+  {
+    "appid": 382030,
+    "name": "Yargis - Space Melee - Dedicated Server"
+  },
+  {
+    "appid": 382280,
+    "name": "Abatron Dedicated Server"
+  },
+  {
+    "appid": 383410,
+    "name": "Codename CURE Dedicated Server"
+  },
+  {
+    "appid": 393250,
+    "name": "Savage Resurrection Dedicated Server"
+  },
+  {
     "appid": 402370,
     "name": "Wurm Unlimited Dedicated Server"
   },
@@ -1036,16 +1072,76 @@
     "name": "Tomatenquark Server"
   },
   {
+    "appid": 1404690,
+    "name": "Paint Royale Dedicated Server"
+  },
+  {
+    "appid": 1405890,
+    "name": "Blood Oath: When The Sword Rises dedicated server"
+  },
+  {
+    "appid": 1413700,
+    "name": "TrickShot Dedicated Server"
+  },
+  {
+    "appid": 1418640,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1420480,
+    "name": "TrickShot Demo Dedicated Server"
+  },
+  {
+    "appid": 1420710,
+    "name": "Night of the Dead Dedicated Server"
+  },
+  {
     "appid": 1424230,
     "name": "Holdfast: Nations At War - Dedicated Server"
+  },
+  {
+    "appid": 1427490,
+    "name": "ExoCorps Dedicated Server"
+  },
+  {
+    "appid": 1433270,
+    "name": "SCP: Escape Together Dedicated Server"
   },
   {
     "appid": 1460560,
     "name": "Unclear Dedicated Server"
   },
   {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
+    "appid": 1479670,
+    "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
+  },
+  {
+    "appid": 1502300,
+    "name": " Survive the Nights Dedicated Server"
+  },
+  {
+    "appid": 1503660,
+    "name": "Dedicated Server"
+  },
+  {
     "appid": 1534710,
     "name": "SCP: Breakout Dedicated Server"
+  },
+  {
+    "appid": 1549820,
+    "name": "Modiverse Linux Dedicated Server"
+  },
+  {
+    "appid": 1573820,
+    "name": "Raptor Territory Dedicated Server"
   },
   {
     "appid": 1602470,
@@ -1100,8 +1196,36 @@
     "name": "Satisfactory Dedicated Server"
   },
   {
+    "appid": 1722130,
+    "name": "Birthright Dedicated Server"
+  },
+  {
     "appid": 1736750,
     "name": "Kingdom of Atham: Server"
+  },
+  {
+    "appid": 1750680,
+    "name": "Beryllium Dedicated Server"
+  },
+  {
+    "appid": 1757500,
+    "name": "Isles of Avalon Dedicated Server"
+  },
+  {
+    "appid": 1757540,
+    "name": "Axial Drift Dedicated Server"
+  },
+  {
+    "appid": 1801280,
+    "name": "SCP: CB Multiplayer Dedicated Server"
+  },
+  {
+    "appid": 1815810,
+    "name": "Turbo Sliders Unlimited Dedicated Server"
+  },
+  {
+    "appid": 1821720,
+    "name": "FallenSkyServer"
   },
   {
     "appid": 1827320,
@@ -1110,6 +1234,22 @@
   {
     "appid": 1827330,
     "name": "Isles of Yore Dedicated Server - Linux"
+  },
+  {
+    "appid": 1829350,
+    "name": "V Rising Dedicated Server"
+  },
+  {
+    "appid": 1830410,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1850780,
+    "name": "Powerjackers Dedicated Server"
+  },
+  {
+    "appid": 1865350,
+    "name": "Chunkers Server"
   },
   {
     "appid": 1874900,
@@ -1122,6 +1262,18 @@
   {
     "appid": 1892930,
     "name": "s&box server"
+  },
+  {
+    "appid": 1899880,
+    "name": "BadlandsDedicatedServer"
+  },
+  {
+    "appid": 1899970,
+    "name": "BadlandsServerBeta"
+  },
+  {
+    "appid": 1900210,
+    "name": "LGS Dedicated Server"
   },
   {
     "appid": 1911460,
@@ -1150,6 +1302,26 @@
   {
     "appid": 1964150,
     "name": "Perfect Heist 2 Dedicated Server"
+  },
+  {
+    "appid": 1978930,
+    "name": "Project Speed 2 Dedicated Server"
+  },
+  {
+    "appid": 1992220,
+    "name": "Escape from Polykov - Dedicated Server"
+  },
+  {
+    "appid": 2058450,
+    "name": "Swords 'n Magic and Stuff Dedicated Server"
+  },
+  {
+    "appid": 2069670,
+    "name": "defect dedicated server"
+  },
+  {
+    "appid": 2093570,
+    "name": "Lightphobe Dedicated Server"
   },
   {
     "appid": 2101160,
@@ -1222,5 +1394,9 @@
   {
     "appid": 2329680,
     "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
   }
 ]
