@@ -4334,5 +4334,13 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "ISZDedicatedServer"
+  },
+  {
+    "appid": 2350650,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Battlement Dedicated Server"
   }
 ]
