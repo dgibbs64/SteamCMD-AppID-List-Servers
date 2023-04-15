@@ -820,82 +820,6 @@
     "name": "SCP: Secret Laboratory Dedicated Server"
   },
   {
-    "appid": 996600,
-    "name": "Heat Dedicated Server"
-  },
-  {
-    "appid": 1003980,
-    "name": "Right to Rule Dedicated Server"
-  },
-  {
-    "appid": 1006030,
-    "name": "ATLAS Dedicated Server"
-  },
-  {
-    "appid": 1006890,
-    "name": "Gunsolvers: Dedicated server"
-  },
-  {
-    "appid": 1010510,
-    "name": "DCB Server"
-  },
-  {
-    "appid": 1017070,
-    "name": "Vanguard: Normandy 1944 Dedicated Server"
-  },
-  {
-    "appid": 1023620,
-    "name": "PlayerVs Dedicated Server"
-  },
-  {
-    "appid": 1026340,
-    "name": "Barotrauma Dedicated Server"
-  },
-  {
-    "appid": 1035540,
-    "name": "Fragsurf Dedicated Server"
-  },
-  {
-    "appid": 1041860,
-    "name": "HELL'S NEW WORLD Dedicated Server"
-  },
-  {
-    "appid": 1045940,
-    "name": "HYPERCHARGE: Unboxed Dedicated Server"
-  },
-  {
-    "appid": 1047650,
-    "name": "Road to Eden - Dedicated server"
-  },
-  {
-    "appid": 1061710,
-    "name": "CryoFall Dedicated Server"
-  },
-  {
-    "appid": 1064780,
-    "name": "Beyond The Wire - Dedicated Server"
-  },
-  {
-    "appid": 1071470,
-    "name": "Planetes Community Dedicated Server"
-  },
-  {
-    "appid": 1075180,
-    "name": "Beyond Enemy Lines 2 Dedicated Server"
-  },
-  {
-    "appid": 1075820,
-    "name": "Green Army Men - Dedicated Server"
-  },
-  {
-    "appid": 1084900,
-    "name": "Task Force Dedicated Server"
-  },
-  {
-    "appid": 1086950,
-    "name": "Solace Crafting Dedicated Server"
-  },
-  {
     "appid": 1088320,
     "name": "Day of Dragons - Dedicated Server"
   },
@@ -1036,32 +960,12 @@
     "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
   },
   {
-    "appid": 1336240,
-    "name": "Automobilista 2 Beta - Dedicated Server"
-  },
-  {
-    "appid": 1338040,
-    "name": "Automobilista 2 - Dedicated Server"
-  },
-  {
-    "appid": 1339270,
-    "name": "POWER Dedicated Server"
-  },
-  {
     "appid": 1348640,
     "name": "Frozen Flame - Dedicated Server"
   },
   {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
-  },
-  {
-    "appid": 1362640,
-    "name": "Subsistence Dedicated Server"
-  },
-  {
-    "appid": 1377020,
-    "name": "Sanctuary Island dedicated server"
   },
   {
     "appid": 1380950,
@@ -1320,76 +1224,8 @@
     "name": "Escape from Polykov - Dedicated Server"
   },
   {
-    "appid": 2058450,
-    "name": "Swords 'n Magic and Stuff Dedicated Server"
-  },
-  {
-    "appid": 2069670,
-    "name": "defect dedicated server"
-  },
-  {
-    "appid": 2093570,
-    "name": "Lightphobe Dedicated Server"
-  },
-  {
-    "appid": 2101160,
-    "name": "Turbo Force Dedicated Server"
-  },
-  {
-    "appid": 2131400,
-    "name": "VEIN Dedicated Server"
-  },
-  {
-    "appid": 2138530,
-    "name": "Wrangel Island Playtest - Dedicated Server"
-  },
-  {
     "appid": 2150040,
     "name": "Dedicated Server"
-  },
-  {
-    "appid": 2160300,
-    "name": "Re-Spawn Tournament Dedicated Server"
-  },
-  {
-    "appid": 2164830,
-    "name": "Karagon Dedicated Server"
-  },
-  {
-    "appid": 2181210,
-    "name": "JBMod Dedicated Server"
-  },
-  {
-    "appid": 2192940,
-    "name": "Coronation Dedicated Server"
-  },
-  {
-    "appid": 2200460,
-    "name": "kraserServer"
-  },
-  {
-    "appid": 2208380,
-    "name": "DeadPoly Dedicated Server"
-  },
-  {
-    "appid": 2232430,
-    "name": "Geoterra Dedicated Server"
-  },
-  {
-    "appid": 2239530,
-    "name": "American Truck Simulator Dedicated Server"
-  },
-  {
-    "appid": 2260500,
-    "name": "VSDedicatedServer"
-  },
-  {
-    "appid": 2261800,
-    "name": "SCP: Labrat Dedicated Server"
-  },
-  {
-    "appid": 2286480,
-    "name": "Endless Survival Dedicated Server"
   },
   {
     "appid": 2292470,
@@ -1406,9 +1242,5 @@
   {
     "appid": 2329680,
     "name": "NoOneSurvivedDedicatedServer"
-  },
-  {
-    "appid": 2342570,
-    "name": "ISZDedicatedServer"
   }
 ]
