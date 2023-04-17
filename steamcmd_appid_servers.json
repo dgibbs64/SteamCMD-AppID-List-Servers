@@ -1456,6 +1456,14 @@
     "name": "Pavlov VR Dedicated Server"
   },
   {
+    "appid": 673990,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "IOSoccer Dedicated Server"
+  },
+  {
     "appid": 688930,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -3470,6 +3478,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Battlement Dedicated Server"
+  },
+  {
+    "appid": 2353090,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "NEBULOUS Dedicated Server"
   },
   {
     "appid": 2369620,
