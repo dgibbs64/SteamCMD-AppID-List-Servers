@@ -3960,6 +3960,14 @@
     "name": "nanos world™ Dedicated Server"
   },
   {
+    "appid": 1940810,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "HypeSquad NA Server Focus Test"
+  },
+  {
     "appid": 1940990,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4369,10 +4377,10 @@
   },
   {
     "appid": 2353090,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "NEBULOUS Dedicated Server"
   },
   {
