@@ -44,8 +44,16 @@
     "name": "Insurgency Mod Dedicated Server"
   },
   {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
     "appid": 111710,
     "name": "Nuclear Dawn - Dedicated Server"
+  },
+  {
+    "appid": 203300,
+    "name": "America's Army: Proving Grounds Dedicated Server"
   },
   {
     "appid": 220070,
@@ -780,8 +788,16 @@
     "name": "Dedicated Server"
   },
   {
+    "appid": 1136190,
+    "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
     "appid": 1136460,
     "name": "Without A Roof (W.A.R.) Dedicated Server"
+  },
+  {
+    "appid": 1136510,
+    "name": "Warfork Dedicated Server"
   },
   {
     "appid": 1169370,
@@ -822,6 +838,10 @@
   {
     "appid": 1275530,
     "name": "DeadsideServer"
+  },
+  {
+    "appid": 1277220,
+    "name": "Deep Space Battle Simulator Dedicated Server"
   },
   {
     "appid": 1279430,

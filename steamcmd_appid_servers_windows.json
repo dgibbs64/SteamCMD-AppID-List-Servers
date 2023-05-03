@@ -56,8 +56,24 @@
     "name": "Insurgency Mod Dedicated Server"
   },
   {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
+    "appid": 55280,
+    "name": "Homefront Dedicated Server"
+  },
+  {
     "appid": 111710,
     "name": "Nuclear Dawn - Dedicated Server"
+  },
+  {
+    "appid": 203300,
+    "name": "America's Army: Proving Grounds Dedicated Server"
+  },
+  {
+    "appid": 208050,
+    "name": "Sniper Elite V2 Dedicated Server"
   },
   {
     "appid": 220070,
@@ -896,12 +912,28 @@
     "name": "Unturned Dedicated Server"
   },
   {
+    "appid": 1111260,
+    "name": "WBTR Server"
+  },
+  {
+    "appid": 1119550,
+    "name": "SFIW:DedicatedServer"
+  },
+  {
     "appid": 1129070,
     "name": "Dedicated Server"
   },
   {
+    "appid": 1136190,
+    "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
     "appid": 1136460,
     "name": "Without A Roof (W.A.R.) Dedicated Server"
+  },
+  {
+    "appid": 1136510,
+    "name": "Warfork Dedicated Server"
   },
   {
     "appid": 1141420,
