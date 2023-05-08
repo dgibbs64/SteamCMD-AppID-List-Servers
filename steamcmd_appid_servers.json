@@ -960,6 +960,14 @@
     "name": "Black Mesa Dedicated Server"
   },
   {
+    "appid": 347130,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "H-Hour: World's Elite - Dedicated Server"
+  },
+  {
     "appid": 354060,
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
