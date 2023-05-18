@@ -1472,6 +1472,14 @@
     "name": "STEAM HAMMER Dedicated server"
   },
   {
+    "appid": 549990,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Cobalt Dedicated Server"
+  },
+  {
     "appid": 550772,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4374,5 +4382,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Dedicated Server "
+  },
+  {
+    "appid": 2440790,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "DUOnline Server"
   }
 ]

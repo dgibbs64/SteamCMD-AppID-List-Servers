@@ -312,6 +312,10 @@
     "name": "STEAM HAMMER Dedicated server"
   },
   {
+    "appid": 549990,
+    "name": "Cobalt Dedicated Server"
+  },
+  {
     "appid": 550790,
     "name": "Rend Server"
   },
@@ -1222,5 +1226,9 @@
   {
     "appid": 2414480,
     "name": "Lost Isle Dedicated Server"
+  },
+  {
+    "appid": 2440790,
+    "name": "DUOnline Server"
   }
 ]
