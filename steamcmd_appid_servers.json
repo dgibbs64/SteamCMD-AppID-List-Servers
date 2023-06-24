@@ -4414,5 +4414,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Semicolon Island Dedicated Server"
+  },
+  {
+    "appid": 2465200,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Sons Of The Forest Dedicated Server"
   }
 ]
