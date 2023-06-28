@@ -352,20 +352,160 @@
     "name": "Zero G Arena dedicated server"
   },
   {
+    "appid": 516860,
+    "name": "Of Kings And Men Dedicated Server"
+  },
+  {
+    "appid": 523390,
+    "name": "LandTraveller - Dedicated Server"
+  },
+  {
+    "appid": 526340,
+    "name": "Voxel Turf Dedicated Server"
+  },
+  {
     "appid": 530870,
     "name": "Empyrion - Galactic Survival Dedicated Server"
+  },
+  {
+    "appid": 541790,
+    "name": "Days of War Dedicated Server"
+  },
+  {
+    "appid": 545990,
+    "name": "Call of Duty: Black Ops III - Unranked Dedicated Server"
+  },
+  {
+    "appid": 548400,
+    "name": "STEAM HAMMER Dedicated server"
+  },
+  {
+    "appid": 549990,
+    "name": "Cobalt Dedicated Server"
+  },
+  {
+    "appid": 550790,
+    "name": "Rend Server"
+  },
+  {
+    "appid": 553650,
+    "name": "VIAR Server"
+  },
+  {
+    "appid": 556450,
+    "name": "The Forest Dedicated Server"
+  },
+  {
+    "appid": 559440,
+    "name": "Sunset Rangers Server"
+  },
+  {
+    "appid": 562720,
+    "name": "Neptune: Arena FPS Dedicated server"
+  },
+  {
+    "appid": 564390,
+    "name": "Serious Sam 2017 Dedicated Server"
+  },
+  {
+    "appid": 565060,
+    "name": "Avorion Dedicated Server"
+  },
+  {
+    "appid": 568660,
+    "name": "Lost Region Dedicated Server"
+  },
+  {
+    "appid": 568880,
+    "name": "Sniper Elite 4 Dedicated Server"
+  },
+  {
+    "appid": 574390,
+    "name": "Fog of War Dedicated Server"
   },
   {
     "appid": 581330,
     "name": "Insurgency: Sandstorm Dedicated Server"
   },
   {
+    "appid": 582320,
+    "name": "RHdedicatedserver"
+  },
+  {
+    "appid": 582400,
+    "name": "Alien Swarm: Reactive Drop Dedicated Server"
+  },
+  {
+    "appid": 587020,
+    "name": "Strike Vector EX Dedicated Server"
+  },
+  {
+    "appid": 591690,
+    "name": "The Dome Dedicated Servers"
+  },
+  {
+    "appid": 598010,
+    "name": "SQUIDS FROM SPACE Dedicated Server"
+  },
+  {
+    "appid": 598850,
+    "name": "Hellion Dedicated Server"
+  },
+  {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
   },
   {
+    "appid": 604100,
+    "name": "Rokh Dedicated Server"
+  },
+  {
+    "appid": 609870,
+    "name": "Hunt For Gods Dedicated Server"
+  },
+  {
+    "appid": 612940,
+    "name": "Decaying Substance Dedicated Server"
+  },
+  {
+    "appid": 616940,
+    "name": "Cobalt WASD Dedicated Server"
+  },
+  {
+    "appid": 619960,
+    "name": "Just Cause™ 3: Multiplayer - Dedicated Server"
+  },
+  {
+    "appid": 620110,
+    "name": "The Archotek Project Dedicated Server"
+  },
+  {
     "appid": 622970,
     "name": "Pavlov VR Dedicated Server"
+  },
+  {
+    "appid": 628300,
+    "name": "Stellar Overload Dedicated Server"
+  },
+  {
+    "appid": 629800,
+    "name": "MORDHAU Dedicated Server"
+  },
+  {
+    "appid": 633290,
+    "name": "Stars End - Dedicated Server"
+  },
+  {
+    "appid": 638100,
+    "name": "Kreedz Climbing Dedicated Server"
+  },
+  {
+    "appid": 638500,
+    "name": "Soldat Dedicated Server"
+  },
+  {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server"
   },
   {
     "appid": 667230,
@@ -384,8 +524,56 @@
     "name": "Valnir Rok Dedicated Server"
   },
   {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 680020,
+    "name": "Wasteworld Server"
+  },
+  {
+    "appid": 680870,
+    "name": "Airmen Dedicated Server"
+  },
+  {
+    "appid": 685100,
+    "name": "Crafting Dead Dedicated Server"
+  },
+  {
+    "appid": 689410,
+    "name": "BattleBitDedicatedGameServer"
+  },
+  {
+    "appid": 689780,
+    "name": "Murderous Pursuits Dedicated Server"
+  },
+  {
+    "appid": 693060,
+    "name": "Perpetuum Dedicated Server"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server"
+  },
+  {
+    "appid": 696640,
+    "name": "Radline + Dedicated Server (obsolete)"
+  },
+  {
+    "appid": 704980,
+    "name": "Master Arena Server"
+  },
+  {
     "appid": 710560,
     "name": "Ylands Dedicated Server"
+  },
+  {
+    "appid": 713970,
+    "name": "The Simple Apocalypse Server"
+  },
+  {
+    "appid": 723520,
+    "name": "SCP Project Dedicated Server"
   },
   {
     "appid": 728470,
@@ -598,6 +786,26 @@
   {
     "appid": 965690,
     "name": "D.A.T.A Dedicated Server"
+  },
+  {
+    "appid": 974130,
+    "name": "StickyBots DedicatedServer"
+  },
+  {
+    "appid": 976380,
+    "name": "Never Split the Party Dedicated Server"
+  },
+  {
+    "appid": 983360,
+    "name": "Ancestors Legacy Dedicated Server"
+  },
+  {
+    "appid": 985050,
+    "name": "Action: Source Dedicated Server"
+  },
+  {
+    "appid": 988950,
+    "name": "Journey of Life - Dedicated Server"
   },
   {
     "appid": 996560,
