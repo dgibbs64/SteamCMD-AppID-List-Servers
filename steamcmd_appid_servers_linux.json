@@ -1,7 +1,59 @@
 [
   {
+    "appid": 90,
+    "name": "Half-Life Dedicated Server"
+  },
+  {
+    "appid": 205,
+    "name": "Source Dedicated Server"
+  },
+  {
+    "appid": 310,
+    "name": "Source 2007 Dedicated Server"
+  },
+  {
+    "appid": 740,
+    "name": "Counter-Strike Global Offensive - Dedicated Server"
+  },
+  {
     "appid": 4020,
     "name": "Garry's Mod Dedicated Server"
+  },
+  {
+    "appid": 4940,
+    "name": "Natural Selection 2 Dedicated Server"
+  },
+  {
+    "appid": 17505,
+    "name": "Zombie Panic! Source Dedicated Server"
+  },
+  {
+    "appid": 17515,
+    "name": "Age of Chivalry Dedicated Server"
+  },
+  {
+    "appid": 17575,
+    "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server"
+  },
+  {
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server"
+  },
+  {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
+    "appid": 111710,
+    "name": "Nuclear Dawn - Dedicated Server"
+  },
+  {
+    "appid": 203300,
+    "name": "America's Army: Proving Grounds Dedicated Server"
   },
   {
     "appid": 220070,
@@ -70,6 +122,26 @@
   {
     "appid": 298740,
     "name": "Space Engineers Dedicated Server"
+  },
+  {
+    "appid": 313900,
+    "name": "NS2: Combat Dedicated Server"
+  },
+  {
+    "appid": 317670,
+    "name": "No More Room in Hell Dedicated Server"
+  },
+  {
+    "appid": 320850,
+    "name": "Life is Feudal: Your Own Dedicated Server"
+  },
+  {
+    "appid": 332670,
+    "name": "Project CARS - Dedicated Server"
+  },
+  {
+    "appid": 332850,
+    "name": "BlazeRush Dedicated Server"
   },
   {
     "appid": 336400,
@@ -166,6 +238,22 @@
   {
     "appid": 443050,
     "name": "The Ship: Remasted Dedicated Server"
+  },
+  {
+    "appid": 447760,
+    "name": "Automobilista - Dedicated Server"
+  },
+  {
+    "appid": 449740,
+    "name": "Alchemist's Awakening Dedicated Server"
+  },
+  {
+    "appid": 450980,
+    "name": "Ultimate Arena FPS - Dedicated Server"
+  },
+  {
+    "appid": 453420,
+    "name": "Formicide Dedicated Server"
   },
   {
     "appid": 460040,
@@ -344,6 +432,18 @@
     "name": "Soldat Dedicated Server"
   },
   {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server"
+  },
+  {
+    "appid": 660470,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server"
+  },
+  {
     "appid": 673990,
     "name": "IOSoccer Dedicated Server"
   },
@@ -500,12 +600,24 @@
     "name": "UniverCity Dedicated Server"
   },
   {
+    "appid": 869800,
+    "name": "Jabroni Brawl: Episode 3 - Dedicated Server"
+  },
+  {
+    "appid": 881430,
+    "name": "Spoxel Dedicated Server"
+  },
+  {
     "appid": 882430,
     "name": "Beasts of Bermuda Dedicated Server"
   },
   {
     "appid": 884110,
     "name": "SCP: 5K - Community Dedicated Server"
+  },
+  {
+    "appid": 886440,
+    "name": "Super Versus Server"
   },
   {
     "appid": 896660,
