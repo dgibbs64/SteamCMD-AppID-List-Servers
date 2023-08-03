@@ -436,6 +436,58 @@
     "name": "Them's Fightin' Herds Dedicated Server"
   },
   {
+    "appid": 660470,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server"
+  },
+  {
+    "appid": 673990,
+    "name": "IOSoccer Dedicated Server"
+  },
+  {
+    "appid": 677100,
+    "name": "Valnir Rok Dedicated Server"
+  },
+  {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 680020,
+    "name": "Wasteworld Server"
+  },
+  {
+    "appid": 680870,
+    "name": "Airmen Dedicated Server"
+  },
+  {
+    "appid": 685100,
+    "name": "Crafting Dead Dedicated Server"
+  },
+  {
+    "appid": 689410,
+    "name": "BattleBitDedicatedGameServer"
+  },
+  {
+    "appid": 689780,
+    "name": "Murderous Pursuits Dedicated Server"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server"
+  },
+  {
+    "appid": 696640,
+    "name": "Radline + Dedicated Server (obsolete)"
+  },
+  {
+    "appid": 704980,
+    "name": "Master Arena Server"
+  },
+  {
     "appid": 710560,
     "name": "Ylands Dedicated Server"
   },
@@ -454,6 +506,22 @@
   {
     "appid": 730810,
     "name": "Allegiance Server"
+  },
+  {
+    "appid": 739120,
+    "name": "BattleRush Dedicated Server"
+  },
+  {
+    "appid": 739590,
+    "name": "Eco Server"
+  },
+  {
+    "appid": 746200,
+    "name": "Post Scriptum Dedicated Server"
+  },
+  {
+    "appid": 748090,
+    "name": "Colony Survival Dedicated Server"
   },
   {
     "appid": 761080,
@@ -530,6 +598,22 @@
   {
     "appid": 859010,
     "name": "UniverCity Dedicated Server"
+  },
+  {
+    "appid": 869800,
+    "name": "Jabroni Brawl: Episode 3 - Dedicated Server"
+  },
+  {
+    "appid": 881430,
+    "name": "Spoxel Dedicated Server"
+  },
+  {
+    "appid": 882430,
+    "name": "Beasts of Bermuda Dedicated Server"
+  },
+  {
+    "appid": 884110,
+    "name": "SCP: 5K - Community Dedicated Server"
   },
   {
     "appid": 886440,
@@ -1052,6 +1136,42 @@
     "name": "Escape from Polykov - Dedicated Server"
   },
   {
+    "appid": 2058450,
+    "name": "Swords 'n Magic and Stuff Dedicated Server"
+  },
+  {
+    "appid": 2069670,
+    "name": "defect dedicated server"
+  },
+  {
+    "appid": 2093570,
+    "name": "Lightphobe Dedicated Server"
+  },
+  {
+    "appid": 2101160,
+    "name": "Turbo Force Dedicated Server"
+  },
+  {
+    "appid": 2131400,
+    "name": "VEIN Dedicated Server"
+  },
+  {
+    "appid": 2138530,
+    "name": "Wrangel Island Playtest - Dedicated Server"
+  },
+  {
+    "appid": 2160300,
+    "name": "Re-Spawn Tournament Dedicated Server"
+  },
+  {
+    "appid": 2181210,
+    "name": "JBMod Dedicated Server"
+  },
+  {
+    "appid": 2192940,
+    "name": "Coronation Dedicated Server"
+  },
+  {
     "appid": 2200460,
     "name": "kraserServer"
   },
@@ -1060,8 +1180,32 @@
     "name": "DeadPoly Dedicated Server"
   },
   {
+    "appid": 2232430,
+    "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2239530,
+    "name": "American Truck Simulator Dedicated Server"
+  },
+  {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
     "appid": 2286480,
     "name": "Endless Survival Dedicated Server"
+  },
+  {
+    "appid": 2292470,
+    "name": "Rock Hoppers Dedicated Server"
+  },
+  {
+    "appid": 2293960,
+    "name": "Dedicated Server"
   },
   {
     "appid": 2306520,
@@ -1072,6 +1216,10 @@
     "name": "Nienix Dedicated Server"
   },
   {
+    "appid": 2329680,
+    "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
     "appid": 2342570,
     "name": "ISZDedicatedServer"
   },
@@ -1080,7 +1228,19 @@
     "name": "NEBULOUS Dedicated Server"
   },
   {
+    "appid": 2392470,
+    "name": " Dedicated Server ScrewUp"
+  },
+  {
     "appid": 2414480,
     "name": "Lost Isle Dedicated Server"
+  },
+  {
+    "appid": 2440790,
+    "name": "DUOnline Server"
+  },
+  {
+    "appid": 2465200,
+    "name": "Sons Of The Forest Dedicated Server"
   }
 ]

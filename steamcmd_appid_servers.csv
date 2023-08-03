@@ -224,11 +224,38 @@
 638500,"Soldat Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 643090,"Them's Fightin' Herds Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 649390,"RutonyChat - Restream Server","unknown (No License)","unknown (No License)",false,false
+660470,"Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Invalid Platform,Permanent,)",true,false
+667230,"Capsa Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
+668390,"Hanako: Honor & Blade Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+673990,"IOSoccer Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+677100,"Valnir Rok Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+679600,"Pantropy dedicated server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+680020,"Wasteworld Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+680870,"Airmen Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+682380,"Tree of Savior - Reset Pack for NA Servers","unknown (No License)","unknown (No License)",false,false
+682390,"Tree of Savior - Reset Pack for EU Servers","unknown (No License)","unknown (No License)",false,false
+682400,"Tree of Savior - Reset Pack for SEA Servers","unknown (No License)","unknown (No License)",false,false
+682410,"Tree of Savior - Reset Pack for SA Servers","unknown (No License)","unknown (No License)",false,false
+685100,"Crafting Dead Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+688930,"City of Ages: Picture Supportive Text MUD (server and client included)","unknown (No License)","unknown (No License)",false,false
+689410,"BattleBitDedicatedGameServer","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+689780,"Murderous Pursuits Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+693060,"Perpetuum Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
+696120,"GearStorm Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+696260,"Tree of Life - Experimental Server","unknown (No License)","unknown (No License)",false,false
+696640,"Radline + Dedicated Server (obsolete)","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+704980,"Master Arena Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 710560,"Ylands Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 713970,"The Simple Apocalypse Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 723520,"SCP Project Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 728470,"ASTRONEER Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 730810,"Allegiance Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+739120,"BattleRush Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+739590,"Eco Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+745640,"Gamiflux Server","unknown (No License)","unknown (No License)",false,false
+746200,"Post Scriptum Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+748090,"Colony Survival Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+749070,"Ymir dedicated server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 756760,"Sniper Elite V2 Remastered Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 761080,"Battle Splash 2.0 Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 762880,"Outpost Zero Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
@@ -260,6 +287,12 @@
 848490,"Murderous Pursuits Beta Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 848830,"Cube Universe Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 859010,"UniverCity Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+869800,"Jabroni Brawl: Episode 3 - Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+878760,"Realm Royale - Test Server","unknown (No License)","unknown (No License)",false,false
+881430,"Spoxel Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+881600,"Fasaria World: Ancients of Moons Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
+882430,"Beasts of Bermuda Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+884110,"SCP: 5K - Community Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 886440,"Super Versus Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 888520,"Pillage Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 896660,"Valheim Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
@@ -469,17 +502,53 @@
 1992220,"Escape from Polykov - Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 1999160,"Reign Of Dwarf Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
 2009240,"生死狙击2 Test Server","unknown (No License)","unknown (No License)",false,false
+2050860,"Mechabellum Test Server","unknown (No License)","unknown (No License)",false,false
+2058450,"Swords 'n Magic and Stuff Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2059840,"Dysterra Demo Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2069670,"defect dedicated server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2070070,"Zero World Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2093570,"Lightphobe Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2101160,"Turbo Force Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2116400,"Bounters Playtest Server","unknown (No License)","unknown (No License)",false,false
+2131400,"VEIN Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2132500,"LAZ3RZ Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2138530,"Wrangel Island Playtest - Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2145990,"Polity - Test Server","unknown (No License)","unknown (No License)",false,false
+2150040,"Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
+2160300,"Re-Spawn Tournament Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2164830,"Karagon Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
+2181210,"JBMod Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2192940,"Coronation Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2200460,"kraserServer","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2208380,"DeadPoly Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2214780,"Dysterra Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2218990,"Aeon Wars Test Server","unknown (No License)","unknown (No License)",false,false
+2223650,"Motor Town: Behind The Wheel - Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2231330,"SorseBox Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2232430,"Geoterra Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2239530,"American Truck Simulator Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2241720,"TheCenozoicEraServer","unknown (No License)","unknown (No License)",false,false
+2244890,"SCP: Observer Public Beta","unknown (No License)","unknown (No License)",false,false
+2260500,"VSDedicatedServer","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2261800,"SCP: Labrat Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2263280,"Dinogen Online Multiplayer Server","unknown (No License)","unknown (No License)",false,false
 2286480,"Endless Survival Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2291821,"StarRaver - Observer Skin","unknown (No License)","unknown (No License)",false,false
+2292470,"Rock Hoppers Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2293960,"Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2306520,"STRIKE ZOMBIE - Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2320610,"Nienix Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2329540,"Boss Arena Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2329680,"NoOneSurvivedDedicatedServer","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2334460,"Unknown To Mankind Test Servers Playtest","unknown (No License)","unknown (No License)",false,false
 2342570,"ISZDedicatedServer","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2350650,"Battlement Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2353090,"NEBULOUS Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2369620,"Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2392470," Dedicated Server ScrewUp","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2409440,"dedicated servers","unknown (No License)","unknown (No License)",false,false
 2414480,"Lost Isle Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 2416070,"Shattered: Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2440790,"DUOnline Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
+2454010,"Semicolon Island Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2465200,"Sons Of The Forest Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
