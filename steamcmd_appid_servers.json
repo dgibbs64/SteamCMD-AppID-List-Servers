@@ -4384,6 +4384,14 @@
     "name": " Dedicated Server ScrewUp"
   },
   {
+    "appid": 2406780,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Banana Shooter Dedicated Server"
+  },
+  {
     "appid": 2409440,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
