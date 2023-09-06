@@ -4312,6 +4312,14 @@
     "name": "STRIKE ZOMBIE - Dedicated Server"
   },
   {
+    "appid": 2318110,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "DSO Dedicated Server"
+  },
+  {
     "appid": 2320610,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
