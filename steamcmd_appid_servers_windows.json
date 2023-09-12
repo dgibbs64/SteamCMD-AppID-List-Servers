@@ -972,8 +972,16 @@
     "name": "Space Impossible Dedicated Server"
   },
   {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
+  },
+  {
     "appid": 1247090,
     "name": "Stormworks Dedicated Server"
+  },
+  {
+    "appid": 1255430,
+    "name": "Talvisota: Dedicated Server"
   },
   {
     "appid": 1279430,
@@ -1024,12 +1032,56 @@
     "name": "Automobilista 2 Beta - Dedicated Server"
   },
   {
+    "appid": 1338040,
+    "name": "Automobilista 2 - Dedicated Server"
+  },
+  {
+    "appid": 1339270,
+    "name": "POWER Dedicated Server"
+  },
+  {
+    "appid": 1348640,
+    "name": "Frozen Flame - Dedicated Server"
+  },
+  {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
   },
   {
+    "appid": 1362640,
+    "name": "Subsistence Dedicated Server"
+  },
+  {
+    "appid": 1377020,
+    "name": "Sanctuary Island dedicated server"
+  },
+  {
     "appid": 1380950,
     "name": "Fadeout Dedicated Server"
+  },
+  {
+    "appid": 1382420,
+    "name": "Tomatenquark Server"
+  },
+  {
+    "appid": 1404690,
+    "name": "Paint Royale Dedicated Server"
+  },
+  {
+    "appid": 1405890,
+    "name": "Blood Oath: When The Sword Rises dedicated server"
+  },
+  {
+    "appid": 1413700,
+    "name": "TrickShot Dedicated Server"
+  },
+  {
+    "appid": 1418640,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1420480,
+    "name": "TrickShot Demo Dedicated Server"
   },
   {
     "appid": 1420710,
@@ -1038,6 +1090,30 @@
   {
     "appid": 1424230,
     "name": "Holdfast: Nations At War - Dedicated Server"
+  },
+  {
+    "appid": 1427490,
+    "name": "ExoCorps Dedicated Server"
+  },
+  {
+    "appid": 1433270,
+    "name": "SCP: Escape Together Dedicated Server"
+  },
+  {
+    "appid": 1460560,
+    "name": "Unclear Dedicated Server"
+  },
+  {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
+    "appid": 1479670,
+    "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
   },
   {
     "appid": 1502300,
@@ -1272,6 +1348,18 @@
     "name": "Wrangel Island Playtest - Dedicated Server"
   },
   {
+    "appid": 2150040,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 2160300,
+    "name": "Re-Spawn Tournament Dedicated Server"
+  },
+  {
+    "appid": 2164830,
+    "name": "Karagon Dedicated Server"
+  },
+  {
     "appid": 2181210,
     "name": "JBMod Dedicated Server"
   },
@@ -1296,6 +1384,18 @@
     "name": "American Truck Simulator Dedicated Server"
   },
   {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
     "appid": 2292470,
     "name": "Rock Hoppers Dedicated Server"
   },
@@ -1308,8 +1408,16 @@
     "name": "STRIKE ZOMBIE - Dedicated Server"
   },
   {
+    "appid": 2320610,
+    "name": "Nienix Dedicated Server"
+  },
+  {
     "appid": 2329680,
     "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
   },
   {
     "appid": 2353090,
@@ -1318,5 +1426,29 @@
   {
     "appid": 2392470,
     "name": " Dedicated Server ScrewUp"
+  },
+  {
+    "appid": 2406780,
+    "name": "Banana Shooter Dedicated Server"
+  },
+  {
+    "appid": 2414480,
+    "name": "Lost Isle Dedicated Server"
+  },
+  {
+    "appid": 2440790,
+    "name": "DUOnline Server"
+  },
+  {
+    "appid": 2465200,
+    "name": "Sons Of The Forest Dedicated Server"
+  },
+  {
+    "appid": 2570570,
+    "name": "NOVAKIN Mark0 Dedicated Server"
+  },
+  {
+    "appid": 2580320,
+    "name": "Project Amaranth Dedicated Server"
   }
 ]
