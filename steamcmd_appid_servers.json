@@ -4470,5 +4470,13 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Project Amaranth Dedicated Server"
+  },
+  {
+    "appid": 2584780,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Dead Matter Dedicated Server"
   }
 ]
