@@ -176,12 +176,60 @@
     "name": "Savage Lands Dedicated Server"
   },
   {
+    "appid": 382280,
+    "name": "Abatron Dedicated Server"
+  },
+  {
+    "appid": 383410,
+    "name": "Codename CURE Dedicated Server"
+  },
+  {
+    "appid": 393250,
+    "name": "Savage Resurrection Dedicated Server"
+  },
+  {
+    "appid": 402370,
+    "name": "Wurm Unlimited Dedicated Server"
+  },
+  {
     "appid": 403240,
     "name": "Squad Dedicated Server"
   },
   {
+    "appid": 405100,
+    "name": "Hurtworld Dedicated Server"
+  },
+  {
+    "appid": 407480,
+    "name": "Angels Fall First Dedicated Server"
+  },
+  {
     "appid": 412680,
     "name": "The Isle Dedicated Server"
+  },
+  {
+    "appid": 414570,
+    "name": "Crea Dedicated Server"
+  },
+  {
+    "appid": 416880,
+    "name": "Ballistic Overkill Dedicated Server"
+  },
+  {
+    "appid": 419790,
+    "name": "Eden Star Dedicated Server"
+  },
+  {
+    "appid": 423410,
+    "name": "Blackwake Dedicated Server"
+  },
+  {
+    "appid": 426660,
+    "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server"
+  },
+  {
+    "appid": 429400,
+    "name": "Warhammer 40,000: Dark Nexus Arena Dedicated Server"
   },
   {
     "appid": 439660,
@@ -190,6 +238,26 @@
   {
     "appid": 443030,
     "name": "Conan Exiles Dedicated Server"
+  },
+  {
+    "appid": 443050,
+    "name": "The Ship: Remasted Dedicated Server"
+  },
+  {
+    "appid": 447760,
+    "name": "Automobilista - Dedicated Server"
+  },
+  {
+    "appid": 449740,
+    "name": "Alchemist's Awakening Dedicated Server"
+  },
+  {
+    "appid": 450980,
+    "name": "Ultimate Arena FPS - Dedicated Server"
+  },
+  {
+    "appid": 453420,
+    "name": "Formicide Dedicated Server"
   },
   {
     "appid": 460040,
@@ -260,12 +328,64 @@
     "name": "VIAR Server"
   },
   {
+    "appid": 556450,
+    "name": "The Forest Dedicated Server"
+  },
+  {
+    "appid": 559440,
+    "name": "Sunset Rangers Server"
+  },
+  {
+    "appid": 562720,
+    "name": "Neptune: Arena FPS Dedicated server"
+  },
+  {
+    "appid": 564390,
+    "name": "Serious Sam 2017 Dedicated Server"
+  },
+  {
+    "appid": 565060,
+    "name": "Avorion Dedicated Server"
+  },
+  {
+    "appid": 568660,
+    "name": "Lost Region Dedicated Server"
+  },
+  {
+    "appid": 574390,
+    "name": "Fog of War Dedicated Server"
+  },
+  {
     "appid": 581330,
     "name": "Insurgency: Sandstorm Dedicated Server"
   },
   {
+    "appid": 582320,
+    "name": "RHdedicatedserver"
+  },
+  {
+    "appid": 582400,
+    "name": "Alien Swarm: Reactive Drop Dedicated Server"
+  },
+  {
+    "appid": 587020,
+    "name": "Strike Vector EX Dedicated Server"
+  },
+  {
+    "appid": 598010,
+    "name": "SQUIDS FROM SPACE Dedicated Server"
+  },
+  {
+    "appid": 598850,
+    "name": "Hellion Dedicated Server"
+  },
+  {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
+  },
+  {
+    "appid": 604100,
+    "name": "Rokh Dedicated Server"
   },
   {
     "appid": 609870,
@@ -314,6 +434,18 @@
   {
     "appid": 638500,
     "name": "Soldat Dedicated Server"
+  },
+  {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server"
+  },
+  {
+    "appid": 660470,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 668390,
+    "name": "Hanako: Honor & Blade Dedicated Server"
   },
   {
     "appid": 673990,
@@ -424,6 +556,62 @@
     "name": "Squad - Public Test Dedicated Server"
   },
   {
+    "appid": 801230,
+    "name": "Fog Of War - Free Edition Dedicated Server"
+  },
+  {
+    "appid": 805140,
+    "name": "BATTALION: Legacy Dedicated Server"
+  },
+  {
+    "appid": 817300,
+    "name": "Base Defense Dedicated Server"
+  },
+  {
+    "appid": 823850,
+    "name": "DARCO - Reign of Elements - Dedicated Server"
+  },
+  {
+    "appid": 824240,
+    "name": "Unfortunate Spacemen Dedicated Server"
+  },
+  {
+    "appid": 824360,
+    "name": "PixARK Dedicated Server"
+  },
+  {
+    "appid": 839510,
+    "name": "Scrunk Server"
+  },
+  {
+    "appid": 844410,
+    "name": "Triggered: Assault Dedicated Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Post Scriptum - Beta Dedicated Server"
+  },
+  {
+    "appid": 848490,
+    "name": "Murderous Pursuits Beta Dedicated Server"
+  },
+  {
+    "appid": 848830,
+    "name": "Cube Universe Server"
+  },
+  {
+    "appid": 859010,
+    "name": "UniverCity Dedicated Server"
+  },
+  {
+    "appid": 869800,
+    "name": "Jabroni Brawl: Episode 3 - Dedicated Server"
+  },
+  {
+    "appid": 881430,
+    "name": "Spoxel Dedicated Server"
+  },
+  {
     "appid": 882430,
     "name": "Beasts of Bermuda Dedicated Server"
   },
@@ -432,12 +620,36 @@
     "name": "SCP: 5K - Community Dedicated Server"
   },
   {
+    "appid": 886440,
+    "name": "Super Versus Server"
+  },
+  {
     "appid": 896660,
     "name": "Valheim Dedicated Server"
   },
   {
+    "appid": 897590,
+    "name": "Memories of Mars - Dedicated Server"
+  },
+  {
     "appid": 906940,
     "name": "LEAP Server"
+  },
+  {
+    "appid": 916110,
+    "name": "BattleRush 2 Dedicated Server"
+  },
+  {
+    "appid": 920720,
+    "name": "Last Oasis - Dedicated Server"
+  },
+  {
+    "appid": 928530,
+    "name": "Prime & Load: 1776 Dedicated Server"
+  },
+  {
+    "appid": 931580,
+    "name": "Conan Exiles - Public Beta Dedicated Server"
   },
   {
     "appid": 944490,
@@ -492,8 +704,24 @@
     "name": "ATLAS Dedicated Server"
   },
   {
+    "appid": 1010510,
+    "name": "DCB Server"
+  },
+  {
+    "appid": 1023620,
+    "name": "PlayerVs Dedicated Server"
+  },
+  {
     "appid": 1026340,
     "name": "Barotrauma Dedicated Server"
+  },
+  {
+    "appid": 1035540,
+    "name": "Fragsurf Dedicated Server"
+  },
+  {
+    "appid": 1041860,
+    "name": "HELL'S NEW WORLD Dedicated Server"
   },
   {
     "appid": 1045940,
@@ -564,8 +792,36 @@
     "name": "Warfork Dedicated Server"
   },
   {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server"
+  },
+  {
+    "appid": 1170680,
+    "name": "Task Force Elite Dedicated Server"
+  },
+  {
     "appid": 1189160,
     "name": "Re.Poly Server"
+  },
+  {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
   },
   {
     "appid": 1247090,
@@ -892,6 +1148,14 @@
     "name": "defect dedicated server"
   },
   {
+    "appid": 2093570,
+    "name": "Lightphobe Dedicated Server"
+  },
+  {
+    "appid": 2101160,
+    "name": "Turbo Force Dedicated Server"
+  },
+  {
     "appid": 2131400,
     "name": "VEIN Dedicated Server"
   },
@@ -912,6 +1176,30 @@
     "name": "Coronation Dedicated Server"
   },
   {
+    "appid": 2200460,
+    "name": "kraserServer"
+  },
+  {
+    "appid": 2208380,
+    "name": "DeadPoly Dedicated Server"
+  },
+  {
+    "appid": 2232430,
+    "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2239530,
+    "name": "American Truck Simulator Dedicated Server"
+  },
+  {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
     "appid": 2286480,
     "name": "Endless Survival Dedicated Server"
   },
@@ -926,6 +1214,22 @@
   {
     "appid": 2306520,
     "name": "STRIKE ZOMBIE - Dedicated Server"
+  },
+  {
+    "appid": 2320610,
+    "name": "Nienix Dedicated Server"
+  },
+  {
+    "appid": 2329680,
+    "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
+  },
+  {
+    "appid": 2353090,
+    "name": "NEBULOUS Dedicated Server"
   },
   {
     "appid": 2392470,
