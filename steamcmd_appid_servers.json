@@ -4397,7 +4397,7 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
-    "name": "dedicated servers"
+    "name": "New Citizen dedicated servers"
   },
   {
     "appid": 2414480,
@@ -4457,10 +4457,10 @@
   },
   {
     "appid": 2577840,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "Athos Dedicated Server"
   },
   {
@@ -4480,11 +4480,27 @@
     "name": "Dead Matter Dedicated Server"
   },
   {
+    "appid": 2612550,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "The Front Dedicated Server"
+  },
+  {
     "appid": 2619010,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Helion - Dedicated Server"
+  },
+  {
+    "appid": 2636050,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "BB Dedicated Server"
   }
 ]
