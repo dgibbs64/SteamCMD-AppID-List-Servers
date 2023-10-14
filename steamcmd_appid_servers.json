@@ -2576,6 +2576,14 @@
     "name": "Heat Dedicated Server"
   },
   {
+    "appid": 1000090,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Meal of the Worms Dedicated Server"
+  },
+  {
     "appid": 1003980,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4336,6 +4344,14 @@
     "name": "NoOneSurvivedDedicatedServer"
   },
   {
+    "appid": 2334200,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "The Front Linux Dedicated Server"
+  },
+  {
     "appid": 2334460,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4501,6 +4517,6 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
-    "name": "BB Dedicated Server"
+    "name": "Bloodbound Dedicated Server"
   }
 ]

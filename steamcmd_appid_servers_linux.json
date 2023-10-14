@@ -696,6 +696,10 @@
     "name": "SCP: Secret Laboratory Dedicated Server"
   },
   {
+    "appid": 1000090,
+    "name": "Meal of the Worms Dedicated Server"
+  },
+  {
     "appid": 1003980,
     "name": "Right to Rule Dedicated Server"
   },
@@ -1222,6 +1226,10 @@
   {
     "appid": 2329680,
     "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2334200,
+    "name": "The Front Linux Dedicated Server"
   },
   {
     "appid": 2342570,
