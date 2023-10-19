@@ -64,30 +64,6 @@
     "name": "Homefront Dedicated Server"
   },
   {
-    "appid": 111710,
-    "name": "Nuclear Dawn - Dedicated Server"
-  },
-  {
-    "appid": 203300,
-    "name": "America's Army: Proving Grounds Dedicated Server"
-  },
-  {
-    "appid": 208050,
-    "name": "Sniper Elite V2 Dedicated Server"
-  },
-  {
-    "appid": 220070,
-    "name": "Chivalry: Medieval Warfare Dedicated Server"
-  },
-  {
-    "appid": 222860,
-    "name": "Left 4 Dead 2 Dedicated Server"
-  },
-  {
-    "appid": 227040,
-    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server"
-  },
-  {
     "appid": 228780,
     "name": "Blade Symphony Dedicated Server"
   },
@@ -788,8 +764,20 @@
     "name": "SCP: Secret Laboratory Dedicated Server"
   },
   {
+    "appid": 1045940,
+    "name": "HYPERCHARGE: Unboxed Dedicated Server"
+  },
+  {
     "appid": 1136190,
     "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
+    "appid": 1141420,
+    "name": "Rem Survival Dedicated Server"
+  },
+  {
+    "appid": 1169370,
+    "name": "Necesse Dedicated Server"
   },
   {
     "appid": 1180760,

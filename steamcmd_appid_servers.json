@@ -25,7 +25,7 @@
   },
   {
     "appid": 210,
-    "subscriptionlinux": "unknown (No License)app_status 55280",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -510,158 +510,6 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Nexuiz Dedicated Server"
-  },
-  {
-    "appid": 105610,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Terraria - Dedicated Server"
-  },
-  {
-    "appid": 111710,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Nuclear Dawn - Dedicated Server"
-  },
-  {
-    "appid": 203300,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "America's Army: Proving Grounds Dedicated Server"
-  },
-  {
-    "appid": 208050,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Sniper Elite V2 Dedicated Server"
-  },
-  {
-    "appid": 210370,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Starvoid Server"
-  },
-  {
-    "appid": 212542,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Red Orchestra 2 - Dedicated Server"
-  },
-  {
-    "appid": 213040,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "ORION: Prelude Dedicated Server"
-  },
-  {
-    "appid": 215350,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Killing Floor Dedicated Server - Win32"
-  },
-  {
-    "appid": 215360,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Killing Floor Dedicated Server - Linux"
-  },
-  {
-    "appid": 216280,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Serious Sam 3 - Linux DedServer"
-  },
-  {
-    "appid": 220070,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Chivalry: Medieval Warfare Dedicated Server"
-  },
-  {
-    "appid": 222860,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Left 4 Dead 2 Dedicated Server"
-  },
-  {
-    "appid": 223160,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Ravaged Dedicated Server"
-  },
-  {
-    "appid": 223240,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Red Orchestra Windows Dedicated Server"
-  },
-  {
-    "appid": 223250,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Red Orchestra Linux Dedicated Server"
-  },
-  {
-    "appid": 223350,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "DayZ Server"
-  },
-  {
-    "appid": 224620,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Primal Carnage Dedicated Server"
-  },
-  {
-    "appid": 227040,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Left 4 Dead 2 Beta - Win32 Dedicated Server"
-  },
-  {
-    "appid": 227050,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
-    "windows": false,
-    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server"
   },
   {
     "appid": 228780,
@@ -2520,12 +2368,36 @@
     "name": "SCP: Secret Laboratory Dedicated Server"
   },
   {
+    "appid": 1045940,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "HYPERCHARGE: Unboxed Dedicated Server"
+  },
+  {
     "appid": 1136190,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
+    "appid": 1141420,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Rem Survival Dedicated Server"
+  },
+  {
+    "appid": 1169370,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Necesse Dedicated Server"
   },
   {
     "appid": 1180760,
@@ -3062,6 +2934,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Sniper Ghost Warrior Contracts 2 - Blue Servers Skins"
+  },
+  {
+    "appid": 1587690,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "EZ2ON REBOOT : R (Test Server)"
   },
   {
     "appid": 1612490,
