@@ -4432,6 +4432,14 @@
     "name": "Shattered: Dedicated Server"
   },
   {
+    "appid": 2430930,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "ARK: Survival Ascended Dedicated Server"
+  },
+  {
     "appid": 2440790,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4513,10 +4521,10 @@
   },
   {
     "appid": 2636050,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "Bloodbound Dedicated Server"
   },
   {
