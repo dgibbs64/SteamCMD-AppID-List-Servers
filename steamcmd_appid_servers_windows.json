@@ -148,100 +148,8 @@
     "name": "Space Engineers Dedicated Server"
   },
   {
-    "appid": 299310,
-    "name": "Serious Sam Classics: Revolution Dedicated Server"
-  },
-  {
-    "appid": 302200,
-    "name": "Miscreated Dedicated Server"
-  },
-  {
-    "appid": 313900,
-    "name": "NS2: Combat Dedicated Server"
-  },
-  {
-    "appid": 317670,
-    "name": "No More Room in Hell Dedicated Server"
-  },
-  {
-    "appid": 320850,
-    "name": "Life is Feudal: Your Own Dedicated Server"
-  },
-  {
-    "appid": 324870,
-    "name": "RS/RO2 Alpha Community Maps - Dedicated Server"
-  },
-  {
-    "appid": 324890,
-    "name": "RS/RO2 Beta Community Maps - Dedicated Server"
-  },
-  {
-    "appid": 328950,
-    "name": "SNOW Dedicated Server"
-  },
-  {
-    "appid": 329710,
-    "name": "Fortress Forever Dedicated Server"
-  },
-  {
-    "appid": 332670,
-    "name": "Project CARS - Dedicated Server"
-  },
-  {
-    "appid": 332850,
-    "name": "BlazeRush Dedicated Server"
-  },
-  {
     "appid": 336400,
     "name": "PCE Dedicated Server"
-  },
-  {
-    "appid": 339010,
-    "name": "Rising World Dedicated Server"
-  },
-  {
-    "appid": 346680,
-    "name": "Black Mesa Dedicated Server"
-  },
-  {
-    "appid": 354060,
-    "name": "RaceRoom Dedicated Server"
-  },
-  {
-    "appid": 361580,
-    "name": "Wreckfest Dedicated Server"
-  },
-  {
-    "appid": 367970,
-    "name": "Medieval Engineers Dedicated Server"
-  },
-  {
-    "appid": 369630,
-    "name": "Mirage: Arcane Warfare - Dedicated Server"
-  },
-  {
-    "appid": 378670,
-    "name": "Savage Lands Dedicated Server"
-  },
-  {
-    "appid": 381690,
-    "name": "Reign Of Kings Dedicated Server"
-  },
-  {
-    "appid": 382030,
-    "name": "Yargis - Space Melee - Dedicated Server"
-  },
-  {
-    "appid": 382280,
-    "name": "Abatron Dedicated Server"
-  },
-  {
-    "appid": 383410,
-    "name": "Codename CURE Dedicated Server"
-  },
-  {
-    "appid": 393250,
-    "name": "Savage Resurrection Dedicated Server"
   },
   {
     "appid": 402370,
@@ -300,36 +208,8 @@
     "name": "Conan Exiles Dedicated Server"
   },
   {
-    "appid": 443050,
-    "name": "The Ship: Remasted Dedicated Server"
-  },
-  {
-    "appid": 447760,
-    "name": "Automobilista - Dedicated Server"
-  },
-  {
-    "appid": 449740,
-    "name": "Alchemist's Awakening Dedicated Server"
-  },
-  {
-    "appid": 450980,
-    "name": "Ultimate Arena FPS - Dedicated Server"
-  },
-  {
-    "appid": 453420,
-    "name": "Formicide Dedicated Server"
-  },
-  {
     "appid": 460040,
     "name": "Empires Dedicated Server"
-  },
-  {
-    "appid": 460300,
-    "name": "Ice Lakes Dedicated Server"
-  },
-  {
-    "appid": 460320,
-    "name": "MetaTron Dedicated Server"
   },
   {
     "appid": 462310,
@@ -356,24 +236,8 @@
     "name": "Zero G Arena dedicated server"
   },
   {
-    "appid": 516860,
-    "name": "Of Kings And Men Dedicated Server"
-  },
-  {
-    "appid": 523390,
-    "name": "LandTraveller - Dedicated Server"
-  },
-  {
-    "appid": 526340,
-    "name": "Voxel Turf Dedicated Server"
-  },
-  {
     "appid": 530870,
     "name": "Empyrion - Galactic Survival Dedicated Server"
-  },
-  {
-    "appid": 541790,
-    "name": "Days of War Dedicated Server"
   },
   {
     "appid": 545990,
@@ -432,84 +296,12 @@
     "name": "Insurgency: Sandstorm Dedicated Server"
   },
   {
-    "appid": 582320,
-    "name": "RHdedicatedserver"
-  },
-  {
-    "appid": 582400,
-    "name": "Alien Swarm: Reactive Drop Dedicated Server"
-  },
-  {
-    "appid": 587020,
-    "name": "Strike Vector EX Dedicated Server"
-  },
-  {
-    "appid": 591690,
-    "name": "The Dome Dedicated Servers"
-  },
-  {
-    "appid": 598010,
-    "name": "SQUIDS FROM SPACE Dedicated Server"
-  },
-  {
-    "appid": 598850,
-    "name": "Hellion Dedicated Server"
-  },
-  {
     "appid": 600760,
     "name": "Stationeers Dedicated Server"
   },
   {
-    "appid": 604100,
-    "name": "Rokh Dedicated Server"
-  },
-  {
-    "appid": 609870,
-    "name": "Hunt For Gods Dedicated Server"
-  },
-  {
-    "appid": 612940,
-    "name": "Decaying Substance Dedicated Server"
-  },
-  {
-    "appid": 616940,
-    "name": "Cobalt WASD Dedicated Server"
-  },
-  {
-    "appid": 619960,
-    "name": "Just Cause™ 3: Multiplayer - Dedicated Server"
-  },
-  {
-    "appid": 620110,
-    "name": "The Archotek Project Dedicated Server"
-  },
-  {
     "appid": 622970,
     "name": "Pavlov VR Dedicated Server"
-  },
-  {
-    "appid": 628300,
-    "name": "Stellar Overload Dedicated Server"
-  },
-  {
-    "appid": 629800,
-    "name": "MORDHAU Dedicated Server"
-  },
-  {
-    "appid": 633290,
-    "name": "Stars End - Dedicated Server"
-  },
-  {
-    "appid": 638100,
-    "name": "Kreedz Climbing Dedicated Server"
-  },
-  {
-    "appid": 638500,
-    "name": "Soldat Dedicated Server"
-  },
-  {
-    "appid": 643090,
-    "name": "Them's Fightin' Herds Dedicated Server"
   },
   {
     "appid": 667230,
@@ -728,28 +520,8 @@
     "name": "Memories of Mars - Dedicated Server"
   },
   {
-    "appid": 904710,
-    "name": "The Warhorn Dedicated Server"
-  },
-  {
     "appid": 906940,
     "name": "LEAP Server"
-  },
-  {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
-  },
-  {
-    "appid": 915070,
-    "name": "Outlaws of the Old West Dedicated Server Tool"
-  },
-  {
-    "appid": 916110,
-    "name": "BattleRush 2 Dedicated Server"
-  },
-  {
-    "appid": 920720,
-    "name": "Last Oasis - Dedicated Server"
   },
   {
     "appid": 928530,
@@ -828,132 +600,20 @@
     "name": "ATLAS Dedicated Server"
   },
   {
-    "appid": 1006890,
-    "name": "Gunsolvers: Dedicated server"
-  },
-  {
-    "appid": 1010510,
-    "name": "DCB Server"
-  },
-  {
-    "appid": 1017070,
-    "name": "Vanguard: Normandy 1944 Dedicated Server"
-  },
-  {
-    "appid": 1023620,
-    "name": "PlayerVs Dedicated Server"
-  },
-  {
     "appid": 1026340,
     "name": "Barotrauma Dedicated Server"
-  },
-  {
-    "appid": 1035540,
-    "name": "Fragsurf Dedicated Server"
-  },
-  {
-    "appid": 1041860,
-    "name": "HELL'S NEW WORLD Dedicated Server"
   },
   {
     "appid": 1045940,
     "name": "HYPERCHARGE: Unboxed Dedicated Server"
   },
   {
-    "appid": 1047650,
-    "name": "Road to Eden - Dedicated server"
-  },
-  {
-    "appid": 1061710,
-    "name": "CryoFall Dedicated Server"
-  },
-  {
-    "appid": 1064780,
-    "name": "Beyond The Wire - Dedicated Server"
-  },
-  {
-    "appid": 1071470,
-    "name": "Planetes Community Dedicated Server"
-  },
-  {
-    "appid": 1075180,
-    "name": "Beyond Enemy Lines 2 Dedicated Server"
-  },
-  {
-    "appid": 1075820,
-    "name": "Green Army Men - Dedicated Server"
-  },
-  {
-    "appid": 1084900,
-    "name": "Task Force Dedicated Server"
-  },
-  {
-    "appid": 1086950,
-    "name": "Solace Crafting Dedicated Server"
-  },
-  {
-    "appid": 1088320,
-    "name": "Day of Dragons - Dedicated Server"
-  },
-  {
     "appid": 1098260,
     "name": "Creativerse Dedicated Server"
   },
   {
-    "appid": 1099850,
-    "name": "Karl BOOM Dedicated Server"
-  },
-  {
-    "appid": 1110390,
-    "name": "Unturned Dedicated Server"
-  },
-  {
-    "appid": 1111260,
-    "name": "WBTR Server"
-  },
-  {
-    "appid": 1119550,
-    "name": "SFIW:DedicatedServer"
-  },
-  {
-    "appid": 1129070,
-    "name": "Dedicated Server"
-  },
-  {
-    "appid": 1136190,
-    "name": "Military Conflict: Vietnam Dedicated Server"
-  },
-  {
-    "appid": 1136460,
-    "name": "Without A Roof (W.A.R.) Dedicated Server"
-  },
-  {
-    "appid": 1136510,
-    "name": "Warfork Dedicated Server"
-  },
-  {
     "appid": 1141420,
     "name": "Rem Survival Dedicated Server"
-  },
-  {
-    "appid": 1169370,
-    "name": "Necesse Dedicated Server"
-  },
-  {
-    "appid": 1170680,
-    "name": "Task Force Elite Dedicated Server"
-  },
-  {
-    "appid": 1171790,
-    "name": "Celaria Server"
-  },
-  {
-    "appid": 1180760,
-    "name": "Risk of Rain 2 Dedicated Server"
-  },
-  {
-    "appid": 1189160,
-    "name": "Re.Poly Server"
   },
   {
     "appid": 1203110,
