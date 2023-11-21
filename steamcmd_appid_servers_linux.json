@@ -828,10 +828,6 @@
     "name": "SRX Dedicated Server"
   },
   {
-    "appid": 1247090,
-    "name": "Stormworks Dedicated Server"
-  },
-  {
     "appid": 1275530,
     "name": "DeadsideServer"
   },
@@ -886,26 +882,6 @@
   {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
-  },
-  {
-    "appid": 1377020,
-    "name": "Sanctuary Island dedicated server"
-  },
-  {
-    "appid": 1380950,
-    "name": "Fadeout Dedicated Server"
-  },
-  {
-    "appid": 1382420,
-    "name": "Tomatenquark Server"
-  },
-  {
-    "appid": 1404690,
-    "name": "Paint Royale Dedicated Server"
-  },
-  {
-    "appid": 1405890,
-    "name": "Blood Oath: When The Sword Rises dedicated server"
   },
   {
     "appid": 1413700,
@@ -1028,14 +1004,6 @@
     "name": "Deadswitch 3 Multiplayer Server"
   },
   {
-    "appid": 1722130,
-    "name": "Birthright Dedicated Server"
-  },
-  {
-    "appid": 1736750,
-    "name": "Kingdom of Atham: Server"
-  },
-  {
     "appid": 1750680,
     "name": "Beryllium Dedicated Server"
   },
@@ -1072,94 +1040,6 @@
     "name": "Mount & Blade II: Dedicated Server"
   },
   {
-    "appid": 1865350,
-    "name": "Chunkers Server"
-  },
-  {
-    "appid": 1874900,
-    "name": "Arma Reforger Server"
-  },
-  {
-    "appid": 1890870,
-    "name": "Arma Reforger Experimental Server"
-  },
-  {
-    "appid": 1892930,
-    "name": "s&box server"
-  },
-  {
-    "appid": 1899880,
-    "name": "BadlandsDedicatedServer"
-  },
-  {
-    "appid": 1899970,
-    "name": "BadlandsServerBeta"
-  },
-  {
-    "appid": 1900210,
-    "name": "LGS Dedicated Server"
-  },
-  {
-    "appid": 1911460,
-    "name": "Infinite Progression Dedicated Server"
-  },
-  {
-    "appid": 1911970,
-    "name": "OverShoot Battle Race [ Dedicated Server ]"
-  },
-  {
-    "appid": 1932270,
-    "name": "Condemned Dedicated Server"
-  },
-  {
-    "appid": 1936830,
-    "name": "nanos world™ Dedicated Server"
-  },
-  {
-    "appid": 1948160,
-    "name": "Euro Truck Simulator 2 Dedicated Server"
-  },
-  {
-    "appid": 1948990,
-    "name": "Snapshot VR Dedicated Server"
-  },
-  {
-    "appid": 1956500,
-    "name": "Draconia Dedicated Server"
-  },
-  {
-    "appid": 1963720,
-    "name": "Core Keeper Dedicated Server"
-  },
-  {
-    "appid": 1964150,
-    "name": "Perfect Heist 2 Dedicated Server"
-  },
-  {
-    "appid": 1978930,
-    "name": "Project Speed 2 Dedicated Server"
-  },
-  {
-    "appid": 1992220,
-    "name": "Escape from Polykov - Dedicated Server"
-  },
-  {
-    "appid": 2058450,
-    "name": "Swords 'n Magic and Stuff Dedicated Server"
-  },
-  {
-    "appid": 2069670,
-    "name": "defect dedicated server"
-  },
-  {
-    "appid": 2093570,
-    "name": "Lightphobe Dedicated Server"
-  },
-  {
-    "appid": 2101160,
-    "name": "Turbo Force Dedicated Server"
-  },
-  {
     "appid": 2131400,
     "name": "VEIN Dedicated Server"
   },
@@ -1174,18 +1054,6 @@
   {
     "appid": 2181210,
     "name": "JBMod Dedicated Server"
-  },
-  {
-    "appid": 2192940,
-    "name": "Coronation Dedicated Server"
-  },
-  {
-    "appid": 2200460,
-    "name": "kraserServer"
-  },
-  {
-    "appid": 2208380,
-    "name": "DeadPoly Dedicated Server"
   },
   {
     "appid": 2232430,
@@ -1240,10 +1108,6 @@
     "name": "NEBULOUS Dedicated Server"
   },
   {
-    "appid": 2392470,
-    "name": " Dedicated Server ScrewUp"
-  },
-  {
     "appid": 2406780,
     "name": "Banana Shooter Dedicated Server"
   },
@@ -1256,35 +1120,7 @@
     "name": "ARK: Survival Ascended Dedicated Server"
   },
   {
-    "appid": 2440790,
-    "name": "DUOnline Server"
-  },
-  {
     "appid": 2465200,
     "name": "Sons Of The Forest Dedicated Server"
-  },
-  {
-    "appid": 2570570,
-    "name": "NOVAKIN Mark0 Dedicated Server"
-  },
-  {
-    "appid": 2577840,
-    "name": "Athos Dedicated Server"
-  },
-  {
-    "appid": 2580320,
-    "name": "Project Amaranth Dedicated Server"
-  },
-  {
-    "appid": 2612550,
-    "name": "The Front Dedicated Server"
-  },
-  {
-    "appid": 2636050,
-    "name": "Bloodbound Dedicated Server"
-  },
-  {
-    "appid": 2662210,
-    "name": "Astro Colony Dedicated Server"
   }
 ]
