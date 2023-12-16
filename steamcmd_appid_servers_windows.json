@@ -200,6 +200,10 @@
     "name": "Rising World Dedicated Server"
   },
   {
+    "appid": 354060,
+    "name": "RaceRoom Dedicated Server"
+  },
+  {
     "appid": 381690,
     "name": "Reign Of Kings Dedicated Server"
   },
@@ -346,6 +350,18 @@
   {
     "appid": 530870,
     "name": "Empyrion - Galactic Survival Dedicated Server"
+  },
+  {
+    "appid": 565060,
+    "name": "Avorion Dedicated Server"
+  },
+  {
+    "appid": 581330,
+    "name": "Insurgency: Sandstorm Dedicated Server"
+  },
+  {
+    "appid": 600760,
+    "name": "Stationeers Dedicated Server"
   },
   {
     "appid": 604100,
@@ -1080,6 +1096,14 @@
     "name": "Powerjackers Dedicated Server"
   },
   {
+    "appid": 1874900,
+    "name": "Arma Reforger Server"
+  },
+  {
+    "appid": 1890870,
+    "name": "Arma Reforger Experimental Server"
+  },
+  {
     "appid": 1892930,
     "name": "s&box server"
   },
@@ -1094,6 +1118,22 @@
   {
     "appid": 1948160,
     "name": "Euro Truck Simulator 2 Dedicated Server"
+  },
+  {
+    "appid": 1956500,
+    "name": "Draconia Dedicated Server"
+  },
+  {
+    "appid": 1963720,
+    "name": "Core Keeper Dedicated Server"
+  },
+  {
+    "appid": 1964150,
+    "name": "Perfect Heist 2 Dedicated Server"
+  },
+  {
+    "appid": 1978930,
+    "name": "Project Speed 2 Dedicated Server"
   },
   {
     "appid": 1992220,
