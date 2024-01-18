@@ -3416,6 +3416,14 @@
     "name": "Modiverse Linux Dedicated Server"
   },
   {
+    "appid": 1565820,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Operation Valor Dedicated Server"
+  },
+  {
     "appid": 1573820,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
