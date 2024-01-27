@@ -4120,6 +4120,14 @@
     "name": "Turbo Force Dedicated Server"
   },
   {
+    "appid": 2103880,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Assault Wing Dedicated Server"
+  },
+  {
     "appid": 2116400,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4646,5 +4654,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Project Asteroids Community Server"
+  },
+  {
+    "appid": 2809600,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "SlimChanceServer"
   }
 ]
