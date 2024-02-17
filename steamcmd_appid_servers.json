@@ -1977,6 +1977,8 @@
   },
   {
     "appid": 713970,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "The Simple Apocalypse Server"
@@ -4036,14 +4038,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Escape from Polykov - Dedicated Server"
-  },
-  {
-    "appid": 1999160,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Reign Of Dwarf Dedicated Server"
   },
   {
     "appid": 2009240,
