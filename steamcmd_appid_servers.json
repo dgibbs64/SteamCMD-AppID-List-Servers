@@ -91,7 +91,7 @@
     "appid": 1273,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (No License)app_status 677100",
     "windows": false,
     "name": "Killing Floor Beta Dedicated Server"
   },
@@ -4718,5 +4718,13 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Sapiens Dedicated Server"
+  },
+  {
+    "appid": 2915100,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Echoes of Elysium Dedicated Server"
   }
 ]
