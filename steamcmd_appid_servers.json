@@ -4280,14 +4280,6 @@
     "name": "Sons Of The Forest Dedicated Server"
   },
   {
-    "appid": 2515600,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Your Journey of Survival Server"
-  },
-  {
     "appid": 2533070,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4342,14 +4334,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "The Front Dedicated Server"
-  },
-  {
-    "appid": 2619010,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Helion - Dedicated Server"
   },
   {
     "appid": 2636050,
@@ -4456,11 +4440,27 @@
     "name": "No Love Lost Dedicated Server"
   },
   {
+    "appid": 2849410,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
     "appid": 2886350,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Sapiens Dedicated Server"
+  },
+  {
+    "appid": 2927090,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "LAZERZ Dedicated Server"
   }
 ]
