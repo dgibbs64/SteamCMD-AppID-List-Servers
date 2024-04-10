@@ -4750,5 +4750,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "LAZERZ Dedicated Server"
+  },
+  {
+    "appid": 2934900,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Astro Colony Dedicated Server Linux"
   }
 ]
