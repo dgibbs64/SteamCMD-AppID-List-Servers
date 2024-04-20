@@ -4616,6 +4616,14 @@
     "name": "Sunkenland Dedicated Server"
   },
   {
+    "appid": 2684970,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "炭熄 dedicate server"
+  },
+  {
     "appid": 2691380,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
