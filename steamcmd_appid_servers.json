@@ -4736,6 +4736,14 @@
     "name": "Dragons Legacy - Dedicated Server"
   },
   {
+    "appid": 2857200,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Abiotic Factor Dedicated Server"
+  },
+  {
     "appid": 2886350,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4750,6 +4758,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Echoes of Elysium Dedicated Server"
+  },
+  {
+    "appid": 2915550,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "FOUNDRY: Dedicated Server"
   },
   {
     "appid": 2915930,
