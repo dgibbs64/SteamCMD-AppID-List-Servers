@@ -640,6 +640,42 @@
     "name": "LEAP Server"
   },
   {
+    "appid": 916110,
+    "name": "BattleRush 2 Dedicated Server"
+  },
+  {
+    "appid": 920720,
+    "name": "Last Oasis - Dedicated Server"
+  },
+  {
+    "appid": 928530,
+    "name": "Prime & Load: 1776 Dedicated Server"
+  },
+  {
+    "appid": 931580,
+    "name": "Conan Exiles - Public Beta Dedicated Server"
+  },
+  {
+    "appid": 944490,
+    "name": "Vox Machinae Dedicated Server"
+  },
+  {
+    "appid": 947870,
+    "name": "Starcross Arena Dedicated Server"
+  },
+  {
+    "appid": 950290,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 950900,
+    "name": "Operation: Harsh Doorstop - Dedicated Server"
+  },
+  {
+    "appid": 955080,
+    "name": "Team Fortress 2008 - Dedicated Server"
+  },
+  {
     "appid": 965690,
     "name": "D.A.T.A Dedicated Server"
   },
@@ -850,6 +886,10 @@
   {
     "appid": 1316480,
     "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
+  },
+  {
+    "appid": 1348640,
+    "name": "Frozen Flame - Dedicated Server"
   },
   {
     "appid": 1362540,
@@ -1148,6 +1188,98 @@
     "name": "Coronation Dedicated Server"
   },
   {
+    "appid": 2200460,
+    "name": "kraserServer"
+  },
+  {
+    "appid": 2208380,
+    "name": "DeadPoly Dedicated Server"
+  },
+  {
+    "appid": 2232430,
+    "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2239530,
+    "name": "American Truck Simulator Dedicated Server"
+  },
+  {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
+    "appid": 2278520,
+    "name": "Enshrouded Dedicated Server"
+  },
+  {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
+    "appid": 2292470,
+    "name": "Rock Hoppers Dedicated Server"
+  },
+  {
+    "appid": 2293960,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 2306520,
+    "name": "STRIKE ZOMBIE - Dedicated Server"
+  },
+  {
+    "appid": 2311970,
+    "name": "Totally Accurate Battlegrounds Dedicated Server"
+  },
+  {
+    "appid": 2320610,
+    "name": "Nienix Dedicated Server"
+  },
+  {
+    "appid": 2329680,
+    "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2334200,
+    "name": "The Front Linux Dedicated Server"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
+  },
+  {
+    "appid": 2353090,
+    "name": "NEBULOUS Dedicated Server"
+  },
+  {
+    "appid": 2392470,
+    "name": " Dedicated Server ScrewUp"
+  },
+  {
+    "appid": 2394010,
+    "name": "Palworld Dedicated Server"
+  },
+  {
+    "appid": 2406780,
+    "name": "Banana Shooter Dedicated Server"
+  },
+  {
+    "appid": 2414480,
+    "name": "Lost Isle Dedicated Server"
+  },
+  {
+    "appid": 2430930,
+    "name": "ARK: Survival Ascended Dedicated Server"
+  },
+  {
+    "appid": 2440790,
+    "name": "DUOnline Server"
+  },
+  {
     "appid": 2465200,
     "name": "Sons Of The Forest Dedicated Server"
   },
@@ -1172,7 +1304,59 @@
     "name": "Project Amaranth Dedicated Server"
   },
   {
+    "appid": 2612550,
+    "name": "The Front Dedicated Server"
+  },
+  {
+    "appid": 2636050,
+    "name": "Bloodbound Dedicated Server"
+  },
+  {
+    "appid": 2662210,
+    "name": "Astro Colony Dedicated Server"
+  },
+  {
+    "appid": 2684970,
+    "name": "炭熄 dedicate server"
+  },
+  {
+    "appid": 2703580,
+    "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
+  },
+  {
+    "appid": 2738040,
+    "name": "Silica Dedicated Server"
+  },
+  {
+    "appid": 2809600,
+    "name": "SlimChanceServer"
+  },
+  {
+    "appid": 2823750,
+    "name": "Wild Omission Dedicated Server"
+  },
+  {
+    "appid": 2833050,
+    "name": "No Love Lost Dedicated Server"
+  },
+  {
+    "appid": 2842470,
+    "name": "Project Ethereal - Dedicated Server Toolbox"
+  },
+  {
+    "appid": 2849410,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
+    "appid": 2886350,
+    "name": "Sapiens Dedicated Server"
+  },
+  {
     "appid": 2915550,
     "name": "FOUNDRY: Dedicated Server"
+  },
+  {
+    "appid": 2934900,
+    "name": "Astro Colony Dedicated Server Linux"
   }
 ]
