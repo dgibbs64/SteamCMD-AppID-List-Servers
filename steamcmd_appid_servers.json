@@ -4625,10 +4625,10 @@
   },
   {
     "appid": 2690320,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
     "name": "DUCKSIDE Server"
   },
   {
@@ -4806,6 +4806,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "CAMPS Server"
+  },
+  {
+    "appid": 2981140,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Coreborn Dedicated Server"
   },
   {
     "appid": 2996130,
