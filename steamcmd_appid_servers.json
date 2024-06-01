@@ -3672,6 +3672,14 @@
     "name": "Afterinfection Dedicated Server"
   },
   {
+    "appid": 1794810,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Myth of Empires Dedicated Server"
+  },
+  {
     "appid": 1797170,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4296,6 +4304,22 @@
     "name": "Enshrouded Dedicated Server"
   },
   {
+    "appid": 2286480,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
+    "appid": 2291821,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "StarRaver - Observer Skin"
+  },
+  {
     "appid": 2292470,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4366,6 +4390,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "The Front Linux Dedicated Server"
+  },
+  {
+    "appid": 2334460,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Unknown To Mankind Test Servers Playtest"
   },
   {
     "appid": 2342570,
@@ -4544,12 +4576,28 @@
     "name": "Project Amaranth Dedicated Server"
   },
   {
+    "appid": 2584780,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Dead Matter Dedicated Server"
+  },
+  {
     "appid": 2612550,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "The Front Dedicated Server"
+  },
+  {
+    "appid": 2619010,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Helion - Dedicated Server"
   },
   {
     "appid": 2636050,
@@ -4566,6 +4614,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Astro Colony Dedicated Server"
+  },
+  {
+    "appid": 2667530,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Sunkenland Dedicated Server"
   },
   {
     "appid": 2684970,
@@ -4600,12 +4656,28 @@
     "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
   },
   {
+    "appid": 2715080,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Native Hunter Dedicated Server"
+  },
+  {
     "appid": 2738040,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Silica Dedicated Server"
+  },
+  {
+    "appid": 2789180,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Project Asteroids Community Server"
   },
   {
     "appid": 2807720,
@@ -4632,12 +4704,28 @@
     "name": "Wild Omission Dedicated Server"
   },
   {
+    "appid": 2826550,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Observer"
+  },
+  {
     "appid": 2833050,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "No Love Lost Dedicated Server"
+  },
+  {
+    "appid": 2834640,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Paintball Playground Dedicated Server"
   },
   {
     "appid": 2842470,
@@ -4648,12 +4736,28 @@
     "name": "Project Ethereal - Dedicated Server Toolbox"
   },
   {
+    "appid": 2849410,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
     "appid": 2857200,
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Abiotic Factor Dedicated Server"
+  },
+  {
+    "appid": 2886350,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Sapiens Dedicated Server"
   },
   {
     "appid": 2915100,
@@ -4734,5 +4838,21 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Homestead Dedicated Server"
+  },
+  {
+    "appid": 3017300,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Soulmask Dedicated Server For Linux"
+  },
+  {
+    "appid": 3017310,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Soulmask Dedicated Server For Windows"
   }
 ]

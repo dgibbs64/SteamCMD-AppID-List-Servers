@@ -1212,6 +1212,10 @@
     "name": "Enshrouded Dedicated Server"
   },
   {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
     "appid": 2292470,
     "name": "Rock Hoppers Dedicated Server"
   },
@@ -1344,6 +1348,14 @@
     "name": "Project Ethereal - Dedicated Server Toolbox"
   },
   {
+    "appid": 2849410,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
+    "appid": 2886350,
+    "name": "Sapiens Dedicated Server"
+  },
+  {
     "appid": 2915550,
     "name": "FOUNDRY: Dedicated Server"
   },
@@ -1354,5 +1366,13 @@
   {
     "appid": 2981140,
     "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 3017300,
+    "name": "Soulmask Dedicated Server For Linux"
+  },
+  {
+    "appid": 3017310,
+    "name": "Soulmask Dedicated Server For Windows"
   }
 ]

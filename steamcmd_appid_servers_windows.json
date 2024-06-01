@@ -1216,6 +1216,10 @@
     "name": "Axial Drift Dedicated Server"
   },
   {
+    "appid": 1794810,
+    "name": "Myth of Empires Dedicated Server"
+  },
+  {
     "appid": 1801280,
     "name": "SCP: CB Multiplayer Dedicated Server"
   },
@@ -1404,6 +1408,10 @@
     "name": "Enshrouded Dedicated Server"
   },
   {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
     "appid": 2292470,
     "name": "Rock Hoppers Dedicated Server"
   },
@@ -1492,6 +1500,10 @@
     "name": "Project Amaranth Dedicated Server"
   },
   {
+    "appid": 2584780,
+    "name": "Dead Matter Dedicated Server"
+  },
+  {
     "appid": 2612550,
     "name": "The Front Dedicated Server"
   },
@@ -1504,6 +1516,10 @@
     "name": "Astro Colony Dedicated Server"
   },
   {
+    "appid": 2667530,
+    "name": "Sunkenland Dedicated Server"
+  },
+  {
     "appid": 2684970,
     "name": "炭熄 dedicate server"
   },
@@ -1514,6 +1530,10 @@
   {
     "appid": 2703580,
     "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
+  },
+  {
+    "appid": 2715080,
+    "name": "Native Hunter Dedicated Server"
   },
   {
     "appid": 2738040,
@@ -1536,8 +1556,16 @@
     "name": "Project Ethereal - Dedicated Server Toolbox"
   },
   {
+    "appid": 2849410,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
     "appid": 2857200,
     "name": "Abiotic Factor Dedicated Server"
+  },
+  {
+    "appid": 2886350,
+    "name": "Sapiens Dedicated Server"
   },
   {
     "appid": 2915550,
@@ -1554,5 +1582,13 @@
   {
     "appid": 2996130,
     "name": "Deep Dark Forest Dedicated Server"
+  },
+  {
+    "appid": 3017300,
+    "name": "Soulmask Dedicated Server For Linux"
+  },
+  {
+    "appid": 3017310,
+    "name": "Soulmask Dedicated Server For Windows"
   }
 ]
