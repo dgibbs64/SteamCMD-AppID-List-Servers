@@ -832,20 +832,108 @@
     "name": "Gunsolvers: Dedicated server"
   },
   {
+    "appid": 1010510,
+    "name": "DCB Server"
+  },
+  {
+    "appid": 1017070,
+    "name": "Vanguard: Normandy 1944 Dedicated Server"
+  },
+  {
+    "appid": 1023620,
+    "name": "PlayerVs Dedicated Server"
+  },
+  {
     "appid": 1026340,
     "name": "Barotrauma Dedicated Server"
+  },
+  {
+    "appid": 1035540,
+    "name": "Fragsurf Dedicated Server"
+  },
+  {
+    "appid": 1041860,
+    "name": "HELL'S NEW WORLD Dedicated Server"
+  },
+  {
+    "appid": 1045940,
+    "name": "HYPERCHARGE: Unboxed Dedicated Server"
+  },
+  {
+    "appid": 1047650,
+    "name": "Road to Eden - Dedicated server"
+  },
+  {
+    "appid": 1061710,
+    "name": "CryoFall Dedicated Server"
+  },
+  {
+    "appid": 1064780,
+    "name": "Beyond The Wire - Dedicated Server"
+  },
+  {
+    "appid": 1071470,
+    "name": "Planetes Community Dedicated Server"
+  },
+  {
+    "appid": 1075180,
+    "name": "Beyond Enemy Lines 2 Dedicated Server"
+  },
+  {
+    "appid": 1075820,
+    "name": "Green Army Men - Dedicated Server"
+  },
+  {
+    "appid": 1084900,
+    "name": "Task Force Dedicated Server"
   },
   {
     "appid": 1086950,
     "name": "Solace Crafting Dedicated Server"
   },
   {
+    "appid": 1088320,
+    "name": "Day of Dragons - Dedicated Server"
+  },
+  {
     "appid": 1098260,
     "name": "Creativerse Dedicated Server"
   },
   {
+    "appid": 1099850,
+    "name": "Karl BOOM Dedicated Server"
+  },
+  {
     "appid": 1110390,
     "name": "Unturned Dedicated Server"
+  },
+  {
+    "appid": 1111260,
+    "name": "WBTR Server"
+  },
+  {
+    "appid": 1118810,
+    "name": "Midnight Ghost Hunt Dedicated Server"
+  },
+  {
+    "appid": 1119550,
+    "name": "SFIW:DedicatedServer"
+  },
+  {
+    "appid": 1129070,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1136190,
+    "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
+    "appid": 1136460,
+    "name": "Without A Roof (W.A.R.) Dedicated Server"
+  },
+  {
+    "appid": 1136510,
+    "name": "Warfork Dedicated Server"
   },
   {
     "appid": 1141420,
@@ -856,12 +944,64 @@
     "name": "Necesse Dedicated Server"
   },
   {
+    "appid": 1170680,
+    "name": "Task Force Elite Dedicated Server"
+  },
+  {
+    "appid": 1171790,
+    "name": "Celaria Server"
+  },
+  {
+    "appid": 1180760,
+    "name": "Risk of Rain 2 Dedicated Server"
+  },
+  {
     "appid": 1189160,
     "name": "Re.Poly Server"
   },
   {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
+    "appid": 1207110,
+    "name": " GROUND BRANCH CTE Dedicated Server"
+  },
+  {
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
+  },
+  {
     "appid": 1247090,
     "name": "Stormworks Dedicated Server"
+  },
+  {
+    "appid": 1255430,
+    "name": "Talvisota: Dedicated Server"
+  },
+  {
+    "appid": 1279430,
+    "name": "Civil Dedicated Server"
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server"
+  },
+  {
+    "appid": 1284600,
+    "name": "Race Project Dedicated Server"
   },
   {
     "appid": 1292030,
@@ -960,8 +1100,60 @@
     "name": "ExoCorps Dedicated Server"
   },
   {
+    "appid": 1433270,
+    "name": "SCP: Escape Together Dedicated Server"
+  },
+  {
+    "appid": 1460560,
+    "name": "Unclear Dedicated Server"
+  },
+  {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
     "appid": 1479670,
     "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
+  },
+  {
+    "appid": 1502300,
+    "name": " Survive the Nights Dedicated Server"
+  },
+  {
+    "appid": 1503660,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1534710,
+    "name": "SCP: Breakout Dedicated Server"
+  },
+  {
+    "appid": 1549820,
+    "name": "Modiverse Linux Dedicated Server"
+  },
+  {
+    "appid": 1573820,
+    "name": "Raptor Territory Dedicated Server"
+  },
+  {
+    "appid": 1602470,
+    "name": "DOOMBRINGER Dedicated Server"
+  },
+  {
+    "appid": 1603250,
+    "name": "Cyberless: Online Server"
+  },
+  {
+    "appid": 1612490,
+    "name": "Insane Town Dedicated Server"
+  },
+  {
+    "appid": 1624070,
+    "name": "ArtemisheaServer"
   },
   {
     "appid": 1639880,
@@ -972,24 +1164,108 @@
     "name": "QANGA Dedicated Server"
   },
   {
+    "appid": 1653130,
+    "name": "Desperation Dedicated Server"
+  },
+  {
     "appid": 1664300,
     "name": "Animalia Survival Dedicated Server"
+  },
+  {
+    "appid": 1665030,
+    "name": "Nova-Life_GameServer"
   },
   {
     "appid": 1670340,
     "name": "Craftopia Dedicated Server"
   },
   {
+    "appid": 1680420,
+    "name": "Prehistoric Marine Monsters dedicated server"
+  },
+  {
+    "appid": 1686460,
+    "name": "nanos world Dedicated Server"
+  },
+  {
     "appid": 1690800,
     "name": "Satisfactory Dedicated Server"
+  },
+  {
+    "appid": 1696170,
+    "name": "Deadswitch 3 Multiplayer Server"
+  },
+  {
+    "appid": 1722130,
+    "name": "Birthright Dedicated Server"
+  },
+  {
+    "appid": 1736750,
+    "name": "Kingdom of Atham: Server"
+  },
+  {
+    "appid": 1750680,
+    "name": "Beryllium Dedicated Server"
+  },
+  {
+    "appid": 1757500,
+    "name": "Isles of Avalon Dedicated Server"
+  },
+  {
+    "appid": 1757540,
+    "name": "Axial Drift Dedicated Server"
   },
   {
     "appid": 1794810,
     "name": "Myth of Empires Dedicated Server"
   },
   {
+    "appid": 1801280,
+    "name": "SCP: CB Multiplayer Dedicated Server"
+  },
+  {
+    "appid": 1815810,
+    "name": "Turbo Sliders Unlimited Dedicated Server"
+  },
+  {
+    "appid": 1821720,
+    "name": "FallenSkyServer"
+  },
+  {
+    "appid": 1827320,
+    "name": "Isles of Yore Dedicated Server - Windows"
+  },
+  {
+    "appid": 1827330,
+    "name": "Isles of Yore Dedicated Server - Linux"
+  },
+  {
+    "appid": 1829350,
+    "name": "V Rising Dedicated Server"
+  },
+  {
+    "appid": 1830410,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1850780,
+    "name": "Powerjackers Dedicated Server"
+  },
+  {
+    "appid": 1863440,
+    "name": "Mount & Blade II: Dedicated Server"
+  },
+  {
+    "appid": 1865350,
+    "name": "Chunkers Server"
+  },
+  {
     "appid": 1874900,
     "name": "Arma Reforger Server"
+  },
+  {
+    "appid": 1875500,
+    "name": "Treason Dedicated Server"
   },
   {
     "appid": 1890870,
@@ -1000,8 +1276,36 @@
     "name": "s&box server"
   },
   {
+    "appid": 1899880,
+    "name": "BadlandsDedicatedServer"
+  },
+  {
+    "appid": 1899970,
+    "name": "BadlandsServerBeta"
+  },
+  {
+    "appid": 1900210,
+    "name": "LGS Dedicated Server"
+  },
+  {
+    "appid": 1911460,
+    "name": "Infinite Progression Dedicated Server"
+  },
+  {
     "appid": 1911970,
     "name": "OverShoot Battle Race [ Dedicated Server ]"
+  },
+  {
+    "appid": 1932270,
+    "name": "Condemned Dedicated Server"
+  },
+  {
+    "appid": 1936830,
+    "name": "nanos world™ Dedicated Server"
+  },
+  {
+    "appid": 1948160,
+    "name": "Euro Truck Simulator 2 Dedicated Server"
   },
   {
     "appid": 1956500,
@@ -1082,6 +1386,10 @@
   {
     "appid": 2214780,
     "name": "Dysterra Dedicated Server"
+  },
+  {
+    "appid": 2227360,
+    "name": "Plains of Pain (Dedicated Server)"
   },
   {
     "appid": 2232430,
@@ -1274,6 +1582,10 @@
   {
     "appid": 2981140,
     "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 2996130,
+    "name": "Deep Dark Forest Dedicated Server"
   },
   {
     "appid": 3017300,
