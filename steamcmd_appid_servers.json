@@ -1960,30 +1960,6 @@
     "name": "Radline + Dedicated Server (obsolete)"
   },
   {
-    "appid": 704980,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Master Arena Server"
-  },
-  {
-    "appid": 710560,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Ylands Dedicated Server"
-  },
-  {
-    "appid": 713970,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "The Simple Apocalypse Server"
-  },
-  {
     "appid": 723520,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -2080,68 +2056,12 @@
     "name": "Outpost Zero Dedicated Server"
   },
   {
-    "appid": 764860,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Jetball Dedicated Server"
-  },
-  {
-    "appid": 764940,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Fear the Night Server"
-  },
-  {
-    "appid": 768700,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "TOS - New Rank Booster for NA Servers"
-  },
-  {
-    "appid": 768701,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "TOS - New Rank Booster for EU Servers"
-  },
-  {
-    "appid": 768702,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "TOS - New Rank Booster for SEA Servers"
-  },
-  {
-    "appid": 768703,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "TOS - New Rank Booster for SA Servers"
-  },
-  {
     "appid": 770720,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Hunt: Showdown (Test Server)"
-  },
-  {
-    "appid": 774061,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "The Prison Game Dedicated Server Tool"
   },
   {
     "appid": 774771,
@@ -2182,38 +2102,6 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "TRAFICO - Battle Royale Test Server"
-  },
-  {
-    "appid": 801230,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Fog Of War - Free Edition Dedicated Server"
-  },
-  {
-    "appid": 805140,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "BATTALION: Legacy Dedicated Server"
-  },
-  {
-    "appid": 805210,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Undoing Dedicated Server Tool"
-  },
-  {
-    "appid": 808040,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Smalland: Survive the Wilds - Dedicated Server"
   },
   {
     "appid": 817300,
@@ -4830,6 +4718,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 2995110,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Endzeit League 20XX Playtest Server"
   },
   {
     "appid": 2996130,
