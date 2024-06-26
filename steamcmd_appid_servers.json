@@ -4856,6 +4856,14 @@
     "name": "Homestead Dedicated Server"
   },
   {
+    "appid": 2998560,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Caïssa Board Dedicated Server"
+  },
+  {
     "appid": 3017300,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
