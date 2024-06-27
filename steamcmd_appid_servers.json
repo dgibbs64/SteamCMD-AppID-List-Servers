@@ -3528,14 +3528,6 @@
     "name": "Craftopia Dedicated Server"
   },
   {
-    "appid": 1680420,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Prehistoric Marine Monsters dedicated server"
-  },
-  {
     "appid": 1686460,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4814,6 +4806,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Astro Colony Dedicated Server Linux"
+  },
+  {
+    "appid": 2943070,
+    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
+    "linux": false,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Desynced Dedicated Server"
   },
   {
     "appid": 2948910,
