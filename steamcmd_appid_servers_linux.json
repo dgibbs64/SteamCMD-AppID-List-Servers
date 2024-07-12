@@ -140,6 +140,10 @@
     "name": "Life is Feudal: Your Own Dedicated Server"
   },
   {
+    "appid": 329710,
+    "name": "Fortress Forever Dedicated Server"
+  },
+  {
     "appid": 332670,
     "name": "Project CARS - Dedicated Server"
   },
@@ -234,6 +238,10 @@
   {
     "appid": 439660,
     "name": "Tower Unite Dedicated Server"
+  },
+  {
+    "appid": 443030,
+    "name": "Conan Exiles Dedicated Server"
   },
   {
     "appid": 443050,
@@ -488,6 +496,10 @@
     "name": "Master Arena Server"
   },
   {
+    "appid": 710560,
+    "name": "Ylands Dedicated Server"
+  },
+  {
     "appid": 713970,
     "name": "The Simple Apocalypse Server"
   },
@@ -506,6 +518,10 @@
   {
     "appid": 739120,
     "name": "BattleRush Dedicated Server"
+  },
+  {
+    "appid": 739590,
+    "name": "Eco Server"
   },
   {
     "appid": 746200,
@@ -552,6 +568,10 @@
     "name": "BATTALION: Legacy Dedicated Server"
   },
   {
+    "appid": 808040,
+    "name": "Smalland: Survive the Wilds - Dedicated Server"
+  },
+  {
     "appid": 817300,
     "name": "Base Defense Dedicated Server"
   },
@@ -564,12 +584,20 @@
     "name": "Unfortunate Spacemen Dedicated Server"
   },
   {
+    "appid": 824360,
+    "name": "PixARK Dedicated Server"
+  },
+  {
     "appid": 839510,
     "name": "Scrunk Server"
   },
   {
     "appid": 844410,
     "name": "Triggered: Assault Dedicated Server"
+  },
+  {
+    "appid": 844650,
+    "name": "Squad 44 - Beta Dedicated Server"
   },
   {
     "appid": 848490,
@@ -594,6 +622,10 @@
   {
     "appid": 882430,
     "name": "Beasts of Bermuda Dedicated Server"
+  },
+  {
+    "appid": 884110,
+    "name": "SCP: 5K - Community Dedicated Server"
   },
   {
     "appid": 886440,
@@ -808,6 +840,10 @@
     "name": "Stormworks Dedicated Server"
   },
   {
+    "appid": 1275530,
+    "name": "DeadsideServer"
+  },
+  {
     "appid": 1277220,
     "name": "Deep Space Battle Simulator Dedicated Server"
   },
@@ -848,6 +884,10 @@
     "name": "Warfare 1944 Beta Dedicated Server"
   },
   {
+    "appid": 1316480,
+    "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
+  },
+  {
     "appid": 1348640,
     "name": "Frozen Flame - Dedicated Server"
   },
@@ -882,6 +922,10 @@
   {
     "appid": 1420480,
     "name": "TrickShot Demo Dedicated Server"
+  },
+  {
+    "appid": 1420710,
+    "name": "Night of the Dead Dedicated Server"
   },
   {
     "appid": 1424230,
@@ -952,6 +996,10 @@
     "name": "ArtemisheaServer"
   },
   {
+    "appid": 1639880,
+    "name": "Longvinter Dedicated Server"
+  },
+  {
     "appid": 1652070,
     "name": "QANGA Dedicated Server"
   },
@@ -966,6 +1014,10 @@
   {
     "appid": 1665030,
     "name": "Nova-Life_GameServer"
+  },
+  {
+    "appid": 1670340,
+    "name": "Craftopia Dedicated Server"
   },
   {
     "appid": 1686460,
@@ -1084,6 +1136,10 @@
     "name": "Draconia Dedicated Server"
   },
   {
+    "appid": 1963720,
+    "name": "Core Keeper Dedicated Server"
+  },
+  {
     "appid": 1964150,
     "name": "Perfect Heist 2 Dedicated Server"
   },
@@ -1164,6 +1220,10 @@
     "name": "SCP: Labrat Dedicated Server"
   },
   {
+    "appid": 2278520,
+    "name": "Enshrouded Dedicated Server"
+  },
+  {
     "appid": 2286480,
     "name": "Endless Survival Dedicated Server"
   },
@@ -1220,6 +1280,10 @@
     "name": "Lost Isle Dedicated Server"
   },
   {
+    "appid": 2430930,
+    "name": "ARK: Survival Ascended Dedicated Server"
+  },
+  {
     "appid": 2440790,
     "name": "DUOnline Server"
   },
@@ -1230,6 +1294,10 @@
   {
     "appid": 2515600,
     "name": "Your Journey of Survival Server"
+  },
+  {
+    "appid": 2533070,
+    "name": "TerraTech Worlds Dedicated Server"
   },
   {
     "appid": 2536350,
@@ -1270,6 +1338,10 @@
   {
     "appid": 2703580,
     "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
+  },
+  {
+    "appid": 2738040,
+    "name": "Silica Dedicated Server"
   },
   {
     "appid": 2809600,
@@ -1318,5 +1390,9 @@
   {
     "appid": 3017310,
     "name": "Soulmask Dedicated Server For Windows"
+  },
+  {
+    "appid": 3018310,
+    "name": "Obscurity: Unknown Threat Server"
   }
 ]
