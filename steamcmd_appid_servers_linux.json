@@ -812,16 +812,96 @@
     "name": "Task Force Elite Dedicated Server"
   },
   {
+    "appid": 1189160,
+    "name": "Re.Poly Server"
+  },
+  {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
+  },
+  {
+    "appid": 1247090,
+    "name": "Stormworks Dedicated Server"
+  },
+  {
     "appid": 1275530,
     "name": "DeadsideServer"
+  },
+  {
+    "appid": 1277220,
+    "name": "Deep Space Battle Simulator Dedicated Server"
+  },
+  {
+    "appid": 1279430,
+    "name": "Civil Dedicated Server"
+  },
+  {
+    "appid": 1280020,
+    "name": "Survived - Dedicated Server"
+  },
+  {
+    "appid": 1292030,
+    "name": "Retail Royale Server"
+  },
+  {
+    "appid": 1292350,
+    "name": "pla_toon Dedicated Server"
+  },
+  {
+    "appid": 1301040,
+    "name": "Mod and Play Dedicated Server"
+  },
+  {
+    "appid": 1303430,
+    "name": "Gemini: Binary Conflict Dedicated Server"
+  },
+  {
+    "appid": 1307050,
+    "name": "Spoils of Plunder dedicated server"
+  },
+  {
+    "appid": 1315990,
+    "name": "Blackstorm - Dedicated Server"
+  },
+  {
+    "appid": 1316470,
+    "name": "Warfare 1944 Beta Dedicated Server"
   },
   {
     "appid": 1316480,
     "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
   },
   {
+    "appid": 1348640,
+    "name": "Frozen Flame - Dedicated Server"
+  },
+  {
     "appid": 1362540,
     "name": "Battle Cry of Freedom - Dedicated Server"
+  },
+  {
+    "appid": 1377020,
+    "name": "Sanctuary Island dedicated server"
+  },
+  {
+    "appid": 1380950,
+    "name": "Fadeout Dedicated Server"
   },
   {
     "appid": 1404690,
@@ -914,10 +994,6 @@
   {
     "appid": 1624070,
     "name": "ArtemisheaServer"
-  },
-  {
-    "appid": 1639880,
-    "name": "Longvinter Dedicated Server"
   },
   {
     "appid": 1652070,
@@ -1116,10 +1192,6 @@
     "name": "kraserServer"
   },
   {
-    "appid": 2208380,
-    "name": "DeadPoly Dedicated Server"
-  },
-  {
     "appid": 2227360,
     "name": "Plains of Pain (Dedicated Server)"
   },
@@ -1212,12 +1284,76 @@
     "name": "Sons Of The Forest Dedicated Server"
   },
   {
+    "appid": 2515600,
+    "name": "Your Journey of Survival Server"
+  },
+  {
     "appid": 2533070,
     "name": "TerraTech Worlds Dedicated Server"
   },
   {
     "appid": 2536350,
     "name": "ZSGO Dedicated Server"
+  },
+  {
+    "appid": 2570570,
+    "name": "NOVAKIN Mark0 Dedicated Server"
+  },
+  {
+    "appid": 2577840,
+    "name": "Athos Dedicated Server"
+  },
+  {
+    "appid": 2580320,
+    "name": "Project Amaranth Dedicated Server"
+  },
+  {
+    "appid": 2612550,
+    "name": "The Front Dedicated Server"
+  },
+  {
+    "appid": 2636050,
+    "name": "Bloodbound Dedicated Server"
+  },
+  {
+    "appid": 2662210,
+    "name": "Astro Colony Dedicated Server"
+  },
+  {
+    "appid": 2684970,
+    "name": "炭熄 dedicate server"
+  },
+  {
+    "appid": 2690320,
+    "name": "DUCKSIDE Server"
+  },
+  {
+    "appid": 2703580,
+    "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
+  },
+  {
+    "appid": 2738040,
+    "name": "Silica Dedicated Server"
+  },
+  {
+    "appid": 2809600,
+    "name": "SlimChanceServer"
+  },
+  {
+    "appid": 2823750,
+    "name": "Wild Omission Dedicated Server"
+  },
+  {
+    "appid": 2833050,
+    "name": "No Love Lost Dedicated Server"
+  },
+  {
+    "appid": 2842470,
+    "name": "Project Ethereal - Dedicated Server Toolbox"
+  },
+  {
+    "appid": 2849410,
+    "name": "Dragons Legacy - Dedicated Server"
   },
   {
     "appid": 2886350,
@@ -1228,11 +1364,27 @@
     "name": "FOUNDRY: Dedicated Server"
   },
   {
+    "appid": 2934900,
+    "name": "Astro Colony Dedicated Server Linux"
+  },
+  {
+    "appid": 2981140,
+    "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 2998560,
+    "name": "Caïssa Board Dedicated Server"
+  },
+  {
     "appid": 3017300,
     "name": "Soulmask Dedicated Server For Linux"
   },
   {
     "appid": 3017310,
     "name": "Soulmask Dedicated Server For Windows"
+  },
+  {
+    "appid": 3018310,
+    "name": "Obscurity: Unknown Threat Server"
   }
 ]
