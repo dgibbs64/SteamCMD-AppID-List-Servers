@@ -632,6 +632,14 @@
     "name": "Red Orchestra Linux Dedicated Server"
   },
   {
+    "appid": 223350,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "DayZ Server"
+  },
+  {
     "appid": 224620,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -3464,6 +3472,14 @@
     "name": "ArtemisheaServer"
   },
   {
+    "appid": 1639880,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Longvinter Dedicated Server"
+  },
+  {
     "appid": 1652070,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3920,6 +3936,14 @@
     "name": "nanos world™ Dedicated Server"
   },
   {
+    "appid": 1940990,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Ironsight Test Server"
+  },
+  {
     "appid": 1948160,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4166,6 +4190,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "kraserServer"
+  },
+  {
+    "appid": 2208380,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "DeadPoly Dedicated Server"
   },
   {
     "appid": 2214780,
