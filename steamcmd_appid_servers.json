@@ -96,14 +96,6 @@
     "name": "Killing Floor Beta Dedicated Server"
   },
   {
-    "appid": 1290,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Darkest Hour: Europe '44-'45 Dedicated Server"
-  },
-  {
     "appid": 2145,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -286,14 +278,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Eternal Silence Dedicated Server"
-  },
-  {
-    "appid": 17575,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Pirates, Vikings, and Knights II Dedicated Server"
   },
   {
     "appid": 17585,
@@ -920,14 +904,6 @@
     "name": "BlazeRush Dedicated Server"
   },
   {
-    "appid": 336400,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "PCE Dedicated Server"
-  },
-  {
     "appid": 339010,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -1224,14 +1200,6 @@
     "name": "Formicide Dedicated Server"
   },
   {
-    "appid": 460040,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Empires Dedicated Server"
-  },
-  {
     "appid": 460300,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -1326,14 +1294,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "BrainBread 2 Dedicated Server"
-  },
-  {
-    "appid": 476400,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "GROUND BRANCH Dedicated Server"
   },
   {
     "appid": 485250,
@@ -1800,14 +1760,6 @@
     "name": "RutonyChat - Restream Server"
   },
   {
-    "appid": 660470,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Invalid Platform,Permanent,)",
-    "windows": false,
-    "name": "Dedicated Server"
-  },
-  {
     "appid": 667230,
     "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
     "linux": false,
@@ -1822,14 +1774,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Hanako: Honor & Blade Dedicated Server"
-  },
-  {
-    "appid": 673990,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "IOSoccer Dedicated Server"
   },
   {
     "appid": 677100,
@@ -2016,14 +1960,6 @@
     "name": "BattleRush Dedicated Server"
   },
   {
-    "appid": 739590,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Eco Server"
-  },
-  {
     "appid": 745640,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -2206,14 +2142,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Undoing Dedicated Server Tool"
-  },
-  {
-    "appid": 808040,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Smalland: Survive the Wilds - Dedicated Server"
   },
   {
     "appid": 817300,
@@ -2432,14 +2360,6 @@
     "name": "BattleRush 2 Dedicated Server"
   },
   {
-    "appid": 920720,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Last Oasis - Dedicated Server"
-  },
-  {
     "appid": 928530,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -2622,14 +2542,6 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "九劫曲:诅咒之地 Nine Trials Test Server"
-  },
-  {
-    "appid": 1017070,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Vanguard: Normandy 1944 Dedicated Server"
   },
   {
     "appid": 1023620,
@@ -2864,14 +2776,6 @@
     "name": "Warfork Dedicated Server"
   },
   {
-    "appid": 1141420,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Rem Survival Dedicated Server"
-  },
-  {
     "appid": 1169370,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -3094,14 +2998,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Warfare 1944 Beta Dedicated Server"
-  },
-  {
-    "appid": 1316480,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Operation: Harsh Doorstop - Developer Build Dedicated Server"
   },
   {
     "appid": 1336240,
@@ -4224,14 +4120,6 @@
     "name": "Motor Town: Behind The Wheel - Dedicated Server"
   },
   {
-    "appid": 2227360,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Plains of Pain (Dedicated Server)"
-  },
-  {
     "appid": 2231330,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4512,14 +4400,6 @@
     "name": "Undead Outpost Dedicated Server"
   },
   {
-    "appid": 2465200,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Sons Of The Forest Dedicated Server"
-  },
-  {
     "appid": 2515600,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4558,14 +4438,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "NOVAKIN Mark0 Dedicated Server"
-  },
-  {
-    "appid": 2577840,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Athos Dedicated Server"
   },
   {
     "appid": 2580320,
