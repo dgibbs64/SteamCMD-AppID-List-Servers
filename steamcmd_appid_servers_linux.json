@@ -1004,12 +1004,32 @@
     "name": "QANGA Dedicated Server"
   },
   {
+    "appid": 1653130,
+    "name": "Desperation Dedicated Server"
+  },
+  {
+    "appid": 1664300,
+    "name": "Animalia Survival Dedicated Server"
+  },
+  {
+    "appid": 1665030,
+    "name": "Nova-Life_GameServer"
+  },
+  {
     "appid": 1670340,
     "name": "Craftopia Dedicated Server"
   },
   {
+    "appid": 1686460,
+    "name": "nanos world Dedicated Server"
+  },
+  {
     "appid": 1690800,
     "name": "Satisfactory Dedicated Server"
+  },
+  {
+    "appid": 1696170,
+    "name": "Deadswitch 3 Multiplayer Server"
   },
   {
     "appid": 1722130,
@@ -1032,12 +1052,36 @@
     "name": "Turbo Sliders Unlimited Dedicated Server"
   },
   {
+    "appid": 1827320,
+    "name": "Isles of Yore Dedicated Server - Windows"
+  },
+  {
+    "appid": 1827330,
+    "name": "Isles of Yore Dedicated Server - Linux"
+  },
+  {
+    "appid": 1829350,
+    "name": "V Rising Dedicated Server"
+  },
+  {
+    "appid": 1830410,
+    "name": "Dedicated Server"
+  },
+  {
     "appid": 1850430,
     "name": "Outerstellar Server"
   },
   {
     "appid": 1850780,
     "name": "Powerjackers Dedicated Server"
+  },
+  {
+    "appid": 1863440,
+    "name": "Mount & Blade II: Dedicated Server"
+  },
+  {
+    "appid": 1865350,
+    "name": "Chunkers Server"
   },
   {
     "appid": 1874900,
@@ -1050,6 +1094,42 @@
   {
     "appid": 1892930,
     "name": "s&box server"
+  },
+  {
+    "appid": 1899880,
+    "name": "BadlandsDedicatedServer"
+  },
+  {
+    "appid": 1899970,
+    "name": "BadlandsServerBeta"
+  },
+  {
+    "appid": 1900210,
+    "name": "LGS Dedicated Server"
+  },
+  {
+    "appid": 1911460,
+    "name": "Infinite Progression Dedicated Server"
+  },
+  {
+    "appid": 1911970,
+    "name": "OverShoot Battle Race [ Dedicated Server ]"
+  },
+  {
+    "appid": 1932270,
+    "name": "Condemned Dedicated Server"
+  },
+  {
+    "appid": 1936830,
+    "name": "nanos world™ Dedicated Server"
+  },
+  {
+    "appid": 1948160,
+    "name": "Euro Truck Simulator 2 Dedicated Server"
+  },
+  {
+    "appid": 1948990,
+    "name": "Snapshot VR Dedicated Server"
   },
   {
     "appid": 1956500,
@@ -1066,6 +1146,10 @@
   {
     "appid": 1978930,
     "name": "Project Speed 2 Dedicated Server"
+  },
+  {
+    "appid": 1992220,
+    "name": "Escape from Polykov - Dedicated Server"
   },
   {
     "appid": 2058450,
@@ -1100,12 +1184,84 @@
     "name": "Re-Spawn Tournament Dedicated Server"
   },
   {
+    "appid": 2181210,
+    "name": "JBMod Dedicated Server"
+  },
+  {
+    "appid": 2192940,
+    "name": "Coronation Dedicated Server"
+  },
+  {
+    "appid": 2200460,
+    "name": "kraserServer"
+  },
+  {
+    "appid": 2208380,
+    "name": "DeadPoly Dedicated Server"
+  },
+  {
+    "appid": 2227360,
+    "name": "Plains of Pain (Dedicated Server)"
+  },
+  {
+    "appid": 2232430,
+    "name": "Geoterra Dedicated Server"
+  },
+  {
+    "appid": 2239530,
+    "name": "American Truck Simulator Dedicated Server"
+  },
+  {
+    "appid": 2260500,
+    "name": "VSDedicatedServer"
+  },
+  {
+    "appid": 2261800,
+    "name": "SCP: Labrat Dedicated Server"
+  },
+  {
     "appid": 2278520,
     "name": "Enshrouded Dedicated Server"
   },
   {
+    "appid": 2286480,
+    "name": "Endless Survival Dedicated Server"
+  },
+  {
+    "appid": 2292470,
+    "name": "Rock Hoppers Dedicated Server"
+  },
+  {
+    "appid": 2293960,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 2306520,
+    "name": "STRIKE ZOMBIE - Dedicated Server"
+  },
+  {
+    "appid": 2311970,
+    "name": "Totally Accurate Battlegrounds Dedicated Server"
+  },
+  {
     "appid": 2320610,
     "name": "Nienix Dedicated Server"
+  },
+  {
+    "appid": 2329680,
+    "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
+    "appid": 2334200,
+    "name": "The Front Linux Dedicated Server"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
+  },
+  {
+    "appid": 2353090,
+    "name": "NEBULOUS Dedicated Server"
   },
   {
     "appid": 2392470,
@@ -1146,6 +1302,10 @@
   {
     "appid": 2536350,
     "name": "ZSGO Dedicated Server"
+  },
+  {
+    "appid": 2570570,
+    "name": "NOVAKIN Mark0 Dedicated Server"
   },
   {
     "appid": 2577840,
@@ -1196,8 +1356,32 @@
     "name": "No Love Lost Dedicated Server"
   },
   {
+    "appid": 2842470,
+    "name": "Project Ethereal - Dedicated Server Toolbox"
+  },
+  {
+    "appid": 2849410,
+    "name": "Dragons Legacy - Dedicated Server"
+  },
+  {
+    "appid": 2886350,
+    "name": "Sapiens Dedicated Server"
+  },
+  {
     "appid": 2915550,
     "name": "FOUNDRY: Dedicated Server"
+  },
+  {
+    "appid": 2934900,
+    "name": "Astro Colony Dedicated Server Linux"
+  },
+  {
+    "appid": 2981140,
+    "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 2998560,
+    "name": "Caïssa Board Dedicated Server"
   },
   {
     "appid": 3017300,
@@ -1206,5 +1390,9 @@
   {
     "appid": 3017310,
     "name": "Soulmask Dedicated Server For Windows"
+  },
+  {
+    "appid": 3018310,
+    "name": "Obscurity: Unknown Threat Server"
   }
 ]
