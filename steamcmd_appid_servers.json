@@ -1736,6 +1736,14 @@
     "name": "Pavlov VR Dedicated Server"
   },
   {
+    "appid": 623990,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Tom Clancy's Rainbow Six Siege - Test Server"
+  },
+  {
     "appid": 628300,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -2102,6 +2110,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "TOS - New Rank Booster for SA Servers"
+  },
+  {
+    "appid": 770720,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Hunt: Showdown 1896 (Test Server)"
   },
   {
     "appid": 774061,
@@ -2622,14 +2638,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Fragsurf Dedicated Server"
-  },
-  {
-    "appid": 1041160,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Observers"
   },
   {
     "appid": 1041860,
@@ -4752,6 +4760,14 @@
     "name": "FOUNDRY: Dedicated Server"
   },
   {
+    "appid": 2915930,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Knockout City - Private Server Edition"
+  },
+  {
     "appid": 2917780,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4822,6 +4838,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Homestead Dedicated Server"
+  },
+  {
+    "appid": 2998560,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Caïssa Board Dedicated Server"
   },
   {
     "appid": 3017300,
