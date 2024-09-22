@@ -56,6 +56,46 @@
     "name": "America's Army: Proving Grounds Dedicated Server"
   },
   {
+    "appid": 220070,
+    "name": "Chivalry: Medieval Warfare Dedicated Server"
+  },
+  {
+    "appid": 222860,
+    "name": "Left 4 Dead 2 Dedicated Server"
+  },
+  {
+    "appid": 227050,
+    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server"
+  },
+  {
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server"
+  },
+  {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server"
+  },
+  {
+    "appid": 232250,
+    "name": "Team Fortress 2 Dedicated Server"
+  },
+  {
+    "appid": 232330,
+    "name": "Counter-Strike: Source Dedicated Server"
+  },
+  {
+    "appid": 237410,
+    "name": "Insurgency Dedicated Server"
+  },
+  {
+    "appid": 238690,
+    "name": "Rising Storm Beta Dedicated Server"
+  },
+  {
+    "appid": 244310,
+    "name": "Source SDK Base 2013 Dedicated Server"
+  },
+  {
     "appid": 255470,
     "name": "Half-Life Deathmatch: Source Dedicated server"
   },
@@ -372,6 +412,10 @@
     "name": "The Archotek Project Dedicated Server"
   },
   {
+    "appid": 621240,
+    "name": "Galaxy in Turmoil Dedicated Server"
+  },
+  {
     "appid": 622970,
     "name": "Pavlov VR Dedicated Server"
   },
@@ -388,12 +432,64 @@
     "name": "Stars End - Dedicated Server"
   },
   {
+    "appid": 638100,
+    "name": "Kreedz Climbing Dedicated Server"
+  },
+  {
+    "appid": 638500,
+    "name": "Soldat Dedicated Server"
+  },
+  {
+    "appid": 643090,
+    "name": "Them's Fightin' Herds Dedicated Server"
+  },
+  {
     "appid": 660470,
     "name": "Dedicated Server"
   },
   {
     "appid": 668390,
     "name": "Hanako: Honor & Blade Dedicated Server"
+  },
+  {
+    "appid": 673990,
+    "name": "IOSoccer Dedicated Server"
+  },
+  {
+    "appid": 677100,
+    "name": "Valnir Rok Dedicated Server"
+  },
+  {
+    "appid": 679600,
+    "name": "Pantropy dedicated server"
+  },
+  {
+    "appid": 680020,
+    "name": "Wasteworld Server"
+  },
+  {
+    "appid": 680870,
+    "name": "Airmen Dedicated Server"
+  },
+  {
+    "appid": 685100,
+    "name": "Crafting Dead Dedicated Server"
+  },
+  {
+    "appid": 689410,
+    "name": "BattleBitDedicatedGameServer"
+  },
+  {
+    "appid": 689780,
+    "name": "Murderous Pursuits Dedicated Server"
+  },
+  {
+    "appid": 696120,
+    "name": "GearStorm Dedicated Server"
+  },
+  {
+    "appid": 696640,
+    "name": "Radline + Dedicated Server (obsolete)"
   },
   {
     "appid": 704980,
@@ -718,6 +814,30 @@
   {
     "appid": 1189160,
     "name": "Re.Poly Server"
+  },
+  {
+    "appid": 1203110,
+    "name": "BadLads Dedicated Server"
+  },
+  {
+    "appid": 1204170,
+    "name": "Onset Dedicated Server"
+  },
+  {
+    "appid": 1215190,
+    "name": "Warfare 1944 Dedicated Server"
+  },
+  {
+    "appid": 1222650,
+    "name": "Space Impossible Dedicated Server"
+  },
+  {
+    "appid": 1223310,
+    "name": "SRX Dedicated Server"
+  },
+  {
+    "appid": 1247090,
+    "name": "Stormworks Dedicated Server"
   },
   {
     "appid": 1275530,
@@ -1236,16 +1356,8 @@
     "name": "ANEURISM IV Dedicated Server"
   },
   {
-    "appid": 2833050,
-    "name": "No Love Lost Dedicated Server"
-  },
-  {
     "appid": 2842470,
     "name": "Project Ethereal - Dedicated Server Toolbox"
-  },
-  {
-    "appid": 2849410,
-    "name": "Dragons Legacy - Dedicated Server"
   },
   {
     "appid": 2886350,
