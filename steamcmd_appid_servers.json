@@ -4720,12 +4720,36 @@
     "name": "ANEURISM IV Dedicated Server"
   },
   {
+    "appid": 2833050,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "No Love Lost Dedicated Server"
+  },
+  {
+    "appid": 2834640,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Paintball Playground Dedicated Server"
+  },
+  {
     "appid": 2842470,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Project Ethereal - Dedicated Server Toolbox"
+  },
+  {
+    "appid": 2849410,
+    "subscriptionlinux": "released (Subscribed,Permanent,)",
+    "linux": true,
+    "subscriptionwindows": "released (Subscribed,Permanent,)",
+    "windows": true,
+    "name": "Dragons Legacy - Dedicated Server"
   },
   {
     "appid": 2857200,
@@ -4798,6 +4822,14 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "Desynced Dedicated Server"
+  },
+  {
+    "appid": 2948910,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "CAMPS Server"
   },
   {
     "appid": 2981140,
