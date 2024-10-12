@@ -200,6 +200,10 @@
     "name": "Rising World Dedicated Server"
   },
   {
+    "appid": 346680,
+    "name": "Black Mesa Dedicated Server"
+  },
+  {
     "appid": 354060,
     "name": "RaceRoom Dedicated Server"
   },
@@ -1504,12 +1508,40 @@
     "name": "Dead Matter Dedicated Server"
   },
   {
+    "appid": 2612550,
+    "name": "The Front Dedicated Server"
+  },
+  {
+    "appid": 2636050,
+    "name": "Bloodbound Dedicated Server"
+  },
+  {
+    "appid": 2662210,
+    "name": "Astro Colony Dedicated Server"
+  },
+  {
+    "appid": 2667530,
+    "name": "Sunkenland Dedicated Server"
+  },
+  {
     "appid": 2684970,
     "name": "炭熄 dedicate server"
   },
   {
     "appid": 2690320,
     "name": "DUCKSIDE Server"
+  },
+  {
+    "appid": 2703580,
+    "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
+  },
+  {
+    "appid": 2715080,
+    "name": "Native Hunter Dedicated Server"
+  },
+  {
+    "appid": 2738040,
+    "name": "Silica Dedicated Server"
   },
   {
     "appid": 2809600,
@@ -1578,5 +1610,13 @@
   {
     "appid": 3018310,
     "name": "Obscurity: Unknown Threat Server"
+  },
+  {
+    "appid": 3267730,
+    "name": "Linux Dedicated Server Files"
+  },
+  {
+    "appid": 3267740,
+    "name": "Windows Dedicated Server Files"
   }
 ]
