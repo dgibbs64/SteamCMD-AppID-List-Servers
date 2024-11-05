@@ -1104,10 +1104,6 @@
     "name": "SCP: Escape Together Dedicated Server"
   },
   {
-    "appid": 1460560,
-    "name": "Unclear Dedicated Server"
-  },
-  {
     "appid": 1475910,
     "name": "DIY Simulator Dedicated Server"
   },
@@ -1614,17 +1610,5 @@
   {
     "appid": 3018310,
     "name": "Obscurity: Unknown Threat Server"
-  },
-  {
-    "appid": 3267730,
-    "name": "Linux Dedicated Server Files"
-  },
-  {
-    "appid": 3267740,
-    "name": "Windows Dedicated Server Files"
-  },
-  {
-    "appid": 3314160,
-    "name": "Dedicated Server (Linux)"
   }
 ]
