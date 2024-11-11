@@ -1324,8 +1324,24 @@
     "name": "The Front Dedicated Server"
   },
   {
+    "appid": 2636050,
+    "name": "Bloodbound Dedicated Server"
+  },
+  {
+    "appid": 2662210,
+    "name": "Astro Colony Dedicated Server"
+  },
+  {
+    "appid": 2684970,
+    "name": "炭熄 dedicate server"
+  },
+  {
     "appid": 2690320,
     "name": "DUCKSIDE Server"
+  },
+  {
+    "appid": 2703580,
+    "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
   },
   {
     "appid": 2738040,
@@ -1390,6 +1406,14 @@
   {
     "appid": 3145770,
     "name": "Ruins To Fortress Dedicated Server"
+  },
+  {
+    "appid": 3267730,
+    "name": "Linux Dedicated Server Files"
+  },
+  {
+    "appid": 3267740,
+    "name": "Windows Dedicated Server Files"
   },
   {
     "appid": 3314160,
