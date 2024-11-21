@@ -56,8 +56,76 @@
     "name": "America's Army: Proving Grounds Dedicated Server"
   },
   {
+    "appid": 220070,
+    "name": "Chivalry: Medieval Warfare Dedicated Server"
+  },
+  {
+    "appid": 222860,
+    "name": "Left 4 Dead 2 Dedicated Server"
+  },
+  {
+    "appid": 227050,
+    "name": "Left 4 Dead 2 Beta - Linux Dedicated Server"
+  },
+  {
+    "appid": 228780,
+    "name": "Blade Symphony Dedicated Server"
+  },
+  {
+    "appid": 232130,
+    "name": "Killing Floor 2 - Dedicated Server"
+  },
+  {
+    "appid": 232250,
+    "name": "Team Fortress 2 Dedicated Server"
+  },
+  {
+    "appid": 232330,
+    "name": "Counter-Strike: Source Dedicated Server"
+  },
+  {
+    "appid": 237410,
+    "name": "Insurgency Dedicated Server"
+  },
+  {
+    "appid": 238690,
+    "name": "Rising Storm Beta Dedicated Server"
+  },
+  {
+    "appid": 244310,
+    "name": "Source SDK Base 2013 Dedicated Server"
+  },
+  {
+    "appid": 255470,
+    "name": "Half-Life Deathmatch: Source Dedicated server"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 273530,
+    "name": "Centration Dedicated Server"
+  },
+  {
+    "appid": 276060,
+    "name": "Sven Co-op Dedicated Server"
+  },
+  {
+    "appid": 293030,
+    "name": "Contagion Dedicated Server"
+  },
+  {
     "appid": 294420,
     "name": "7 Days to Die Dedicated Server"
+  },
+  {
+    "appid": 295230,
+    "name": "Fistful of Frags Dedicated Server"
+  },
+  {
+    "appid": 298740,
+    "name": "Space Engineers Dedicated Server"
   },
   {
     "appid": 1000090,
@@ -130,6 +198,38 @@
   {
     "appid": 1088320,
     "name": "Day of Dragons - Dedicated Server"
+  },
+  {
+    "appid": 1098260,
+    "name": "Creativerse Dedicated Server"
+  },
+  {
+    "appid": 1099850,
+    "name": "Karl BOOM Dedicated Server"
+  },
+  {
+    "appid": 1110390,
+    "name": "Unturned Dedicated Server"
+  },
+  {
+    "appid": 1118810,
+    "name": "Midnight Ghost Hunt Dedicated Server"
+  },
+  {
+    "appid": 1129070,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1136190,
+    "name": "Military Conflict: Vietnam Dedicated Server"
+  },
+  {
+    "appid": 1136460,
+    "name": "Without A Roof (W.A.R.) Dedicated Server"
+  },
+  {
+    "appid": 1136510,
+    "name": "Warfork Dedicated Server"
   },
   {
     "appid": 1169370,
@@ -242,6 +342,66 @@
   {
     "appid": 1413700,
     "name": "TrickShot Dedicated Server"
+  },
+  {
+    "appid": 1418640,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1420480,
+    "name": "TrickShot Demo Dedicated Server"
+  },
+  {
+    "appid": 1420710,
+    "name": "Night of the Dead Dedicated Server"
+  },
+  {
+    "appid": 1424230,
+    "name": "Holdfast: Nations At War - Dedicated Server"
+  },
+  {
+    "appid": 1427490,
+    "name": "ExoCorps Dedicated Server"
+  },
+  {
+    "appid": 1433270,
+    "name": "SCP: Escape Together Dedicated Server"
+  },
+  {
+    "appid": 1460560,
+    "name": "Unclear Dedicated Server"
+  },
+  {
+    "appid": 1475910,
+    "name": "DIY Simulator Dedicated Server"
+  },
+  {
+    "appid": 1479670,
+    "name": "Zero-based World Dedicated Server"
+  },
+  {
+    "appid": 1480080,
+    "name": "Notruf 112 - 2 Dedicated Server"
+  },
+  {
+    "appid": 1481590,
+    "name": "Zero-based World Dedicated Server Alpha"
+  },
+  {
+    "appid": 1502300,
+    "name": " Survive the Nights Dedicated Server"
+  },
+  {
+    "appid": 1503660,
+    "name": "Dedicated Server"
+  },
+  {
+    "appid": 1534710,
+    "name": "SCP: Breakout Dedicated Server"
+  },
+  {
+    "appid": 1549820,
+    "name": "Modiverse Linux Dedicated Server"
   },
   {
     "appid": 1573820,
@@ -452,6 +612,26 @@
     "name": "Wrangel Island Playtest - Dedicated Server"
   },
   {
+    "appid": 2160300,
+    "name": "Re-Spawn Tournament Dedicated Server"
+  },
+  {
+    "appid": 2181210,
+    "name": "JBMod Dedicated Server"
+  },
+  {
+    "appid": 2192940,
+    "name": "Coronation Dedicated Server"
+  },
+  {
+    "appid": 2200460,
+    "name": "kraserServer"
+  },
+  {
+    "appid": 2208380,
+    "name": "DeadPoly Dedicated Server"
+  },
+  {
     "appid": 2227360,
     "name": "Plains of Pain (Dedicated Server)"
   },
@@ -544,6 +724,10 @@
     "name": "Sons Of The Forest Dedicated Server"
   },
   {
+    "appid": 2515600,
+    "name": "Your Journey of Survival Server"
+  },
+  {
     "appid": 2533070,
     "name": "TerraTech Worlds Dedicated Server"
   },
@@ -570,6 +754,10 @@
   {
     "appid": 2636050,
     "name": "Bloodbound Dedicated Server"
+  },
+  {
+    "appid": 2662210,
+    "name": "Astro Colony Dedicated Server"
   },
   {
     "appid": 2684970,
@@ -630,6 +818,22 @@
   {
     "appid": 2998560,
     "name": "Caïssa Board Dedicated Server"
+  },
+  {
+    "appid": 3017300,
+    "name": "Soulmask Dedicated Server For Linux"
+  },
+  {
+    "appid": 3017310,
+    "name": "Soulmask Dedicated Server For Windows"
+  },
+  {
+    "appid": 3018310,
+    "name": "Obscurity: Unknown Threat Server"
+  },
+  {
+    "appid": 3145770,
+    "name": "Ruins To Fortress Dedicated Server"
   },
   {
     "appid": 3267730,
