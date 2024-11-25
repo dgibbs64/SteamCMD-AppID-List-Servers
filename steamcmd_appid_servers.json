@@ -896,14 +896,6 @@
     "name": "SNOW Dedicated Server"
   },
   {
-    "appid": 329710,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Fortress Forever Dedicated Server"
-  },
-  {
     "appid": 332670,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -1056,14 +1048,6 @@
     "name": "Savage Resurrection Dedicated Server"
   },
   {
-    "appid": 402370,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Wurm Unlimited Dedicated Server"
-  },
-  {
     "appid": 403240,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -1072,36 +1056,12 @@
     "name": "Squad Dedicated Server"
   },
   {
-    "appid": 405100,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Hurtworld Dedicated Server"
-  },
-  {
-    "appid": 407480,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Angels Fall First Dedicated Server"
-  },
-  {
     "appid": 412680,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "The Isle Dedicated Server"
-  },
-  {
-    "appid": 413770,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Project CARS 2 - Dedicated Server"
   },
   {
     "appid": 414570,
@@ -1144,22 +1104,6 @@
     "name": "Blackwake Dedicated Server"
   },
   {
-    "appid": 426660,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Robot Roller-Derby Disco Dodgeball Dedicated Server"
-  },
-  {
-    "appid": 429400,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Warhammer 40,000: Dark Nexus Arena Dedicated Server"
-  },
-  {
     "appid": 439660,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -1168,28 +1112,12 @@
     "name": "Tower Unite Dedicated Server"
   },
   {
-    "appid": 439700,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "H1Z1: Test Server"
-  },
-  {
     "appid": 443030,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Conan Exiles Dedicated Server"
-  },
-  {
-    "appid": 443050,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "The Ship: Remasted Dedicated Server"
   },
   {
     "appid": 447760,
@@ -2184,116 +2112,12 @@
     "name": "FTR Windows Server"
   },
   {
-    "appid": 777180,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Game Server Toolbox"
-  },
-  {
-    "appid": 779350,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "TRAFICO - Battle Royale Test Server"
-  },
-  {
-    "appid": 801230,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Fog Of War - Free Edition Dedicated Server"
-  },
-  {
-    "appid": 805140,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "BATTALION: Legacy Dedicated Server"
-  },
-  {
-    "appid": 805210,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Undoing Dedicated Server Tool"
-  },
-  {
     "appid": 808040,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Smalland: Survive the Wilds - Dedicated Server"
-  },
-  {
-    "appid": 817300,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Base Defense Dedicated Server"
-  },
-  {
-    "appid": 823850,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "DARCO - Reign of Elements - Dedicated Server"
-  },
-  {
-    "appid": 824240,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Unfortunate Spacemen Dedicated Server"
-  },
-  {
-    "appid": 824360,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "PixARK Dedicated Server"
-  },
-  {
-    "appid": 839510,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Scrunk Server"
-  },
-  {
-    "appid": 842840,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Granado Espada: NA Server Founder's Pack - Light"
-  },
-  {
-    "appid": 842841,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Granado Espada: NA Server Founder's Pack - Premium"
-  },
-  {
-    "appid": 844410,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Triggered: Assault Dedicated Server"
   },
   {
     "appid": 844650,
@@ -2928,62 +2752,6 @@
     "name": "Re.Poly Server"
   },
   {
-    "appid": 1200740,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "LoginToShootingRangeInServer00 VR"
-  },
-  {
-    "appid": 1203110,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "BadLads Dedicated Server"
-  },
-  {
-    "appid": 1204170,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Onset Dedicated Server"
-  },
-  {
-    "appid": 1207110,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": " GROUND BRANCH CTE Dedicated Server"
-  },
-  {
-    "appid": 1215190,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Warfare 1944 Dedicated Server"
-  },
-  {
-    "appid": 1222650,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Space Impossible Dedicated Server"
-  },
-  {
-    "appid": 1223310,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "SRX Dedicated Server"
-  },
-  {
     "appid": 1231430,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -3350,14 +3118,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "DIY Simulator Dedicated Server"
-  },
-  {
-    "appid": 1479670,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Zero-based World Dedicated Server"
   },
   {
     "appid": 1480080,
@@ -4520,30 +4280,6 @@
     "name": "ARK: Survival Ascended Dedicated Server"
   },
   {
-    "appid": 2440790,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "DUOnline Server"
-  },
-  {
-    "appid": 2454010,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Semicolon Island Dedicated Server"
-  },
-  {
-    "appid": 2454130,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Undead Outpost Dedicated Server"
-  },
-  {
     "appid": 2465200,
     "subscriptionlinux": "released (Subscribed,Permanent,)",
     "linux": true,
@@ -4566,14 +4302,6 @@
     "subscriptionwindows": "released (Subscribed,Permanent,)",
     "windows": true,
     "name": "TerraTech Worlds Dedicated Server"
-  },
-  {
-    "appid": 2536350,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "ZSGO Dedicated Server"
   },
   {
     "appid": 2560920,
@@ -4784,14 +4512,6 @@
     "name": "Abiotic Factor Dedicated Server"
   },
   {
-    "appid": 2886350,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Sapiens Dedicated Server"
-  },
-  {
     "appid": 2915100,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4872,14 +4592,6 @@
     "name": "Endzeit League 20XX Playtest Server"
   },
   {
-    "appid": 2996130,
-    "subscriptionlinux": "released (Subscribed,Invalid Platform,Permanent,)",
-    "linux": false,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Deep Dark Forest Dedicated Server"
-  },
-  {
     "appid": 2997810,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4934,45 +4646,5 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Neon Fever Dedicated Server"
-  },
-  {
-    "appid": 3267730,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Linux Dedicated Server Files"
-  },
-  {
-    "appid": 3267740,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Windows Dedicated Server Files"
-  },
-  {
-    "appid": 3314160,
-    "subscriptionlinux": "released (Subscribed,Permanent,)",
-    "linux": true,
-    "subscriptionwindows": "released (Subscribed,Permanent,)",
-    "windows": true,
-    "name": "Dedicated Server (Linux)"
-  },
-  {
-    "appid": 3318060,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Cellulose Dedicated Server"
-  },
-  {
-    "appid": 3359640,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "ARK: Survival Ascended Beta Server"
   }
 ]

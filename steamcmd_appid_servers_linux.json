@@ -244,26 +244,6 @@
     "name": "Re.Poly Server"
   },
   {
-    "appid": 1203110,
-    "name": "BadLads Dedicated Server"
-  },
-  {
-    "appid": 1204170,
-    "name": "Onset Dedicated Server"
-  },
-  {
-    "appid": 1215190,
-    "name": "Warfare 1944 Dedicated Server"
-  },
-  {
-    "appid": 1222650,
-    "name": "Space Impossible Dedicated Server"
-  },
-  {
-    "appid": 1223310,
-    "name": "SRX Dedicated Server"
-  },
-  {
     "appid": 1247090,
     "name": "Stormworks Dedicated Server"
   },
@@ -374,10 +354,6 @@
   {
     "appid": 1475910,
     "name": "DIY Simulator Dedicated Server"
-  },
-  {
-    "appid": 1479670,
-    "name": "Zero-based World Dedicated Server"
   },
   {
     "appid": 1480080,
@@ -716,10 +692,6 @@
     "name": "ARK: Survival Ascended Dedicated Server"
   },
   {
-    "appid": 2440790,
-    "name": "DUOnline Server"
-  },
-  {
     "appid": 2465200,
     "name": "Sons Of The Forest Dedicated Server"
   },
@@ -730,10 +702,6 @@
   {
     "appid": 2533070,
     "name": "TerraTech Worlds Dedicated Server"
-  },
-  {
-    "appid": 2536350,
-    "name": "ZSGO Dedicated Server"
   },
   {
     "appid": 2570570,
@@ -800,10 +768,6 @@
     "name": "Dragons Legacy - Dedicated Server"
   },
   {
-    "appid": 2886350,
-    "name": "Sapiens Dedicated Server"
-  },
-  {
     "appid": 2915550,
     "name": "FOUNDRY: Dedicated Server"
   },
@@ -834,17 +798,5 @@
   {
     "appid": 3145770,
     "name": "Ruins To Fortress Dedicated Server"
-  },
-  {
-    "appid": 3267730,
-    "name": "Linux Dedicated Server Files"
-  },
-  {
-    "appid": 3267740,
-    "name": "Windows Dedicated Server Files"
-  },
-  {
-    "appid": 3314160,
-    "name": "Dedicated Server (Linux)"
   }
 ]
