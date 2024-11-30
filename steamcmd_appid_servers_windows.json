@@ -24,16 +24,48 @@
     "name": "Natural Selection 2 Dedicated Server"
   },
   {
+    "appid": 17505,
+    "name": "Zombie Panic! Source Dedicated Server"
+  },
+  {
+    "appid": 17515,
+    "name": "Age of Chivalry Dedicated Server"
+  },
+  {
     "appid": 17525,
     "name": "Synergy Dedicated Server"
   },
   {
-    "appid": 258550,
-    "name": "Rust Dedicated Server"
+    "appid": 17535,
+    "name": "D.I.P.R.I.P. Dedicated Server"
   },
   {
-    "appid": 912290,
-    "name": "Miscreated: Experimental Server"
+    "appid": 17555,
+    "name": "Eternal Silence Dedicated Server"
+  },
+  {
+    "appid": 17575,
+    "name": "Pirates, Vikings, and Knights II Dedicated Server"
+  },
+  {
+    "appid": 17585,
+    "name": "Dystopia Dedicated Server"
+  },
+  {
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server"
+  },
+  {
+    "appid": 41080,
+    "name": "Serious Sam 3 Dedicated Server"
+  },
+  {
+    "appid": 55280,
+    "name": "Homefront Dedicated Server"
+  },
+  {
+    "appid": 258550,
+    "name": "Rust Dedicated Server"
   },
   {
     "appid": 1075820,
@@ -104,8 +136,16 @@
     "name": "Nienix Dedicated Server"
   },
   {
+    "appid": 2329680,
+    "name": "NoOneSurvivedDedicatedServer"
+  },
+  {
     "appid": 2334200,
     "name": "The Front Linux Dedicated Server"
+  },
+  {
+    "appid": 2342570,
+    "name": "ISZDedicatedServer"
   },
   {
     "appid": 2353090,
@@ -138,10 +178,6 @@
   {
     "appid": 2465200,
     "name": "Sons Of The Forest Dedicated Server"
-  },
-  {
-    "appid": 2515600,
-    "name": "Your Journey of Survival Server"
   },
   {
     "appid": 2533070,
@@ -196,10 +232,6 @@
     "name": "SCP: EVENT CLASSIFIED (Dedicated Server)"
   },
   {
-    "appid": 2715080,
-    "name": "Native Hunter Dedicated Server"
-  },
-  {
     "appid": 2738040,
     "name": "Silica Dedicated Server"
   },
@@ -246,6 +278,18 @@
   {
     "appid": 2943070,
     "name": "Desynced Dedicated Server"
+  },
+  {
+    "appid": 2981140,
+    "name": "Coreborn Dedicated Server"
+  },
+  {
+    "appid": 2996130,
+    "name": "Deep Dark Forest Dedicated Server"
+  },
+  {
+    "appid": 2998560,
+    "name": "Caïssa Board Dedicated Server"
   },
   {
     "appid": 3017300,
