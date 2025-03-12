@@ -16,6 +16,26 @@
     "name": "Counter-Strike Global Offensive - Dedicated Server"
   },
   {
+    "appid": 17515,
+    "name": "Age of Chivalry Dedicated Server"
+  },
+  {
+    "appid": 17525,
+    "name": "Synergy Dedicated Server"
+  },
+  {
+    "appid": 17535,
+    "name": "D.I.P.R.I.P. Dedicated Server"
+  },
+  {
+    "appid": 17555,
+    "name": "Eternal Silence Dedicated Server"
+  },
+  {
+    "appid": 17705,
+    "name": "Insurgency Mod Dedicated Server"
+  },
+  {
     "appid": 258550,
     "name": "Rust Dedicated Server"
   },
@@ -26,13 +46,5 @@
   {
     "appid": 1075820,
     "name": "Green Army Men - Dedicated Server"
-  },
-  {
-    "appid": 3017300,
-    "name": "Soulmask Dedicated Server For Linux"
-  },
-  {
-    "appid": 3017310,
-    "name": "Soulmask Dedicated Server For Windows"
   }
 ]
