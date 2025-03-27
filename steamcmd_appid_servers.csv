@@ -17,18 +17,6 @@
 2460,"Bloody Good Time Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2740,"ThreadSpace: Hyperbol dedicated server","unknown (No License)","unknown (No License)",false,false
 4020,"Garry's Mod Dedicated Server","unknown (No License)","unknown (No License)",false,false
-4207,"Race Internal Beta Dedicated Server","unknown (No License)","unknown (No License)",false,false
-4210,"Race Internal Beta Dedicated Server","unknown (No License)","unknown (No License)",false,false
-4240,"Race Dedicated Server","unknown (No License)","unknown (No License)",false,false
-4270,"RACE 07 Demo Dedicated Server","unknown (No License)","unknown (No License)",false,false
-4940,"Natural Selection 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-8610,"RACE 07 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-8680,"RACE 07 Demo - Crowne Plaza Edition Dedicated Server","unknown (No License)","unknown (No License)",false,false
-8710,"STCC - The Game Demo Dedicated Server","unknown (No License)","unknown (No License)",false,false
-8730,"GTR Evolution Demo Dedicated Server","unknown (No License)","unknown (No License)",false,false
-8770,"RACE On - Demo: Dedicated Server","unknown (No License)","unknown (No License)",false,false
-10030,"Enemy Territory: QUAKE Wars Dedicated Server","unknown (No License)","unknown (No License)",false,false
-13180,"America's Army 3 Dedicated Server","unknown (No License)","unknown (No License)",false,false
 17505,"Zombie Panic! Source Dedicated Server","unknown (No License)","unknown (No License)",false,false
 17515,"Age of Chivalry Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 17525,"Synergy Dedicated Server","released (Subscribed,Invalid Platform,Permanent,)","released (Subscribed,Permanent,)",false,true
@@ -41,41 +29,8 @@
 17790,"Nuclear Dawn - Dev: Dedicated Server","unknown (No License)","unknown (No License)",false,false
 18112,"Shattered Horizon Dedicated Server","unknown (No License)","unknown (No License)",false,false
 25740,"Madballs In...Babo:Invasion Dedicated Server","unknown (No License)","unknown (No License)",false,false
-31720,"Iron Grip: Warlord Dedicated Server","unknown (No License)","unknown (No License)",false,false
-33905,"ARMA 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-33935,"Arma 2: Operation Arrowhead - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-34120,"Aliens vs Predator Dedicated Server","unknown (No License)","unknown (No License)",false,false
-34850,"Sniper: Ghost Warrior - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-39580,"Painkiller: Resurrection Dedicated Server","unknown (No License)","unknown (No License)",false,false
-41005,"Serious Sam HD Dedicated Server","unknown (No License)","unknown (No License)",false,false
-41015,"Serious Sam HD: The Second Encounter Dedicated Server","unknown (No License)","unknown (No License)",false,false
-41080,"Serious Sam 3 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-42750,"Call of Duty: Modern Warfare 3 - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-43210,"The Haunted: Hells Reach Dedicated Server","unknown (No License)","unknown (No License)",false,false
-44720,"RACE 07 Dedicated Server Beta","unknown (No License)","unknown (No License)",false,false
-55280,"Homefront Dedicated Server","unknown (No License)","unknown (No License)",false,false
-55290,"Homefront Dedicated Server [Japanese]","unknown (No License)","unknown (No License)",false,false
-57910,"Duke Nukem Forever Dedicated Server","unknown (No License)","unknown (No License)",false,false
-63220,"Monday Night Combat Dedicated Server","unknown (No License)","unknown (No License)",false,false
-70010,"Dino D-Day - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-72310,"Breach - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-72780,"Brink Dedicated Server","unknown (No License)","unknown (No License)",false,false
-91720,"E.Y.E - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-96810,"Nexuiz Dedicated Server","unknown (No License)","unknown (No License)",false,false
-105610,"Terraria - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-111710,"Nuclear Dawn - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-203300,"America's Army: Proving Grounds Dedicated Server","unknown (No License)","unknown (No License)",false,false
-208050,"Sniper Elite V2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-210370,"Starvoid Server","unknown (No License)","unknown (No License)",false,false
-212542,"Red Orchestra 2 - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-213040,"ORION: Prelude Dedicated Server","unknown (No License)","unknown (No License)",false,false
-239510,"America's Army: Proving Grounds Beta Dedicated Server","unknown (No License)","unknown (No License)",false,false
-244310,"Source SDK Base 2013 Dedicated Server","unknown (No License)","unknown (No License)",false,false
-255470,"Half-Life Deathmatch: Source Dedicated Server","unknown (No License)","unknown (No License)",false,false
+223350,"DayZ Server","unknown (No License)","unknown (No License)",false,false
 258550,"Rust Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
-261020,"Takedown: Red Sabre Dedicated Server","unknown (No License)","unknown (No License)",false,false
-273530,"Centration Dedicated Server","unknown (No License)","unknown (No License)",false,false
-276060,"Sven Co-op Dedicated Server","unknown (No License)","unknown (No License)",false,false
 293030,"Contagion Dedicated Server","unknown (No License)","unknown (No License)",false,false
 294420,"7 Days to Die Dedicated Server","unknown (No License)","unknown (No License)",false,false
 295230,"Fistful of Frags Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -89,6 +44,8 @@
 320850,"Life is Feudal: Your Own Dedicated Server","unknown (No License)","unknown (No License)",false,false
 324870,"RS/RO2 Alpha Community Maps - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 324890,"RS/RO2 Beta Community Maps - Dedicated Server","unknown (No License)","unknown (No License)",false,false
+328950,"SNOW Dedicated Server","unknown (No License)","unknown (No License)",false,false
+329710,"Fortress Forever Dedicated Server","unknown (No License)","unknown (No License)",false,false
 332670,"Project CARS - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 332850,"BlazeRush Dedicated Server","unknown (No License)","unknown (No License)",false,false
 336400,"PCE Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -117,36 +74,16 @@
 414570,"Crea Dedicated Server","unknown (No License)","unknown (No License)",false,false
 416880,"Ballistic Overkill Dedicated Server","unknown (No License)","unknown (No License)",false,false
 418480,"Rising Storm 2 - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-447760,"Automobilista - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-449740,"Alchemist's Awakening Dedicated Server","unknown (No License)","unknown (No License)",false,false
-450980,"Ultimate Arena FPS - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-451280,"Founder's Server : Exclusive Access 2","unknown (No License)","unknown (No License)",false,false
-451320,"Founder's Server : Exclusive Access 3","unknown (No License)","unknown (No License)",false,false
-453420,"Formicide Dedicated Server","unknown (No License)","unknown (No License)",false,false
+419790,"Eden Star Dedicated Server","unknown (No License)","unknown (No License)",false,false
+423410,"Blackwake Dedicated Server","unknown (No License)","unknown (No License)",false,false
+426660,"Robot Roller-Derby Disco Dodgeball Dedicated Server","unknown (No License)","unknown (No License)",false,false
+429400,"Warhammer 40,000: Dark Nexus Arena Dedicated Server","unknown (No License)","unknown (No License)",false,false
+439660,"Tower Unite Dedicated Server","unknown (No License)","unknown (No License)",false,false
+439700,"H1Z1: Test Server","unknown (No License)","unknown (No License)",false,false
+443030,"Conan Exiles Dedicated Server","unknown (No License)","unknown (No License)",false,false
+443050,"The Ship: Remasted Dedicated Server","unknown (No License)","unknown (No License)",false,false
 460040,"Empires Dedicated Server","unknown (No License)","unknown (No License)",false,false
-460300,"Ice Lakes Dedicated Server","unknown (No License)","unknown (No License)",false,false
-460320,"MetaTron Dedicated Server","unknown (No License)","unknown (No License)",false,false
-460670,"The Lost Island Dedicated Server","unknown (No License)","unknown (No License)",false,false
-462310,"Day of Infamy Dedicated Server","unknown (No License)","unknown (No License)",false,false
-472840,"Tree of Savior - Beginner's Pack for NA Servers","unknown (No License)","unknown (No License)",false,false
-472841,"Tree of Savior - Beginner's Pack for EU Servers","unknown (No License)","unknown (No License)",false,false
-472860,"Tree of Savior - Beginner's Pack for SEA Servers","unknown (No License)","unknown (No License)",false,false
-472861,"Tree of Savior - Beginner's Pack for SA Servers","unknown (No License)","unknown (No License)",false,false
-474800,"Tree of Savior - Veteran's Pack for NA Servers","unknown (No License)","unknown (No License)",false,false
-474802,"Tree of Savior - Veteran's Pack for EU Servers","unknown (No License)","unknown (No License)",false,false
-474803,"Tree of Savior - Veteran's Pack for SA Servers","unknown (No License)","unknown (No License)",false,false
-475370,"BrainBread 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
 476400,"GROUND BRANCH Dedicated Server","unknown (No License)","unknown (No License)",false,false
-485250,"The Black Death Dedicated Server","unknown (No License)","unknown (No License)",false,false
-489650,"Citadel: Forged With Fire Server","unknown (No License)","unknown (No License)",false,false
-490500,"Zero G Arena dedicated server","unknown (No License)","unknown (No License)",false,false
-493970,"Homebrew Vehicle Sandbox - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-497110,"Gang Beasts Server","unknown (No License)","unknown (No License)",false,false
-507320,"The Bus - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-516860,"Of Kings And Men Dedicated Server","unknown (No License)","unknown (No License)",false,false
-523390,"LandTraveller - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-525900,"Linux Dedicated Server","unknown (No License)","unknown (No License)",false,false
-526340,"Voxel Turf Dedicated Server","unknown (No License)","unknown (No License)",false,false
 530870,"Empyrion - Galactic Survival Dedicated Server","unknown (No License)","unknown (No License)",false,false
 532330,"Starbound Unstable Dedicated Server","unknown (No License)","unknown (No License)",false,false
 533830,"Starbound Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -176,12 +113,10 @@
 623990,"Tom Clancy's Rainbow Six Siege - Test Server","unknown (No License)","unknown (No License)",false,false
 628300,"Stellar Overload Dedicated Server","unknown (No License)","unknown (No License)",false,false
 629800,"MORDHAU Dedicated Server","unknown (No License)","unknown (No License)",false,false
-649390,"RutonyChat - Restream Server","unknown (No License)","unknown (No License)",false,false
-660470,"Dedicated Server","unknown (No License)","unknown (No License)",false,false
-667230,"Capsa Dedicated Server","unknown (No License)","unknown (No License)",false,false
-668390,"Hanako: Honor & Blade Dedicated Server","unknown (No License)","unknown (No License)",false,false
-673990,"IOSoccer Dedicated Server","unknown (No License)","unknown (No License)",false,false
-677100,"Valnir Rok Dedicated Server","unknown (No License)","unknown (No License)",false,false
+633290,"Stars End - Dedicated Server","unknown (No License)","unknown (No License)",false,false
+638100,"Kreedz Climbing Dedicated Server","unknown (No License)","unknown (No License)",false,false
+638500,"Soldat Dedicated Server","unknown (No License)","unknown (No License)",false,false
+643090,"Them's Fightin' Herds Dedicated Server","unknown (No License)","unknown (No License)",false,false
 679600,"Pantropy dedicated server","unknown (No License)","unknown (No License)",false,false
 680020,"Wasteworld Server","unknown (No License)","unknown (No License)",false,false
 680870,"Airmen Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -198,11 +133,7 @@
 696260,"Tree of Life - Experimental Server","unknown (No License)","unknown (No License)",false,false
 696640,"Radline + Dedicated Server (obsolete)","unknown (No License)","unknown (No License)",false,false
 704980,"Master Arena Server","unknown (No License)","unknown (No License)",false,false
-710560,"Ylands Dedicated Server","unknown (No License)","unknown (No License)",false,false
-713970,"The Simple Apocalypse Server","unknown (No License)","unknown (No License)",false,false
-723520,"SCP Project Dedicated Server","unknown (No License)","unknown (No License)",false,false
 728470,"ASTRONEER Dedicated Server","unknown (No License)","unknown (No License)",false,false
-730810,"Allegiance Server","unknown (No License)","unknown (No License)",false,false
 739120,"BattleRush Dedicated Server","unknown (No License)","unknown (No License)",false,false
 739590,"Eco Server","unknown (No License)","unknown (No License)",false,false
 745640,"Gamiflux Server","unknown (No License)","unknown (No License)",false,false
@@ -214,20 +145,8 @@
 762880,"Outpost Zero Dedicated Server","unknown (No License)","unknown (No License)",false,false
 764860,"Jetball Dedicated Server","unknown (No License)","unknown (No License)",false,false
 764940,"Fear the Night Server","unknown (No License)","unknown (No License)",false,false
-768700,"TOS - New Rank Booster for NA Servers","unknown (No License)","unknown (No License)",false,false
-768701,"TOS - New Rank Booster for EU Servers","unknown (No License)","unknown (No License)",false,false
-768702,"TOS - New Rank Booster for SEA Servers","unknown (No License)","unknown (No License)",false,false
-768703,"TOS - New Rank Booster for SA Servers","unknown (No License)","unknown (No License)",false,false
 770720,"Hunt: Showdown 1896 (Test Server)","unknown (No License)","unknown (No License)",false,false
-774061,"The Prison Game Dedicated Server Tool","unknown (No License)","unknown (No License)",false,false
-774771,"Original War Server","unknown (No License)","unknown (No License)",false,false
 774961,"Squad - Public Test Dedicated Server","unknown (No License)","unknown (No License)",false,false
-777030,"FTR Windows Server","unknown (No License)","unknown (No License)",false,false
-777180,"Game Server Toolbox","unknown (No License)","unknown (No License)",false,false
-779350,"TRAFICO - Battle Royale Test Server","unknown (No License)","unknown (No License)",false,false
-801230,"Fog Of War - Free Edition Dedicated Server","unknown (No License)","unknown (No License)",false,false
-805140,"BATTALION: Legacy Dedicated Server","unknown (No License)","unknown (No License)",false,false
-805210,"Undoing Dedicated Server Tool","unknown (No License)","unknown (No License)",false,false
 808040,"Smalland: Survive the Wilds - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 817300,"Base Defense Dedicated Server","unknown (No License)","unknown (No License)",false,false
 823850,"DARCO - Reign of Elements - Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -271,6 +190,10 @@
 976380,"Never Split the Party Dedicated Server","unknown (No License)","unknown (No License)",false,false
 983360,"Ancestors Legacy Dedicated Server","unknown (No License)","unknown (No License)",false,false
 985050,"Action: Source Dedicated Server","unknown (No License)","unknown (No License)",false,false
+988950,"Journey of Life - Dedicated Server","unknown (No License)","unknown (No License)",false,false
+996560,"SCP: Secret Laboratory Dedicated Server","unknown (No License)","unknown (No License)",false,false
+996600,"Heat Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1000090,"Meal of the Worms Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1003980,"Right to Rule Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1006030,"ATLAS Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1006890,"Gunsolvers: Dedicated server","unknown (No License)","unknown (No License)",false,false
@@ -320,9 +243,11 @@
 1222650,"Space Impossible Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1223310,"SRX Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1231430,"CFToolServer","unknown (No License)","unknown (No License)",false,false
-1301040,"Mod and Play Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1303430,"Gemini: Binary Conflict Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1307050,"Spoils of Plunder dedicated server","unknown (No License)","unknown (No License)",false,false
+1247090,"Stormworks Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1252670,"Logic World Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1255430,"Talvisota: Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1275530,"DeadsideServer","unknown (No License)","unknown (No License)",false,false
+1316480,"Operation: Harsh Doorstop - Developer Build Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1336240,"Automobilista 2 Beta - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1338040,"Automobilista 2 - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1339270,"POWER Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -330,21 +255,11 @@
 1377850,"Server is Down","unknown (No License)","unknown (No License)",false,false
 1380950,"Fadeout Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1386900,"Observer: System Redux","unknown (No License)","unknown (No License)",false,false
-1396070,"The Art of Observer System Redux","unknown (No License)","unknown (No License)",false,false
 1402480,"NARAKA: BLADEPOINT - Test Server","unknown (No License)","unknown (No License)",false,false
-1402890,"Observer: System Redux Demo","unknown (No License)","unknown (No License)",false,false
-1404690,"Paint Royale Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1405890,"Blood Oath: When The Sword Rises dedicated server","unknown (No License)","unknown (No License)",false,false
-1408910,"UGDL Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1413700,"TrickShot Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1418640,"Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1420480,"TrickShot Demo Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1420710,"Night of the Dead Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1424230,"Holdfast: Nations At War - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1427490,"ExoCorps Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1430110,"Assetto Corsa Competizione Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1433120,"STAR WARS™: The Old Republic™ - Public Test Server","unknown (No License)","unknown (No License)",false,false
-1433270,"SCP: Escape Together Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1460560,"Unclear Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1471190,"NARAKA: BLADEPOINT - Test Server Playtest","unknown (No License)","unknown (No License)",false,false
 1475910,"DIY Simulator Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1479670,"Zero-based World Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1480080,"Notruf 112 - 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -362,45 +277,25 @@
 1587690,"EZ2ON REBOOT : R (Test Server)","unknown (No License)","unknown (No License)",false,false
 1602470,"DOOMBRINGER Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1603250,"Cyberless: Online Server","unknown (No License)","unknown (No License)",false,false
-1717030,"Smerch Battle Arena - Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1722130,"Birthright Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1736750,"Kingdom of Atham: Server","unknown (No License)","unknown (No License)",false,false
-1738710,"SCP: Observer","unknown (No License)","unknown (No License)",false,false
-1738800,"Outworlder Server","unknown (No License)","unknown (No License)",false,false
-1740360,"SpiderHeck Dedicated Servers Playtest","unknown (No License)","unknown (No License)",false,false
-1748680,"Fight or Flight Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1750680,"Beryllium Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1750890,"N1LServerTool","unknown (No License)","unknown (No License)",false,false
-1757500,"Isles of Avalon Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1757540,"Axial Drift Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1769020,"Afterinfection Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1612490,"Insane Town Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1624070,"ArtemisheaServer","unknown (No License)","unknown (No License)",false,false
+1639880,"Longvinter Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1652070,"QANGA Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1653130,"Desperation Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1663160,"POW Windows Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1664300,"Animalia Survival Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1665030,"Nova-Life_GameServer","unknown (No License)","unknown (No License)",false,false
+1670340,"Craftopia Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1686460,"nanos world Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1688010,"GotG Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1690800,"Satisfactory Dedicated Server","unknown (No License)","unknown (No License)",false,false
+1696170,"Deadswitch 3 Multiplayer Server","unknown (No License)","unknown (No License)",false,false
+1697660,"Hellbreath Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1794810,"Myth of Empires Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1797170,"Thunder Tier One Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1801260,"Spawnworks Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1801280,"SCP: CB Multiplayer Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1812770,"Dead Event Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1815810,"Turbo Sliders Unlimited Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1816360,"Dysterra Playtest Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1821720,"FallenSkyServer","unknown (No License)","unknown (No License)",false,false
-1827320,"Isles of Yore Dedicated Server - Windows","unknown (No License)","unknown (No License)",false,false
-1827330,"Isles of Yore Dedicated Server - Linux","unknown (No License)","unknown (No License)",false,false
-1829350,"V Rising Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1830410,"Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1836200,"Fallout 76 Public Test Server","unknown (No License)","unknown (No License)",false,false
-1850430,"Outerstellar Server","unknown (No License)","unknown (No License)",false,false
-1850780,"Powerjackers Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1853570,"WTWServerFiles","unknown (No License)","unknown (No License)",false,false
-1860400,"Escape from Covid Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1863440,"Mount & Blade II: Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1865350,"Chunkers Server","unknown (No License)","unknown (No License)",false,false
-1869320,"Naval Action Server Access","unknown (No License)","unknown (No License)",false,false
 1874900,"Arma Reforger Server","unknown (No License)","unknown (No License)",false,false
 1875500,"Treason Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1890870,"Arma Reforger Experimental Server","unknown (No License)","unknown (No License)",false,false
 1892930,"s&box server","unknown (No License)","unknown (No License)",false,false
-1899880,"BadlandsDedicatedServer","unknown (No License)","unknown (No License)",false,false
-1899970,"BadlandsServerBeta","unknown (No License)","unknown (No License)",false,false
-1900210,"LGS Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1911460,"Infinite Progression Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1911970,"OverShoot Battle Race [ Dedicated Server ]","unknown (No License)","unknown (No License)",false,false
 1925900,"Server Owner Tycoon","unknown (No License)","unknown (No License)",false,false
@@ -413,15 +308,18 @@
 1948990,"Snapshot VR Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1951690,"Worst World Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1956500,"Draconia Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1963720,"Core Keeper Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1964150,"Perfect Heist 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1978540,"dedicated servers","unknown (No License)","unknown (No License)",false,false
 1978930,"Project Speed 2 Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1984310,"Animal Babysister Fighter Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1990390,"Splitgate - Test Server","unknown (No License)","unknown (No License)",false,false
 1992220,"Escape from Polykov - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2009240,"生死狙击2 Test Server","unknown (No License)","unknown (No License)",false,false
-2200460,"kraserServer","unknown (No License)","unknown (No License)",false,false
+2116400,"Bounters Playtest Server","unknown (No License)","unknown (No License)",false,false
+2122920,"KillOption Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2131400,"VEIN Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2132500,"LAZ3RZ Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2181210,"JBMod Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2192940,"Coronation Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2208380,"DeadPoly Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2214780,"Dysterra Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2218990,"Aeon Wars Test Server","unknown (No License)","unknown (No License)",false,false
@@ -459,7 +357,14 @@
 2409440,"New Citizen dedicated servers","unknown (No License)","unknown (No License)",false,false
 2414480,"Lost Isle Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2416070,"Shattered: Dedicated Server","unknown (No License)","unknown (No License)",false,false
-2515600,"Your Journey of Survival Server","unknown (No License)","unknown (No License)",false,false
+2430930,"ARK: Survival Ascended Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2440790,"DUOnline Server","unknown (No License)","unknown (No License)",false,false
+2454010,"Semicolon Island Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2454130,"Undead Outpost Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2465200,"Sons Of The Forest Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2533070,"TerraTech Worlds Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2536350,"ZSGO Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2560920,"LSZDedicatedServer","unknown (No License)","unknown (No License)",false,false
 2738040,"Silica Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2789180,"Project Asteroids Community Server","unknown (No License)","unknown (No License)",false,false
 2807720,"Project Chaos Server","unknown (No License)","unknown (No License)",false,false
@@ -472,22 +377,22 @@
 2849410,"Dragons Legacy - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2857200,"Abiotic Factor Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2886350,"Sapiens Dedicated Server","unknown (No License)","unknown (No License)",false,false
-2915100,"Echoes of Elysium Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2915550,"FOUNDRY: Dedicated Server","unknown (No License)","unknown (No License)",false,false
-2915930,"Knockout City - Private Server Edition","unknown (No License)","unknown (No License)",false,false
 2917780,"Primal Earth Dedicated Server","unknown (No License)","unknown (No License)",false,false
-2927090,"LAZERZ Dedicated Server","unknown (No License)","unknown (No License)",false,false
-2934900,"Astro Colony Dedicated Server Linux","unknown (No License)","unknown (No License)",false,false
 2943070,"Desynced Dedicated Server","unknown (No License)","unknown (No License)",false,false
 2948910,"CAMPS Server","unknown (No License)","unknown (No License)",false,false
-3145770,"Ruins To Fortress Dedicated Server","unknown (No License)","unknown (No License)",false,false
-3152160,"Neon Fever Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2981140,"Coreborn Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2995110,"Endzeit League 20XX Playtest Server","unknown (No License)","unknown (No License)",false,false
+2996130,"Deep Dark Forest Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2997810,"Homestead Dedicated Server","unknown (No License)","unknown (No License)",false,false
+2998560,"Caïssa Board Dedicated Server","unknown (No License)","unknown (No License)",false,false
+3093190,"Exfil Dedicated Server","unknown (No License)","unknown (No License)",false,false
+3099600,"Saleblazers Dedicated Server (Beta)","unknown (No License)","unknown (No License)",false,false
 3246670,"ASKA Dedicated Server","unknown (No License)","unknown (No License)",false,false
 3252540,"Ace Squared Dedicated Server","unknown (No License)","unknown (No License)",false,false
-3267730,"Linux Dedicated Server Files","unknown (No License)","unknown (No License)",false,false
-3267740,"Windows Dedicated Server Files","unknown (No License)","unknown (No License)",false,false
 3349480,"The Lord of the Rings: Return to Moria™ Dedicated Server","unknown (No License)","unknown (No License)",false,false
-3359640,"ARK: Survival Ascended Beta Server","unknown (No License)","unknown (No License)",false,false
+3392870,"Mainland Dedicated Server","unknown (No License)","unknown (No License)",false,false
+3393460,"绝世好武功测试 test server","unknown (No License)","unknown (No License)",false,false
 3400750,"Aritas: The Demon Lord Server","unknown (No License)","unknown (No License)",false,false
 3420170,"Dead Sector Dedicated Server","unknown (No License)","unknown (No License)",false,false
 3459440,"Project Asteroids - Community Server","unknown (No License)","unknown (No License)",false,false
