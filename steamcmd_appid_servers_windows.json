@@ -1,21 +1,5 @@
 [
   {
-    "appid": 90,
-    "name": "Half-Life Dedicated Server"
-  },
-  {
-    "appid": 205,
-    "name": "Source Dedicated Server"
-  },
-  {
-    "appid": 310,
-    "name": "Source 2007 Dedicated Server"
-  },
-  {
-    "appid": 740,
-    "name": "Counter-Strike Global Offensive - Dedicated Server"
-  },
-  {
     "appid": 17515,
     "name": "Age of Chivalry Dedicated Server"
   },
@@ -38,6 +22,10 @@
   {
     "appid": 258550,
     "name": "Rust Dedicated Server"
+  },
+  {
+    "appid": 912290,
+    "name": "Miscreated: Experimental Server"
   },
   {
     "appid": 1075820,
