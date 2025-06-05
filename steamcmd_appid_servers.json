@@ -4704,14 +4704,6 @@
     "name": "Project Asteroids Community Server"
   },
   {
-    "appid": 2792890,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Dedicated Server Creatures"
-  },
-  {
     "appid": 2807720,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -5198,6 +5190,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Codename CURE II Dedicated Server"
+  },
+  {
+    "appid": 3754950,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Starground Dedicated Server"
   },
   {
     "appid": 3765880,
