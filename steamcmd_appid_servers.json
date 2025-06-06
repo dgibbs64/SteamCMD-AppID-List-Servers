@@ -4024,14 +4024,6 @@
     "name": "dedicated servers"
   },
   {
-    "appid": 1978930,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Project Speed 2 Dedicated Server"
-  },
-  {
     "appid": 1984310,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
@@ -4542,14 +4534,6 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Sons Of The Forest Dedicated Server"
-  },
-  {
-    "appid": 2515600,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Your Journey of Survival Server"
   },
   {
     "appid": 2533070,
@@ -5205,7 +5189,7 @@
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
-    "name": "The Station: Observer Protocol"
+    "name": "Observer Protocol: The Station"
   },
   {
     "appid": 3767050,
