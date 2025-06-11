@@ -1323,7 +1323,7 @@
     "appid": 474802,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (No License)\u001b[1m",
     "windows": false,
     "name": "Tree of Savior - Veteran's Pack for EU Servers"
   },
@@ -2003,7 +2003,7 @@
     "appid": 713970,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (\u001b[1m",
     "windows": false,
     "name": "The Simple Apocalypse Server"
   },
