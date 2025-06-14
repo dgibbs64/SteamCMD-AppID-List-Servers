@@ -3937,7 +3937,7 @@
   },
   {
     "appid": 1932270,
-    "subscriptionlinux": "unknown (\u001b[1m",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -4318,14 +4318,6 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Enshrouded Dedicated Server"
-  },
-  {
-    "appid": 2286480,
-    "subscriptionlinux": "unknown (No License)",
-    "linux": false,
-    "subscriptionwindows": "unknown (No License)",
-    "windows": false,
-    "name": "Endless Survival Dedicated Server"
   },
   {
     "appid": 2291821,
@@ -5206,5 +5198,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "PolyPlaza - Dedicated Server"
+  },
+  {
+    "appid": 3814930,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Observer Protocol: The Station - Second Shift"
   }
 ]
