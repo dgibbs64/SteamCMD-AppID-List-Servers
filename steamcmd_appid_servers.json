@@ -3,7 +3,7 @@
     "appid": 5,
     "subscriptionlinux": "unknown (Subscribed,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (Subscribed,Permanent,)",
+    "subscriptionwindows": "unknown (\u001b[1m",
     "windows": false,
     "name": "Dedicated Server"
   },
@@ -2123,7 +2123,7 @@
     "appid": 768700,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown (\u001b[1m",
     "windows": false,
     "name": "TOS - New Rank Booster for NA Servers"
   },
@@ -2633,7 +2633,7 @@
   },
   {
     "appid": 1010510,
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (\u001b[1m",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
