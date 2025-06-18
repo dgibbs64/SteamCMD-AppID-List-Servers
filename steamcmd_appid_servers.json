@@ -3,7 +3,7 @@
     "appid": 5,
     "subscriptionlinux": "unknown (Subscribed,Permanent,)",
     "linux": false,
-    "subscriptionwindows": "unknown (\u001b[1m",
+    "subscriptionwindows": "unknown (Subscribed,Permanent,)",
     "windows": false,
     "name": "Dedicated Server"
   },
@@ -2123,7 +2123,7 @@
     "appid": 768700,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (\u001b[1m",
+    "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "TOS - New Rank Booster for NA Servers"
   },
@@ -2633,7 +2633,7 @@
   },
   {
     "appid": 1010510,
-    "subscriptionlinux": "unknown (\u001b[1m",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -2721,7 +2721,7 @@
   },
   {
     "appid": 1054680,
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (\u001b[1mNo License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -3785,7 +3785,7 @@
   },
   {
     "appid": 1836200,
-    "subscriptionlinux": "unknown (No License)",
+    "subscriptionlinux": "unknown (\u001b[1m",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -5198,6 +5198,14 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "PolyPlaza - Dedicated Server"
+  },
+  {
+    "appid": 3792580,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "SCUM Server"
   },
   {
     "appid": 3814930,

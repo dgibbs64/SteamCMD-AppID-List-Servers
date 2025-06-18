@@ -1,4 +1,4 @@
-5,"Dedicated Server","unknown (Subscribed,Permanent,)","unknown ([1m",false,false
+5,"Dedicated Server","unknown (Subscribed,Permanent,)","unknown (Subscribed,Permanent,)",false,false
 90,"Half-Life Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 205,"Source Dedicated Server","released (Subscribed,Permanent,)","released (Subscribed,Permanent,)",true,true
 210,"Source Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -263,7 +263,7 @@
 762880,"Outpost Zero Dedicated Server","unknown (No License)","unknown (No License)",false,false
 764860,"Jetball Dedicated Server","unknown (No License)","unknown (No License)",false,false
 764940,"Fear the Night Server","unknown (No License)","unknown (No License)",false,false
-768700,"TOS - New Rank Booster for NA Servers","unknown (No License)","unknown ([1m",false,false
+768700,"TOS - New Rank Booster for NA Servers","unknown (No License)","unknown (No License)",false,false
 768701,"TOS - New Rank Booster for EU Servers","unknown (No License)","unknown (No License)",false,false
 768702,"TOS - New Rank Booster for SEA Servers","unknown (No License)","unknown (No License)",false,false
 768703,"TOS - New Rank Booster for SA Servers","unknown (No License)","unknown (No License)",false,false
@@ -327,7 +327,7 @@
 1003980,"Right to Rule Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1006030,"ATLAS Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1006890,"Gunsolvers: Dedicated server","unknown (No License)","unknown (No License)",false,false
-1010510,"DCB Server","unknown ([1m","unknown (No License)",false,false
+1010510,"DCB Server","unknown (No License)","unknown (No License)",false,false
 1012730,"九劫曲:诅咒之地 Nine Trials Test Server","unknown (No License)","unknown (No License)",false,false
 1017070,"Vanguard: Normandy 1944 Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1023620,"PlayerVs Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -338,7 +338,7 @@
 1045940,"HYPERCHARGE: Unboxed Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1047650,"Road to Eden - Dedicated server","unknown (No License)","unknown (No License)",false,false
 1050410,"UP Server","unknown (No License)","unknown (No License)",false,false
-1054680,"Observers Demo","unknown (No License)","unknown (No License)",false,false
+1054680,"Observers Demo","unknown ([1mNo License)","unknown (No License)",false,false
 1061710,"CryoFall Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1064780,"Beyond The Wire - Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1071470,"Planetes Community Dedicated Server","unknown (No License)","unknown (No License)",false,false
@@ -471,7 +471,7 @@
 1827330,"Isles of Yore Dedicated Server - Linux","unknown (No License)","unknown (No License)",false,false
 1829350,"V Rising Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1830410,"Dedicated Server","unknown (No License)","unknown (No License)",false,false
-1836200,"Fallout 76 Public Test Server","unknown (No License)","unknown (No License)",false,false
+1836200,"Fallout 76 Public Test Server","unknown ([1m","unknown (No License)",false,false
 1850430,"Outerstellar Server","unknown (No License)","unknown (No License)",false,false
 1850780,"Powerjackers Dedicated Server","unknown (No License)","unknown (No License)",false,false
 1853570,"WTWServerFiles","unknown (No License)","unknown (No License)",false,false
@@ -648,4 +648,5 @@
 3765880,"Observer Protocol: The Station","unknown (No License)","unknown (No License)",false,false
 3767050,"The Station: Observer Protocol Demo","unknown (No License)","unknown (No License)",false,false
 3784990,"PolyPlaza - Dedicated Server","unknown (No License)","unknown (No License)",false,false
+3792580,"SCUM Server","unknown (No License)","unknown (No License)",false,false
 3814930,"Observer Protocol: The Station - Second Shift","unknown (No License)","unknown (No License)",false,false
