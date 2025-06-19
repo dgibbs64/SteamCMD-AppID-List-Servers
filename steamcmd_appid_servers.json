@@ -2721,7 +2721,7 @@
   },
   {
     "appid": 1054680,
-    "subscriptionlinux": "unknown (\u001b[1mNo License)",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -3785,7 +3785,7 @@
   },
   {
     "appid": 1836200,
-    "subscriptionlinux": "unknown (\u001b[1m",
+    "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
@@ -5208,11 +5208,27 @@
     "name": "SCUM Server"
   },
   {
+    "appid": 3807770,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Voice of Chernobyl - Dedicated Server"
+  },
+  {
     "appid": 3814930,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Observer Protocol: The Station - Second Shift"
+  },
+  {
+    "appid": 3817740,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Observer Protocol: The Station - Final Shift"
   }
 ]
