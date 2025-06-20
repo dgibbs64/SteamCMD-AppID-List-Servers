@@ -3275,7 +3275,7 @@
     "appid": 1420480,
     "subscriptionlinux": "unknown (No License)",
     "linux": false,
-    "subscriptionwindows": "unknown (No License)",
+    "subscriptionwindows": "unknown ( 3392870No License)",
     "windows": false,
     "name": "TrickShot Demo Dedicated Server"
   },
@@ -5230,5 +5230,13 @@
     "subscriptionwindows": "unknown (No License)",
     "windows": false,
     "name": "Observer Protocol: The Station - Final Shift"
+  },
+  {
+    "appid": 3822900,
+    "subscriptionlinux": "unknown (No License)",
+    "linux": false,
+    "subscriptionwindows": "unknown (No License)",
+    "windows": false,
+    "name": "Resilience Server"
   }
 ]
